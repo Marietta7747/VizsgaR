@@ -338,10 +338,13 @@ try {
 <!-- -----------------------------------------------------------------------------------------------------FOOTER END--------------------------------------------------------------------------------------------------- -->
 
     <script>
-        const today = new Date();
-        document.getElementById("datePicker").value = today.toISOString().split("T")[0];
-        document.getElementById("datePicker").min = today.toISOString().split("T")[0];
+/*--------------------------------------------------------------------------------------------------------JAVASCRIPT - DATE PICKER---------------------------------------------------------------------------------------*/
+    const today = new Date();
+    document.getElementById("datePicker").value = today.toISOString().split("T")[0];
+    document.getElementById("datePicker").min = today.toISOString().split("T")[0];
+/*--------------------------------------------------------------------------------------------------------DATE PICKER END------------------------------------------------------------------------------------------------*/
 
+/*--------------------------------------------------------------------------------------------------------JAVASCRIPT - BUS ARRAY-----------------------------------------------------------------------------------------*/
         const busRoutesIdo = [
             {
                 "number": "12",
@@ -714,7 +717,9 @@ try {
             }
 
         ];
-
+/*--------------------------------------------------------------------------------------------------------BUS ARRAY END--------------------------------------------------------------------------------------------------*/
+        
+/*--------------------------------------------------------------------------------------------------------JAVASCRIPT - DISPLAY ROUTES------------------------------------------------------------------------------------*/
         // Parse the query string to get the route number and dayGoes
         const urlParams = new URLSearchParams(window.location.search);
         const routeNumber = urlParams.get('routeNumber');
@@ -796,6 +801,14 @@ try {
         // Global flag to toggle between showing forward/backward times
         let showBackTimes = false;
 
+        // Helper function to check if the selected date is a weekend
+        function isWeekend(date) {
+            const day = date.getDay(); // 0 is Sunday, 6 is Saturday
+            return day === 0 || day === 6;
+        }
+/*--------------------------------------------------------------------------------------------------------DISPLAY ROUTES END--------------------------------------------------------------------------------------------*/
+
+/*---------------------------------------------------------------------------------------------------------JAVASCRIPT - SWITCH FUNCTION----------------------------------------------------------------------------------*/
         function swicth() {
             // Find the route object based on the current routeNumber
             const route = busRoutesIdo.find(r => r.number === routeNumber);
@@ -862,12 +875,14 @@ try {
                 switchBtn.disabled = false;
             }
         }
+/*---------------------------------------------------------------------------------------------------------SWITCH FUNCTION END-------------------------------------------------------------------------------------------*/
 
-        // Helper function to check if the selected date is a weekend
-        function isWeekend(date) {
-            const day = date.getDay(); // 0 is Sunday, 6 is Saturday
-            return day === 0 || day === 6;
-        }
+/*---------------------------------------------------------------------------------------------------------JAVASCRIPT - BACK BUTTON--------------------------------------------------------------------------------------*/
+        document.getElementById('backBtn').addEventListener('click', function() {
+            window.location.href = 'jaratok.php'; // Redirect to jaratok.php
+        });
+/*---------------------------------------------------------------------------------------------------------BACK BUTTON END-----------------------------------------------------------------------------------------------*/
+
     </script>
 </body>
 </html>
