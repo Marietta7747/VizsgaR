@@ -49,215 +49,215 @@ if (!isset($_SESSION['user_id'])) {
         }
 
         
-      /*--------------------------------------------------------------------------------------------------------CSS - HEADER---------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------CSS - HEADER---------------------------------------------------------------------------------------------------*/
       .header {
-    position: relative;
-    background: var(--primary-color);
-    color: var(--text-light);
-    padding: 1rem;
-    box-shadow: 0 2px 10px var(--shadow-color);
-}
+            position: relative;
+            background: var(--primary-color);
+            color: var(--text-light);
+            padding: 1rem;
+            box-shadow: 0 2px 10px var(--shadow-color);
+        }
 
-.header h1 {
-    margin: 0;
-    text-align: center;
-    font-size: 2rem;
-    padding: 1rem 0;
-}
+        .header h1 {
+            margin: 0;
+            text-align: center;
+            font-size: 2rem;
+            padding: 1rem 0;
+        }
 
-.nav-wrapper {
-    position: absolute;
-    top: 1rem;
-    left: 1rem;
-    z-index: 1000;
-}
+        .nav-wrapper {
+            position: absolute;
+            top: 1rem;
+            left: 1rem;
+            z-index: 1000;
+        }
 
-.nav-container {
-    position: relative;
-}
+        .nav-container {
+            position: relative;
+        }
 
-.menu-btn {
-    background: none;
-    border: none;
-    border-radius: 8px;
-    padding: 12px;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: all 0.3s ease;
-    box-shadow: 0 4px 6px var(--shadow-color);
-}
+        .menu-btn {
+            background: none;
+            border: none;
+            border-radius: 8px;
+            padding: 12px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px var(--shadow-color);
+        }
 
-.menu-btn:hover {
-    background: none;
-    transform: translateY(-2px);
-    box-shadow: 0 6px 12px var(--shadow-color);
-}
+        .menu-btn:hover {
+            background: none;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px var(--shadow-color);
+        }
 
-.hamburger {
-    position: relative;
-    width: 30px;
-    height: 20px;
-}
+        .hamburger {
+            position: relative;
+            width: 30px;
+            height: 20px;
+        }
 
-.hamburger span {
-    position: absolute;
-    width: 100%;
-    height: 3px;
-    background: var(--text-light);
-    border-radius: 3px;
-    transition: all 0.3s ease;
-}
+        .hamburger span {
+            position: absolute;
+            width: 100%;
+            height: 3px;
+            background: var(--text-light);
+            border-radius: 3px;
+            transition: all 0.3s ease;
+        }
 
-.hamburger span:nth-child(1) { top: 0; }
-.hamburger span:nth-child(2) { top: 50%; transform: translateY(-50%); }
-.hamburger span:nth-child(3) { bottom: 0; }
+        .hamburger span:nth-child(1) { top: 0; }
+        .hamburger span:nth-child(2) { top: 50%; transform: translateY(-50%); }
+        .hamburger span:nth-child(3) { bottom: 0; }
 
-.menu-btn.active .hamburger span:nth-child(1) {
-    transform: rotate(45deg) translate(5px, 5px);
-}
+        .menu-btn.active .hamburger span:nth-child(1) {
+            transform: rotate(45deg) translate(5px, 5px);
+        }
 
-.menu-btn.active .hamburger span:nth-child(2) {
-    opacity: 0;
-}
+        .menu-btn.active .hamburger span:nth-child(2) {
+            opacity: 0;
+        }
 
-.menu-btn.active .hamburger span:nth-child(3) {
-    transform: rotate(-45deg) translate(7px, -7px);
-}
+        .menu-btn.active .hamburger span:nth-child(3) {
+            transform: rotate(-45deg) translate(7px, -7px);
+        }
 
-.dropdown-menu {
-    position: absolute;
-    top: calc(100% + 1rem);
-    left: 0;
-    background: var(--text-light);
-    border-radius: 12px;
-    min-width: 280px;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(-20px);
-    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-    box-shadow: 0 10px 30px var(--shadow-color);
-    overflow: hidden;
-}
+        .dropdown-menu {
+            position: absolute;
+            top: calc(100% + 1rem);
+            left: 0;
+            background: var(--text-light);
+            border-radius: 12px;
+            min-width: 280px;
+            opacity: 0;
+            visibility: hidden;
+            transform: translateY(-20px);
+            transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+            box-shadow: 0 10px 30px var(--shadow-color);
+            overflow: hidden;
+        }
 
-.dropdown-menu.active {
-    opacity: 1;
-    visibility: visible;
-    transform: translateY(0);
-}
+        .dropdown-menu.active {
+            opacity: 1;
+            visibility: visible;
+            transform: translateY(0);
+        }
 
-.menu-items {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
+        .menu-items {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
 
-.menu-items li {
-    transform: translateX(-100%);
-    opacity: 0;
-    transition: all 0.3s ease;
-}
+        .menu-items li {
+            transform: translateX(-100%);
+            opacity: 0;
+            transition: all 0.3s ease;
+        }
 
-.dropdown-menu.active .menu-items li {
-    transform: translateX(0);
-    opacity: 1;
-}
+        .dropdown-menu.active .menu-items li {
+            transform: translateX(0);
+            opacity: 1;
+        }
 
-.menu-items li:nth-child(1) { transition-delay: 0.1s; }
-.menu-items li:nth-child(2) { transition-delay: 0.2s; }
-.menu-items li:nth-child(3) { transition-delay: 0.3s; }
-.menu-items li:nth-child(4) { transition-delay: 0.4s; }
-.menu-items li:nth-child(5) { transition-delay: 0.5s; }
+        .menu-items li:nth-child(1) { transition-delay: 0.1s; }
+        .menu-items li:nth-child(2) { transition-delay: 0.2s; }
+        .menu-items li:nth-child(3) { transition-delay: 0.3s; }
+        .menu-items li:nth-child(4) { transition-delay: 0.4s; }
+        .menu-items li:nth-child(5) { transition-delay: 0.5s; }
 
-.menu-items a {
-    display: flex;
-    align-items: center;
-    padding: 1rem 1.5rem;
-    color: black;
-    text-decoration: none;
-    font-weight: 500;
-    transition: all 0.3s ease;
-    position: relative;
-    overflow: hidden;
-}
+        .menu-items a {
+            display: flex;
+            align-items: center;
+            padding: 1rem 1.5rem;
+            color: black;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
 
-.menu-items a:hover {
-    background: linear-gradient(to right, #211717,#b30000);
-    color: white;
-    padding-left: 2rem;
-}
+        .menu-items a:hover {
+            background: linear-gradient(to right, #211717,#b30000);
+            color: white;
+            padding-left: 2rem;
+        }
 
-.menu-items a::before {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
-    height: 100%;
-    width: 4px;
-    background: darkred;
-    transform: scaleY(0);
-    transition: transform 0.3s ease;
-}
+        .menu-items a::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            height: 100%;
+            width: 4px;
+            background: darkred;
+            transform: scaleY(0);
+            transition: transform 0.3s ease;
+        }
 
-.menu-items a:hover::before {
-    transform: scaleY(1);
-}
+        .menu-items a:hover::before {
+            transform: scaleY(1);
+        }
 
-.menu-items a img {
-    width: 24px;
-    height: 24px;
-    margin-right: 12px;
-    transition: transform 0.3s ease;
-}
+        .menu-items a img {
+            width: 24px;
+            height: 24px;
+            margin-right: 12px;
+            transition: transform 0.3s ease;
+        }
 
-.menu-items a:hover img {
-    transform: scale(1.2) rotate(5deg);
-}
+        .menu-items a:hover img {
+            transform: scale(1.2) rotate(5deg);
+        }
 
-.menu-items a span {
-    font-size: 17px;
-}
+        .menu-items a span {
+            font-size: 17px;
+        }
 
 
-.menu-items a.active {
-    background: white;
-    color: black;
-    font-weight: 600;
-}
+        .menu-items a.active {
+            background: white;
+            color: black;
+            font-weight: 600;
+        }
 
-.menu-items a.active::before {
-    transform: scaleY(1);
-}
+        .menu-items a.active::before {
+            transform: scaleY(1);
+        }
 
-@keyframes ripple {
-    0% {
-        transform: scale(0);
-        opacity: 1;
-    }
-    100% {
-        transform: scale(2);
-        opacity: 0;
-    }
-}
+        @keyframes ripple {
+            0% {
+                transform: scale(0);
+                opacity: 1;
+            }
+            100% {
+                transform: scale(2);
+                opacity: 0;
+            }
+        }
 
-.menu-items a::after {
-    content: '';
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background: gray;
-    left: 0;
-    top: 0;
-    transform: scale(0);
-    opacity: 0;
-    pointer-events: none;
-    transition: all 0.5s ease;
-}
+        .menu-items a::after {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: gray;
+            left: 0;
+            top: 0;
+            transform: scale(0);
+            opacity: 0;
+            pointer-events: none;
+            transition: all 0.5s ease;
+        }
 
-.menu-items a:active::after {
-    animation: ripple 0.6s ease-out;
-}
+        .menu-items a:active::after {
+            animation: ripple 0.6s ease-out;
+        }
 /*--------------------------------------------------------------------------------------------------------HEADER END-----------------------------------------------------------------------------------------------------*/
 
 /*--------------------------------------------------------------------------------------------------------CSS - OTHER PARTS----------------------------------------------------------------------------------------------*/
@@ -343,107 +343,103 @@ if (!isset($_SESSION['user_id'])) {
         }
 
         .schedule-container {
-    border-radius: 12px;
-    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.8);
-    overflow: hidden;
-    position: relative;
-}
+            border-radius: 12px;
+            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.8);
+            overflow: hidden;
+            position: relative;
+        }
+
+        .schedule-header {
+            background: var(--primary-color);
+            color: var(--text-light);
+            padding: 20px;
+            font-size: 2.2em;
+            text-align: center;
+            font-family: 'Poppins', sans-serif;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            position: relative;
+        }
 
 
+        @keyframes headerLine {
+            0% {
+                width: 0;
+            }
+            50% {
+                width: 100%;
+            }
+            100% {
+                width: 0;
+            }
+        }
 
-.schedule-header {
-    background: var(--primary-color);
-    color: var(--text-light);
-    padding: 20px;
-    font-size: 2.2em;
-    text-align: center;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    position: relative;
-}
-
-
-@keyframes headerLine {
-    0% {
-        width: 0;
-    }
-    50% {
-        width: 100%;
-    }
-    100% {
-        width: 0;
-    }
-}
-
-/* A táblázat megjelenéséhez */
-#schedule {
-    width: 100%;
-    border-collapse: collapse;
-    font-family: 'Poppins', sans-serif;
-    border-radius: 0 10px 0 10px
-    overflow: hidden;
-}
+        /* A táblázat megjelenéséhez */
+        #schedule {
+            width: 100%;
+            border-collapse: collapse;
+            font-family: 'Poppins', sans-serif;
+            border-radius: 0 10px 0 10px
+            overflow: hidden;
+        }
 
 
-#schedule th, #schedule td {
-    padding: 18px 20px;
-    text-align: left;
-    font-size: 20px;
-    border-bottom: 1px solid var(--border-color);
-    color: #333;
-    background: none; 
-}
+        #schedule th, #schedule td {
+            padding: 18px 20px;
+            text-align: left;
+            font-size: 20px;
+            border-bottom: 1px solid var(--border-color);
+            color: #333;
+            background: none; 
+        }
 
-#schedule th {
-    background-color: var(--table-header-bg);
-    color: var(--text-light);
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
-}
-
-
-.schedule-info {
-    background: #000000; /* Fekete háttér alapértelmezett */
-    color: var(--text-light);
-    font-size: 1.2em;
-    padding: 12px;
-    margin: 10px 0;
-    text-align: left;
-    font-family: 'Poppins', sans-serif;
-    border: none;
-    box-shadow: none;
-ó}
-
-/* Fehér háttér, ha gombra kattintanak */
-.schedule-info.active {
-    background: #000;
-}
-
-/* Gomb stílus */
-button.route-button {
-    background: var(--accent-color);
-    color: var(--text-light);
-    border: none;
-    border-radius: 25px;
-    padding: 12px 30px;
-    font-family: 'Poppins', sans-serif;
-    font-size: 1.2em;
-    font-weight: 600;
-    text-transform: uppercase;
-    cursor: pointer;
-}
-
-button.route-button:hover {
-    background: var(--hover-color);
-    transform: translateY(-4px);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-}
+        #schedule th {
+            background-color: var(--table-header-bg);
+            color: var(--text-light);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
 
 
+        .schedule-info {
+            background: #000000; /* Fekete háttér alapértelmezett */
+            color: var(--text-light);
+            font-size: 1.2em;
+            padding: 12px;
+            margin: 10px 0;
+            text-align: left;
+            font-family: 'Poppins', sans-serif;
+            border: none;
+            box-shadow: none;
+        ó}
+
+        /* Fehér háttér, ha gombra kattintanak */
+        .schedule-info.active {
+            background: #000;
+        }
+
+        /* Gomb stílus */
+        button.route-button {
+            background: var(--accent-color);
+            color: var(--text-light);
+            border: none;
+            border-radius: 25px;
+            padding: 12px 30px;
+            font-family: 'Poppins', sans-serif;
+            font-size: 1.2em;
+            font-weight: 600;
+            text-transform: uppercase;
+            cursor: pointer;
+        }
+
+        button.route-button:hover {
+            background: var(--hover-color);
+            transform: translateY(-4px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+        }
         .transport-type {
             display: flex;
             align-items: center;
@@ -517,7 +513,7 @@ button.route-button:hover {
 /*--------------------------------------------------------------------------------------------------------@MEDIA END-----------------------------------------------------------------------------------------------------*/
 
 /*---------------------------------------------------------------------------------------------------------CSS FOOTER------------------------------------------------------------------------------------------------------*/
-footer {
+        footer {
             text-align: center;
             padding: 10px;
             border-radius: 10px;
@@ -877,7 +873,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     {name: "Kaposvár,Dombóvári u. 4.", lat: 46.363947670980195 , lng:    17.833637595176697    } ,                                                                    
                     {name: "Kaposvári Egyetem forduló", lat: 46.384574192377820 , lng:    17.826073765754700    } ,                                                                                     
                     {name: "Kaposvár,Virág u.", lat: 46.358487167595270 , lng:    17.803862392902374    } ,                                                                                 
-                    {name: "Kaposvár,Pázmány P. u.", lat: 46.360912068665720 , lng:    17.801375985145570    } ,                                                                               
+                    {name: "Kaposvár,Pázmány P. u. 1.", lat: 46.360912068665720 , lng:    17.801375985145570    } ,                                                                               
                     {name: "Kaposvár,Vöröstelek u.", lat: 46.364267880170260 , lng:    17.799975872039795    } ,                                                                                     
                     {name: "Kaposvár,Hegyi u.", lat: 46.367684561948180 , lng:    17.797811329364777    } ,                                                                           
                     {name: "Kaposvár,Tallián Gy. u. 4.", lat: 46.357163607490010 , lng:    17.797277569770813    } ,                                                                                      
@@ -1117,7 +1113,7 @@ const busStations = [
     "Kaposvár Dombóvári utca 4.", 
     "Kaposvár Kaposvári Egyetem forduló", 
     "Kaposvár Virág utca", 
-    "Kaposvár Pázmány Péter utca", 
+    "Kaposvár Pázmány Péter utca 1.", 
     "Kaposvár Vöröstelek utca", 
     "Kaposvár Hegyi utca", 
     "Kaposvár Tallián Gyula utca 4.", 
