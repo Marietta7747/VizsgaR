@@ -527,11 +527,13 @@ try {
                 "stopsTime": ["20:30","20:31","20:34","20:36","20:38","20:40","20:41","20:42","20:43","20:45"],
             },
             {
-                "start": "06:10",
-                "number": "13",
-                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
-                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
-                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+                "start": "06:15",
+                "number": "20",
+                "name": "Raktár u. - Laktanya - Videoton", 
+                "stops": ["Raktár u.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u."
+                ,"Laktanya","Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","ÁNTSZ","Pázmány P. u.","Kisgát","Mező u. csp.","Kenyérgyár u. 1.","Videoton"],
+                "stopsTime": ["06:15","06:16","06:17","06:18","06:19","06:20","06:21","06:22","06:23","06:24","06:25","06:26","06:27","06:28","06:29","06:31","06:32","06:33"
+                ,"06:35","06:36","06:37","06:38","06:39","06:40"],
             },
         ];
 
