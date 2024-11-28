@@ -526,6 +526,13 @@ try {
                 "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
                 "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
             },
+            {
+                "start": "06:10",
+                "number": "13",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+            },
         ];
 
         // Parse the query string to get the time number and dayGoes
