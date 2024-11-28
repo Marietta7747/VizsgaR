@@ -83,7 +83,7 @@ try {
 /*--------------------------------------------------------------------------------------------------------HEADER END-----------------------------------------------------------------------------------------------------*/
 
 /*--------------------------------------------------------------------------------------------------------CSS - OTHER PARTS----------------------------------------------------------------------------------------------*/
-        .route-container {
+        .time-container {
             display: inline;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             padding: 2rem;
@@ -91,7 +91,7 @@ try {
             margin: 0 auto;
         }
 
-        .route-card {
+        .time-card {
             background: #fbfbfb;
             width: 1200px;
             border-radius: 20px;
@@ -104,27 +104,24 @@ try {
             color: #636363;
         }
 
-        .start-time-card {
-            margin: 5px 0;
-        }
-
-        .route-card:hover{
+        .time-card:hover{
             color: 000;
             background: #E9E8E8;
             transform: translateY(-5px);
             box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
         }
 
-        .routeCon{
+        .timeCon{
             background: #fbfbfb;
             width: 97.5%;
+            height: 60%;
             margin-bottom: 5px;
             padding: 20px;
         }
 
-        .route-number {
+        .time-number {
             background: #b30000;
-            display: flex;
+            display: inline-block;
             width: 3%;
             height: 60%;
             font-size: 2.5rem;
@@ -133,44 +130,51 @@ try {
             padding-left: 20px;
             padding-right: 15px;
             color: var(--text-light);
-            margin-left: 16%;
+            margin-left: 17%;
         }
 
-        .route-name{
+        .time-name{
             display: inline-block;
             color: #636363;
             font-size: 1.5rem;
             font-weight: bold;
-            margin-left: 16%;
+            margin-left: 17%;
         }
 
         .switchBtn{
-            display: inline-block;
+            display: inline;
             float: right;
             background: #fbfbfb;
-            margin-right: 19%;
+            margin-right: 16%;
         }
 
-        .route-time{
+        .switchBtn:hover{
+            background: #E9E8E8;
+        }
+
+        .time{
             display: inline-block;
             float: right;
-            margin-right: 19%;
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-right: 16%;
+            margin-top: 1%;
         }
 
-        .route-date{
+        .time-date{
             display: inline-block;
             float: center;
         }
 
         #datePicker{
-            margin-left: 45%;
-            font-size: 1rem;
+            margin-left: 215%;
+            font-size: 1.25rem;
             background-color: #fbfbfb;
             color: #211717;
             border: 1px solid #fff;
         } 
 
-        .route-details {
+        .time-details {
             display: flex;
             flex-direction: column;
             gap: 0.8rem;
@@ -256,13 +260,42 @@ try {
                 font-size: 1.5rem;
             }
 
-            .route-container {
+            .time-container {
                 grid-template-columns: 1fr;
                 padding: 1rem;
             }
 
-            .route-card{
+            .time-card{
                 width: 340px;
+            }
+
+            .time-number{
+                margin-left: 0;
+                padding-right: 60px;
+            }
+
+            .time-name{
+                margin-left: 0;
+            }
+
+            .timeCon{
+                width: 345px;
+            }
+
+            .switchBtn{
+                margin-right: 0;
+            }
+
+            .header h1{
+                margin-left: 2%;
+            }
+
+            #datePicker{
+                margin-left: 28%;
+            }
+
+            .backBtn{
+                width: 15%;
             }
         }
 /*--------------------------------------------------------------------------------------------------------@MEDIA END-----------------------------------------------------------------------------------------------------*/
@@ -271,16 +304,16 @@ try {
 </head>
 <body>
     <div class="header">
-            <button class="backBtn" id=backBtn><i class="fa-solid fa-chevron-left"></i></button>
+            <button class="backBtn" id=bckBtn><i class="fa-solid fa-chevron-left"></i></button>
             <h1><i class="fas fa-bus"></i> Kaposvár Helyi Járatok</h1> 
             
         </div>
 
-        <div id="routeNumCon" class="routeCon"></div>
-        <div id="routeNameCon" class="routeCon"></div>
+        <div id="timeNumCon" class="timeCon"></div>
+        <div id="timeNameCon" class="timeCon"></div>
 
 
-        <div id="routeContainer" class="route-container"></div>
+        <div id="timeContainer" class="time-container"></div>
 
 <!-- -----------------------------------------------------------------------------------------------------HTML - FOOTER------------------------------------------------------------------------------------------------ -->
     <footer>
@@ -312,88 +345,244 @@ try {
 <!-- -----------------------------------------------------------------------------------------------------FOOTER END--------------------------------------------------------------------------------------------------- -->
 
     <script>
-        const today = new Date();
-        document.getElementById("datePicker").value = today.toISOString().split("T")[0];
-        document.getElementById("datePicker").min = today.toISOString().split("T")[0];
-
-        const busIdo = [
+/*---------------------------------------------------------------------------------------------------------JAVASCRIPT - BACK BUTTON--------------------------------------------------------------------------------------*/
+        document.getElementById('bckBtn').addEventListener('click', function() {
+            window.location.href = 'jaratok.php'; // Redirect to jaratok.php
+        });
+/*---------------------------------------------------------------------------------------------------------BACK BUTTON END-----------------------------------------------------------------------------------------------*/
+        const busTime = [
             {
-                "start": "5:00",
+                "start": "05:00",
                 "number": "12",
                 "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
                 "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
                 "stopsTime": ["05:00","05:01","05:04","05:06","05:08","05:10","05:11","05:12","05:13","05:15"],
             },
+            {
+                "start": "05:30",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["05:30","05:31","05:34","05:36","05:38","05:40","05:41","05:42","05:43","05:45"],
+            },
+            {
+                "start": "05:55",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["05:55","05:56","06:59","06:01","06:03","06:05","06:06","06:07","06:08","06:10"],
+            },
+            {
+                "start": "06:10",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["06:10","06:11","06:14","06:16","06:18","06:20","06:21","06:22","06:23","06:25"],
+            },
+            {
+                "start": "06:30",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["06:30","06:31","06:34","06:36","06:38","06:40","06:41","06:42","06:43","06:45"],
+            },
+            {
+                "start": "07:05",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:05","07:06","07:09","07:11","07:13","07:15","07:16","07:17","07:18","07:20"],
+            },
+            {
+                "start": "07:30",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+            },
+            {
+                "start": "09:00",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["09:00","09:01","09:04","09:06","09:08","09:10","09:11","09:12","09:13","09:15"],
+            },
+            {
+                "start": "10:00",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["10:00","10:01","10:04","10:06","10:08","10:10","10:11","10:12","10:13","10:15"],
+            },
+            {
+                "start": "10:35",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+            },
+            {
+                "start": "11:00",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+            },
+            {
+                "start": "12:30",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+            },
+            {
+                "start": "13:00",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+            },
+            {
+                "start": "13:30",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+            },
+            {
+                "start": "14:20",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+            },
+            {
+                "start": "15:00",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+            },
+            {
+                "start": "15:45",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+            },
+            {
+                "start": "16:00",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+            },
+            {
+                "start": "16:30",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+            },
+            {
+                "start": "16:45",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+            },
+            {
+                "start": "17:00",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+            },
+            {
+                "start": "17:15",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+            },
+            {
+                "start": "17:30",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+            },
+            {
+                "start": "19:00",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+            },
+            {
+                "start": "20:30",
+                "number": "12",
+                "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
+                "stops": ["Helyi autóbusz-állomás","Corso","Zárda u.","Honvéd u.","Arany J. tér","Losonc-köz","Brassó u.","Sopron u.","Búzavirág u.","Laktanya"],
+                "stopsTime": ["07:30","07:31","07:34","07:36","07:38","07:40","07:41","07:42","07:43","07:45"],
+            },
         ];
 
-        // Parse the query string to get the route number and dayGoes
+        // Parse the query string to get the time number and dayGoes
         const urlParams = new URLSearchParams(window.location.search);
-        const routeNumber = urlParams.get('routeNumber');
-        const routeName = urlParams.get('routeName');
-        const routeTime = urlParams.get('routeTime');
+        const timeNumber = urlParams.get('timeNumber');
+        const timeName = urlParams.get('timeName');
+        const timeTime = urlParams.get('startTime');
 
-        // Find the route by its number
-        const route = busIdo.find(r => r.number === routeNumber);
+        // Find the time by its number
+        const time = busTime.find(r => r.number === timeNumber);
 
-        // Display route details
-        if (route) {
-            document.getElementById('routeNumCon').innerHTML = `
-                <div class="route-number">${routeNumber}</div>
-                <div class="route-date"><input type="date" id="datePicker" disabled /></div>
-                <div class="route-time">${routeTime}</div>
+        // Display time details
+        if (time) {
+            document.getElementById('timeNumCon').innerHTML = `
+                <div class="time-number">${timeNumber}</div>
+                <div class="time-date"><input type="date" id="datePicker" disabled /></div>
+                <div class="time">${timeTime}</div>
             `;
-            document.getElementById('routeNameCon').innerHTML = `
-                <div class="route-name">${routeName}</div>
+            document.getElementById('timeNameCon').innerHTML = `
+                <div class="time-name">
+                    ${timeName}
+                </div>
                 <div class="switchBtn">
-                    <button id="switchBtn" disabled">
+                    <button id="switchBtn" disabled>
                         <img src="switch.png" alt="Switch" style="width: 40px; height: 25px; max-width: 40px; max-width: 20px;">
                     </button>
                 </div>
             `;
+            displayTimeTable([time]);
         }
 
-        function displayRoutes(filter = "all") {
-            const routeContainer = document.getElementById('routeContainer');
-            routeContainer.innerHTML = "";
+        function displayTimeTable(time) {
+            const timeContainer = document.getElementById('timeContainer');
+            timeContainer.innerHTML = ""; // Clear previous content
 
-            // Create route cards
-            busRoutes.forEach((route, index) => {
-                const routeCard = document.createElement('div');
-                routeCard.className = 'route-card';
-                routeCard.style.animationDelay = `${index * 0.1}s`;
+            time.forEach((timeItem) => {
+                // Loop through stops and stopTimes arrays
+                timeItem.stops.forEach((stop, index) => {
+                    const timeCard = document.createElement('div');
+                    timeCard.className = 'time-card';
 
-                routeCard.innerHTML = `
-                    <div class="route-megallo">${route.megallo}</div>
-                    <div class="time-card">${time}</div>
-                `;
-
-                    routeContainer.appendChild(routeCard);
+                    // Create the card content with stop and stopTime pair
+                    timeCard.innerHTML = `
+                        <div class="time-stop"> ${stop}</div>
+                        <div class="time-time"> ${timeItem.stopsTime[index]}</div>
+                    `;
+                    
+                    timeContainer.appendChild(timeCard);
                 });
-        }
-
-        // Mobilbarát menü
-        function setupMobileMenu() {
-            const header = document.querySelector('header');
-            const filterButtons = document.getElementById('filterButtons');
-            
-            let lastScroll = 0;
-            window.addEventListener('scroll', () => {
-                const currentScroll = window.pageYOffset;
-                
-                if (currentScroll > lastScroll && currentScroll > 100) {
-                    header.style.transform = 'translateY(-100%)';
-                } else {
-                    header.style.transform = 'translateY(0)';
-                }
-                lastScroll = currentScroll;
             });
         }
+/*--------------------------------------------------------------------------------------------------------JAVASCRIPT - DATE PICKER---------------------------------------------------------------------------------------*/
+    const today = new Date();
+    document.getElementById("datePicker").value = today.toISOString().split("T")[0];
+    document.getElementById("datePicker").min = today.toISOString().split("T")[0];
+/*--------------------------------------------------------------------------------------------------------DATE PICKER END------------------------------------------------------------------------------------------------*/
 
-        setupMobileMenu();
-
-        document.getElementById('backBtn').addEventListener('click', function() {
-            window.location.href = 'jaratok.php'; // Redirect to jaratok.php
-        });
 
     </script>
 </body>
