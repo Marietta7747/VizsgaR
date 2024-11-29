@@ -274,16 +274,26 @@ try {
                 padding-right: 60px;
             }
 
+            .time{
+                margin-right: 0%;
+                margin-top: 4%;
+            }
+
             .time-name{
+                display: inline-block;
                 margin-left: 0;
+                font-size: 1.25rem;
+                max-width: 90%;
             }
 
             .timeCon{
-                width: 345px;
+                width: 371px;
             }
 
             .switchBtn{
                 margin-right: 0;
+                margin-top: 5%;
+                display: inline-block;
             }
 
             .header h1{
@@ -291,7 +301,67 @@ try {
             }
 
             #datePicker{
-                margin-left: 28%;
+                margin-left: 3%;
+            }
+
+            .backBtn{
+                width: 15%;
+            }
+        }
+
+        @media (max-width: 380px) {
+            .header-content {
+                padding: 1rem;
+            }
+
+            h1 {
+                font-size: 1.5rem;
+            }
+
+            .time-container {
+                grid-template-columns: 1fr;
+                padding: 1rem;
+            }
+
+            .time-card{
+                width: 330px;
+            }
+
+            .time-number{
+                margin-left: 0;
+                padding-right: 45px;
+                padding-left: 10px;
+            }
+
+            .time{
+                margin-right: 0%;
+                margin-top: 4%;
+            }
+
+            .time-name{
+                display: inline-block;
+                margin-left: 0;
+                font-size: 1.25rem;
+                max-width: 73%;
+            }
+
+            .timeCon{
+                width: 335px;
+            }
+
+            .switchBtn{
+                margin-right: 0;
+                margin-top: 5%;
+                display: inline-block;
+            }
+
+            .header h1{
+                margin-left: 2%;
+            }
+
+            #datePicker{
+                margin-left: 4%;
+                font-size: 1.15rem;
             }
 
             .backBtn{
