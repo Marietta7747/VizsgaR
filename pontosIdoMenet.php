@@ -2227,56 +2227,56 @@ try {
                 "start": "05:15",
                 "number": "89",
                 "name": "Helyi autóbusz-állomás - Kaposvári Egyetem",
-                "stops": ["Helyi autóbusz-állomás", "Vasútállomás", "Fő u. 48", "Hársfa u.", "Hősök temploma", "Mező u. csp.", "Izzó u.", "Guba S. u. 57.", "Guba S. u. 81.", "Villamossági Gyár", "Kaposvári Egyetem"]
+                "stops": ["Helyi autóbusz-állomás", "Vasútállomás", "Fő u. 48", "Hársfa u.", "Hősök temploma", "Mező u. csp.", "Izzó u.", "Guba S. u. 57.", "Guba S. u. 81.", "Villamossági Gyár", "Kaposvári Egyetem"],
                 "stopsTime": ["05:15", "05:17", "05:19", "05:20", "05:21", "05:22", "05:23", "05:24", "05:25", "05:26", "05:27"]
             },
             {
                 "start": "05:25",
                 "number": "89",
                 "name": "Helyi autóbusz-állomás - Kaposvári Egyetem",
-                "stops": ["Helyi autóbusz-állomás", "Vasútállomás", "Fő u. 48", "Hársfa u.", "Hősök temploma", "Mező u. csp.", "Izzó u.", "Guba S. u. 57.", "Guba S. u. 81.", "Villamossági Gyár", "Kaposvári Egyetem"]
+                "stops": ["Helyi autóbusz-állomás", "Vasútállomás", "Fő u. 48", "Hársfa u.", "Hősök temploma", "Mező u. csp.", "Izzó u.", "Guba S. u. 57.", "Guba S. u. 81.", "Villamossági Gyár", "Kaposvári Egyetem"],
                 "stopsTime": ["05:25", "05:27", "05:29", "05:30", "05:31", "05:32", "05:33", "05:34", "05:35", "05:36", "05:37"]
             },
             {
                 "start": "07:30",
                 "number": "89",
                 "name": "Helyi autóbusz-állomás - Kaposvári Egyetem",
-                "stops": ["Helyi autóbusz-állomás", "Vasútállomás", "Fő u. 48", "Hársfa u.", "Hősök temploma", "Mező u. csp.", "Izzó u.", "Guba S. u. 57.", "Guba S. u. 81.", "Villamossági Gyár", "Kaposvári Egyetem"]
+                "stops": ["Helyi autóbusz-állomás", "Vasútállomás", "Fő u. 48", "Hársfa u.", "Hősök temploma", "Mező u. csp.", "Izzó u.", "Guba S. u. 57.", "Guba S. u. 81.", "Villamossági Gyár", "Kaposvári Egyetem"],
                 "stopsTime": ["07:30", "07:32", "07:34", "07:35", "07:36", "07:37", "07:38", "07:39", "07:40", "07:41", "07:42"]
             },
             {
                 "start": "07:40",
                 "number": "89",
                 "name": "Helyi autóbusz-állomás - Kaposvári Egyetem",
-                "stops": ["Helyi autóbusz-állomás", "Vasútállomás", "Fő u. 48", "Hársfa u.", "Hősök temploma", "Mező u. csp.", "Izzó u.", "Guba S. u. 57.", "Guba S. u. 81.", "Villamossági Gyár", "Kaposvári Egyetem"]
+                "stops": ["Helyi autóbusz-állomás", "Vasútállomás", "Fő u. 48", "Hársfa u.", "Hősök temploma", "Mező u. csp.", "Izzó u.", "Guba S. u. 57.", "Guba S. u. 81.", "Villamossági Gyár", "Kaposvári Egyetem"],
                 "stopsTime": ["07:40", "07:42", "07:44", "07:45", "07:46", "07:47", "07:48", "07:49", "07:50", "07:51", "07:52"]
             },
             {
                 "start": "09:20",
                 "number": "89",
                 "name": "Helyi autóbusz-állomás - Kaposvári Egyetem",
-                "stops": ["Helyi autóbusz-állomás", "Vasútállomás", "Fő u. 48", "Hársfa u.", "Hősök temploma", "Mező u. csp.", "Izzó u.", "Guba S. u. 57.", "Guba S. u. 81.", "Villamossági Gyár", "Kaposvári Egyetem"]
+                "stops": ["Helyi autóbusz-állomás", "Vasútállomás", "Fő u. 48", "Hársfa u.", "Hősök temploma", "Mező u. csp.", "Izzó u.", "Guba S. u. 57.", "Guba S. u. 81.", "Villamossági Gyár", "Kaposvári Egyetem"],
                 "stopsTime": ["09:20", "09:22", "09:24", "09:25", "09:26", "09:27", "09:28", "09:29", "09:31", "09:32", "09:33", "09:34", "09:36"]
             },
             {
                 "start": "13:40",
                 "number": "89",
                 "name": "Helyi autóbusz-állomás - Kaposvári Egyetem",
-                "stops": ["Helyi autóbusz-állomás", "Vasútállomás", "Fő u. 48", "Hársfa u.", "Hősök temploma", "Mező u. csp.", "Izzó u.", "Guba S. u. 57.", "Guba S. u. 81.", "Villamossági Gyár", "Kaposvári Egyetem"]
+                "stops": ["Helyi autóbusz-állomás", "Vasútállomás", "Fő u. 48", "Hársfa u.", "Hősök temploma", "Mező u. csp.", "Izzó u.", "Guba S. u. 57.", "Guba S. u. 81.", "Villamossági Gyár", "Kaposvári Egyetem"],
                 "stopsTime": ["13:40", "13:42", "13:44", "13:45", "13:46", "13:47", "13:48", "13:49", "13:50", "13:51", "13:52"]
             },
             {
                 "start": "15:50",
                 "number": "89",
                 "name": "Helyi autóbusz-állomás - Kaposvári Egyetem",
-                "stops": ["Helyi autóbusz-állomás", "Vasútállomás", "Fő u. 48", "Hársfa u.", "Hősök temploma", "Mező u. csp.", "Izzó u.", "Guba S. u. 57.", "Guba S. u. 81.", "Villamossági Gyár", "Kaposvári Egyetem"]
+                "stops": ["Helyi autóbusz-állomás", "Vasútállomás", "Fő u. 48", "Hársfa u.", "Hősök temploma", "Mező u. csp.", "Izzó u.", "Guba S. u. 57.", "Guba S. u. 81.", "Villamossági Gyár", "Kaposvári Egyetem"],
                 "stopsTime": ["15:50", "15:52", "15:54", "15:55", "15:56", "15:57", "15:58", "15:59", "16:00", "16:01", "16:02"]
             },
             {
                 "start": "21:55",
                 "number": "89",
                 "name": "Helyi autóbusz-állomás - Kaposvári Egyetem",
-                "stops": ["Helyi autóbusz-állomás", "Vasútállomás", "Fő u. 48", "Hársfa u.", "Hősök temploma", "Mező u. csp.", "Izzó u.", "Guba S. u. 57.", "Guba S. u. 81.", "Villamossági Gyár", "Kaposvári Egyetem"]
+                "stops": ["Helyi autóbusz-állomás", "Vasútállomás", "Fő u. 48", "Hársfa u.", "Hősök temploma", "Mező u. csp.", "Izzó u.", "Guba S. u. 57.", "Guba S. u. 81.", "Villamossági Gyár", "Kaposvári Egyetem"],
                 "stopsTime": ["21:55", "21:57", "21:59", "22:00", "22:01", "22:02", "22:03", "22:04", "22:05", "22:06", "22:07"]
             },
     /*-----------------------------------------------------89 END------------------------------------------------------*/
@@ -2332,7 +2332,7 @@ try {
                 "stops": ["Rómahegy", "Nyár u.", "Szigetvári u. 139.", "Ballakúti u.", "Szigetvári u. 62.", "Szigetvári u. 6.", "Jókai liget", "Berzsenyi u. felüljáró", "Helyi autóbusz-állomás", "Vasútállomás", "Fő u. 48", "Hársfa u.", "Virág u.", "Pázmány P. u. 1.", "Vöröstelek u.", "Hegyi u.", "Buzsáki u.", "Arany J. tér", "Füredi úti csomópont"],
                 "stopsTime": ["07:10", "07:11", "07:12", "07:13", "07:15", "07:17", "07:19", "07:23", "07:25", "07:26", "07:28", "07:29", "07:30", "07:31", "07:32", "07:34", "07:35", "07:37", "07:40"]
             },
-             {
+            {
                 "start": "07:50",
                 "number": "91",
                 "name": "Rómahegy - Füredi úti csomópont",
@@ -2422,7 +2422,7 @@ try {
                 "name": "Rómahegy - Füredi úti csomópont",
                 "stops": ["Rómahegy", "Nyár u.", "Szigetvári u. 139.", "Ballakúti u.", "Szigetvári u. 62.", "Szigetvári u. 6.", "Jókai liget", "Berzsenyi u. felüljáró", "Helyi autóbusz-állomás", "Vasútállomás", "Fő u. 48", "Hársfa u.", "Virág u.", "Pázmány P. u. 1.", "Vöröstelek u.", "Hegyi u.", "Buzsáki u.", "Arany J. tér", "Füredi úti csomópont"],
                 "stopsTime": ["21:00", "21:02", "21:04", "21:06", "21:08", "21:10", "21:11", "21:13", "21:15", "21:16", "21:18", "21:19", "21:20", "21:21", "21:22", "21:24", "21:25", "21:27", "21:30"]
-            }
+            },
     /*-----------------------------------------------------91 END------------------------------------------------------*/
     ];
 /*---------------------------------------------------------------------------------------------------------BUS TIME END--------------------------------------------------------------------------------------------------*/
@@ -2469,7 +2469,7 @@ try {
 
                     // Create the card content with stop and stopTime pair
                     timeCard.innerHTML = `
-                        <div class="time-stop"> ${stop}</div>
+                        <div class="time-stop" style="font-weight: bold;"> ${stop}</div>
                         <div class="time-time"> ${timeItem.stopsTime[index]}</div>
                     `;
                     
