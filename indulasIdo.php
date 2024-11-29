@@ -268,7 +268,56 @@ try {
             }
 
             .routeCon{
-                width: 345px;
+                width: 365px;
+            }
+
+            .switchBtn{
+                margin-right: 0;
+            }
+
+            .header h1{
+                margin-left: 2%;
+            }
+
+            #datePicker{
+                margin-left: 28%;
+            }
+
+            .backBtn{
+                width: 15%;
+            }
+        }
+
+        @media (max-width: 380px) {
+            .header-content {
+                padding: 1rem;
+            }
+
+            h1 {
+                font-size: 1.5rem;
+            }
+
+            .route-container {
+                grid-template-columns: 1fr;
+                padding: 1rem;
+            }
+
+            .route-card{
+                width: 325px;
+            }
+
+            .route-number{
+                margin-left: 0;
+                padding-right: 60px;
+            }
+
+            .route-name{
+                font-size: 1.25rem;
+                margin-left: 0;
+            }
+
+            .routeCon{
+                width: 335px;
             }
 
             .switchBtn{
