@@ -850,7 +850,7 @@ try {
                             url.searchParams.append('timeNumber', route.number);
                             url.searchParams.append('timeName', route.name);
                             url.searchParams.append('startTime', time); // Pass the selected time
-                            url.searchParams.append('dayGoes', "weekDay"); // Specify it's a weekday
+                            url.searchParams.append('dayGoes', "weekday"); // Specify it's a weekday
                             window.location.href = url.toString();
                         });
                     });
@@ -942,6 +942,7 @@ try {
                             url.searchParams.append('timeName', route.name);
                             url.searchParams.append('startTime', time); 
                             url.searchParams.append('dayGoes', isWeekend(selectedDate)?isWeekend(selectedDate):"weekday"); 
+                            url.searchParams.append('showBack',showBackTimes);
                             window.location.href = url.toString();
                         });
                 });
