@@ -584,6 +584,12 @@ footer {
                         </a>
                     </li>
                     <li>
+                        <a href="jaratok.php">
+                            <img src="bus.png" alt="Járatok">
+                            <span>Járatok</span>
+                        </a>
+                    </li>
+                    <li>
                         <a href="info.php">
                             <img src="information-button.png" alt="Információ">
                             <span>Információ</span>
