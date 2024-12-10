@@ -1284,6 +1284,80 @@
                         "stopsTime": ["13:00", "13:03", "13:05", "13:08", "13:09", "13:10"]
                     },
         /*-----------------------------------------------------62 END------------------------------------------------------*/
+        /*-----------------------------------------------------70------------------------------------------------------*/
+                    {
+                        "start": "04:25",
+                        "number": "70",
+                        "name": "Helyi autóbusz-állomás - Kaposfüred",
+                        "stops": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u."
+                        ,"Laktanya","Zöld fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                        "stopsTime": ["04:25", "04:27", "04:29", "04:32", "04:33", "04:34", "04:35", "04:36", "04:37", "04:38", "04:41", "04:42", "04:43", "04:44", "04:45"]
+                    },
+                    {
+                        "start": "06:45",
+                        "number": "70",
+                        "name": "Helyi autóbusz-állomás - Kaposfüred",
+                        "stops": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u."
+                        ,"Laktanya","Zöld fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                        "stopsTime": ["06:45", "06:47", "06:49", "06:52", "06:53", "06:54", "06:55", "06:56", "06:57", "06:58", "07:01", "07:02", "07:03", "07:04", "07:05"]
+                    },
+                    {
+                        "start": "07:05",
+                        "number": "70",
+                        "name": "Helyi autóbusz-állomás - Kaposfüred",
+                        "stops": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u."
+                        ,"Laktanya","Zöld fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                        "stopsTime": ["07:05", "07:07", "07:09", "07:12", "07:13", "07:14", "07:15", "07:16", "07:17", "07:18", "07:21", "07:22", "07:23", "07:24", "07:25"]
+                    },
+                    {
+                        "start": "09:40",
+                        "number": "70",
+                        "name": "Helyi autóbusz-állomás - Kaposfüred",
+                        "stops": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u."
+                        ,"Laktanya","Zöld fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                        "stopsTime": ["09:40", "09:42", "09:44", "09:47", "09:48", "09:49", "09:50", "09:51", "09:52", "09:53", "09:56", "09:57", "09:58", "09:59", "10:00"]
+                    },
+                    {
+                        "start": "10:20",
+                        "number": "70",
+                        "name": "Helyi autóbusz-állomás - Kaposfüred",
+                        "stops": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u."
+                        ,"Laktanya","Zöld fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                        "stopsTime": ["10:20", "10:22", "10:24", "10:27", "10:28", "10:29", "10:30", "10:31", "10:32", "10:33", "10:36", "10:37", "10:38", "10:39", "10:40"]
+                    },
+                    {
+                        "start": "11:35",
+                        "number": "70",
+                        "name": "Helyi autóbusz-állomás - Kaposfüred",
+                        "stops": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u."
+                        ,"Laktanya","Zöld fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                        "stopsTime": ["11:35", "11:37", "11:39", "11:42", "11:43", "11:44", "11:45", "11:46", "11:47", "11:48", "11:51", "11:52", "11:53", "11:54", "11:55"]
+                    },
+                    {
+                        "start": "13:45",
+                        "number": "70",
+                        "name": "Helyi autóbusz-állomás - Kaposfüred",
+                        "stops": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u."
+                        ,"Laktanya","Zöld fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                        "stopsTime": ["13:45", "13:47", "13:49", "13:52", "13:53", "13:54", "13:55", "13:56", "13:57", "13:58", "14:01", "14:02", "14:03", "14:04", "14:05"]
+                    },
+                    {
+                        "start": "15:25",
+                        "number": "70",
+                        "name": "Helyi autóbusz-állomás - Kaposfüred",
+                        "stops": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u."
+                        ,"Laktanya","Zöld fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                        "stopsTime": ["15:25", "15:27", "15:29", "15:32", "15:33", "15:34", "15:35", "15:36", "15:37", "15:38", "15:41", "15:42", "15:43", "15:44", "15:45"]
+                    },
+                    {
+                        "start": "21:45",
+                        "number": "70",
+                        "name": "Helyi autóbusz-állomás - Kaposfüred",
+                        "stops": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u."
+                        ,"Laktanya","Zöld fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                        "stopsTime": ["21:45", "21:47", "21:49", "21:52", "21:53", "21:54", "21:55", "21:56", "21:57", "21:58", "22:01", "22:02", "22:03", "22:04", "22:05"]
+                    },
+        /*-----------------------------------------------------70 END------------------------------------------------------*/
         /*-----------------------------------------------------71------------------------------------------------------*/
                     {
                         "start": "05:30",
@@ -2079,6 +2153,174 @@
                     "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
                     "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
                 },
+                {
+                    "startBack": "05:15",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["05:15", "05:16", "05:18", "05:19", "05:21", "05:23", "05:25", "05:27", "05:28", "05:29", "05:30"]
+                },
+                {
+                    "startBack": "05:45",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["05:45", "05:46", "05:48", "05:49", "05:51", "05:53", "05:55", "05:57", "05:58", "05:59", "06:00"]
+                },
+                {
+                    "startBack": "06:10",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["06:10", "06:11", "06:13", "06:14", "06:16", "06:18", "06:20", "06:22", "06:23", "06:24", "06:25"]
+                },
+                {
+                    "startBack": "06:45",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["06:45", "06:46", "06:48", "06:49", "06:51", "06:53", "06:55", "06:57", "06:58", "06:59", "07:00"]
+                },
+                {
+                    "startBack": "07:20",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["07:20", "07:21", "07:23", "07:24", "07:26", "07:28", "07:30", "07:32", "07:33", "07:34", "07:35"]
+                },
+                {
+                    "startBack": "07:45",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["07:45", "07:46", "07:48", "07:49", "07:51", "07:53", "07:55", "07:57", "07:58", "07:59", "08:00"]
+                },
+                {
+                    "startBack": "08:10",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["08:10", "08:11", "08:13", "08:14", "08:16", "08:18", "08:20", "08:22", "08:23", "08:24", "08:25"]
+                },
+                {
+                    "startBack": "09:15",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                },
+                {
+                    "startBack": "10:15",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                },
+                {
+                    "startBack": "10:50",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                },
+                {
+                    "startBack": "11:15",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                },
+                {
+                    "startBack": "12:45",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                },
+                {
+                    "startBack": "13:15",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                },
+                {
+                    "startBack": "13:30",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                },
+                {
+                    "startBack": "13:45",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                },
+                {
+                    "startBack": "14:35",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                },
+                {
+                    "startBack": "15:15",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                },
+                {
+                    "startBack": "16:15",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                },
+                {
+                    "startBack": "16:45",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                },
+                {
+                    "startBack": "17:15",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                },
+                {
+                    "startBack": "17:45",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                },
+                {
+                    "startBack": "19:15",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                },
+                {
+                    "startBack": "19:40",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                },
+                {
+                    "startBack": "20:45",
+                    "numberBack": "12",
+                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                },
         /*-----------------------------------------------------12 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------20 BACK-------------------------------------------------*/
                 {
@@ -2253,23 +2495,430 @@
                     "stopsBack": ["Egyenesi u. forduló","Beszédes J. u.","Egyenesi u. 42.","Kapoli A. u.","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
                     "stopsTimeBack": ["05:53","05:54","05:55","05:56","05:57","05:58","05:59","06:00","06:03","06:05"]
                 },
+                {
+                    "startBack": "06:33",
+                    "numberBack": "31",
+                    "nameBack": "Egyenesi u. forduló - Helyi autóbusz-állomás",
+                    "stopsBack": ["Egyenesi u. forduló","Beszédes J. u.","Egyenesi u. 42.","Kapoli A. u.","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["06:33", "06:34", "06:35", "06:36", "06:37", "06:38", "06:39", "06:40", "06:43", "06:45"]
+                },
+                {
+                    "startBack": "06:53",
+                    "numberBack": "31",
+                    "nameBack": "Egyenesi u. forduló - Helyi autóbusz-állomás",
+                    "stopsBack": ["Egyenesi u. forduló","Beszédes J. u.","Egyenesi u. 42.","Kapoli A. u.","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["06:53", "06:54", "06:55", "06:56", "06:57", "06:58", "06:59", "07:00", "07:03", "07:05"]
+                },
+                {
+                    "startBack": "07:13",
+                    "numberBack": "31",
+                    "nameBack": "Egyenesi u. forduló - Helyi autóbusz-állomás",
+                    "stopsBack": ["Egyenesi u. forduló","Beszédes J. u.","Egyenesi u. 42.","Kapoli A. u.","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["07:13", "07:14", "07:15", "07:16", "07:17", "07:18", "07:19", "07:20", "07:23", "07:25"]
+                },
+                {
+                    "startBack": "07:43",
+                    "numberBack": "31",
+                    "nameBack": "Egyenesi u. forduló - Helyi autóbusz-állomás",
+                    "stopsBack": ["Egyenesi u. forduló","Beszédes J. u.","Egyenesi u. 42.","Kapoli A. u.","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["07:43", "07:44", "07:45", "07:46", "07:47", "07:48", "07:49", "07:50", "07:53", "07:55"]
+                },
+                {
+                    "startBack": "09:13",
+                    "numberBack": "31",
+                    "nameBack": "Egyenesi u. forduló - Helyi autóbusz-állomás",
+                    "stopsBack": ["Egyenesi u. forduló","Beszédes J. u.","Egyenesi u. 42.","Kapoli A. u.","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["09:13", "09:14", "09:15", "09:16", "09:17", "09:18", "09:19", "09:20", "09:23", "09:25"]
+                },
+                {
+                    "startBack": "12:13",
+                    "numberBack": "31",
+                    "nameBack": "Egyenesi u. forduló - Helyi autóbusz-állomás",
+                    "stopsBack": ["Egyenesi u. forduló","Beszédes J. u.","Egyenesi u. 42.","Kapoli A. u.","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["12:13", "12:14", "12:15", "12:16", "12:17", "12:18", "12:19", "12:20", "12:23", "12:25"]
+                },
+                {
+                    "startBack": "13:13",
+                    "numberBack": "31",
+                    "nameBack": "Egyenesi u. forduló - Helyi autóbusz-állomás",
+                    "stopsBack": ["Egyenesi u. forduló","Beszédes J. u.","Egyenesi u. 42.","Kapoli A. u.","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["13:13", "13:14", "13:15", "13:16", "13:17", "13:18", "13:19", "13:20", "13:23", "13:25"]
+                },
+                {
+                    "startBack": "14:13",
+                    "numberBack": "31",
+                    "nameBack": "Egyenesi u. forduló - Helyi autóbusz-állomás",
+                    "stopsBack": ["Egyenesi u. forduló","Beszédes J. u.","Egyenesi u. 42.","Kapoli A. u.","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["14:13", "14:14", "14:15", "14:16", "14:17", "14:18", "14:19", "14:20", "14:23", "14:25"]
+                },
+                {
+                    "startBack": "15:13",
+                    "numberBack": "31",
+                    "nameBack": "Egyenesi u. forduló - Helyi autóbusz-állomás",
+                    "stopsBack": ["Egyenesi u. forduló","Beszédes J. u.","Egyenesi u. 42.","Kapoli A. u.","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["15:13", "15:14", "15:15", "15:16", "15:17", "15:18", "15:19", "15:20", "15:23", "15:25"]
+                },
+                {
+                    "startBack": "16:13",
+                    "numberBack": "31",
+                    "nameBack": "Egyenesi u. forduló - Helyi autóbusz-állomás",
+                    "stopsBack": ["Egyenesi u. forduló","Beszédes J. u.","Egyenesi u. 42.","Kapoli A. u.","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["16:13", "16:14", "16:15", "16:16", "16:17", "16:18", "16:19", "16:20", "16:23", "16:25"]
+                },
+                {
+                    "startBack": "17:13",
+                    "numberBack": "31",
+                    "nameBack": "Egyenesi u. forduló - Helyi autóbusz-állomás",
+                    "stopsBack": ["Egyenesi u. forduló","Beszédes J. u.","Egyenesi u. 42.","Kapoli A. u.","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["17:13", "17:14", "17:15", "17:16", "17:17", "17:18", "17:19", "17:20", "17:23", "17:25"]
+                },
+                {
+                    "startBack": "18:13",
+                    "numberBack": "31",
+                    "nameBack": "Egyenesi u. forduló - Helyi autóbusz-állomás",
+                    "stopsBack": ["Egyenesi u. forduló","Beszédes J. u.","Egyenesi u. 42.","Kapoli A. u.","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["18:13", "18:14", "18:15", "18:16", "18:17", "18:18", "18:19", "18:20", "18:23", "18:25"]
+                },
+                {
+                    "startBack": "19:33",
+                    "numberBack": "31",
+                    "nameBack": "Egyenesi u. forduló - Helyi autóbusz-állomás",
+                    "stopsBack": ["Egyenesi u. forduló","Beszédes J. u.","Egyenesi u. 42.","Kapoli A. u.","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["19:33", "19:34", "19:35", "19:36", "19:37", "19:38", "19:39", "19:40", "19:43", "19:45"]
+                },
         /*-----------------------------------------------------31 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------40 BACK-------------------------------------------------*/
                 {
-                    "startBack": "04:45",
+                    "startBack": "04:40",
                     "numberBack": "40",
-                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameBack": "Raktár u. - 67-es út - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","67-es sz. út","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["04:40", "04:41", "04:42", "04:43", "04:44", "04:45", "04:46", "04:47", "04:48", "04:50", "04:52", "04:55", "04:58", "05:02", "05:03", "05:04", "05:05"]
+                },
+                {
+                    "startBack": "06:20",
+                    "numberBack": "40",
+                    "nameBack": "Raktár u. - 67-es út - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","67-es sz. út","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["06:20", "06:21", "06:22", "06:23", "06:24", "06:25", "06:26", "06:27", "06:28", "06:30", "06:32", "06:35", "06:38", "06:42", "06:43", "06:44", "06:45"]
+                },
+                {
+                    "startBack": "08:50",
+                    "numberBack": "40",
+                    "nameBack": "Raktár u. - 67-es út - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","67-es sz. út","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["08:50", "08:51", "08:52", "08:53", "08:54", "08:55", "08:56", "08:57", "08:58", "09:00", "09:02", "09:05", "09:08", "09:12", "09:13", "09:14", "09:15"]
+                },
+                {
+                    "startBack": "13:15",
+                    "numberBack": "40",
+                    "nameBack": "Raktár u. - 67-es út - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","67-es sz. út","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["13:15", "13:16", "13:17", "13:18", "13:19", "13:20", "13:21", "13:22", "13:23", "13:25", "13:27", "13:30", "13:33", "13:37", "13:38", "13:39", "13:40"]
+                },
+                {
+                    "startBack": "15:00",
+                    "numberBack": "40",
+                    "nameBack": "Raktár u. - 67-es út - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","67-es sz. út","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["15:00", "15:01", "15:02", "15:03", "15:04", "15:05", "15:06", "15:07", "15:08", "15:10", "15:12", "15:15", "15:18", "15:22", "15:23", "15:24", "15:25"]
+                },
+                {
+                    "startBack": "16:45",
+                    "numberBack": "40",
+                    "nameBack": "Raktár u. - 67-es út - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","67-es sz. út","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["16:45", "16:46", "16:47", "16:48", "16:49", "16:50", "16:51", "16:52", "16:53", "16:55", "16:57", "17:00", "17:03", "17:07", "17:08", "17:09", "17:10"]
+                },
+                {
+                    "startBack": "20:30",
+                    "numberBack": "40",
+                    "nameBack": "Raktár u. - 67-es út - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","67-es sz. út","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["20:30", "20:31", "20:32", "20:33", "20:34", "20:35", "20:36", "20:37", "20:38", "20:40", "20:42", "20:45", "20:48", "20:52", "20:53", "20:54", "20:55"]
                 },
         /*-----------------------------------------------------40 BACK END-------------------------------------------------*/
+        /*-----------------------------------------------------41 BACK-------------------------------------------------*/
+                {
+                    "startBack": "05:30",
+                    "numberBack": "41",
+                    "nameBack": "Raktár u. - Bartók B. u. - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","Bartók B. u.","Jókai u.","Szegfű u.","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["05:30", "05:31", "05:32", "05:33", "05:34", "05:35", "05:36", "05:37", "05:38", "05:40", "05:42", "05:45", "05:48", "05:50", "05:51", "05:52", "05:53", "05:54", "05:55"]
+                },
+                {
+                    "startBack": "06:45",
+                    "numberBack": "41",
+                    "nameBack": "Raktár u. - Bartók B. u. - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","Bartók B. u.","Jókai u.","Szegfű u.","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["06:45", "06:46", "06:47", "06:48", "06:49", "06:50", "06:51", "06:52", "06:53", "06:55", "06:57", "07:00", "07:03", "07:05", "07:06", "07:07", "07:08", "07:09", "07:10"]
+                },
+                {
+                    "startBack": "07:15",
+                    "numberBack": "41",
+                    "nameBack": "Raktár u. - Bartók B. u. - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","Bartók B. u.","Jókai u.","Szegfű u.","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["07:15", "07:16", "07:17", "07:18", "07:19", "07:20", "07:21", "07:22", "07:23", "07:25", "07:27", "07:30", "07:33", "07:35", "07:36", "07:37", "07:38", "07:39", "07:40"]
+                },
+                {
+                    "startBack": "08:00",
+                    "numberBack": "41",
+                    "nameBack": "Raktár u. - Bartók B. u. - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","Bartók B. u.","Jókai u.","Szegfű u.","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["08:00", "08:01", "08:02", "08:03", "08:04", "08:05", "08:06", "08:07", "08:08", "08:10", "08:12", "08:15", "08:18", "08:20", "08:21", "08:22", "08:23", "08:24", "08:25"]
+                },
+                {
+                    "startBack": "09:40",
+                    "numberBack": "41",
+                    "nameBack": "Raktár u. - Bartók B. u. - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","Bartók B. u.","Jókai u.","Szegfű u.","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["09:40", "09:41", "09:42", "09:43", "09:44", "09:45", "09:46", "09:47", "09:48", "09:50", "09:52", "09:55", "09:58", "10:00", "10:01", "10:02", "10:03", "10:04", "10:05"]
+                },
+                {
+                    "startBack": "11:20",
+                    "numberBack": "41",
+                    "nameBack": "Raktár u. - Bartók B. u. - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","Bartók B. u.","Jókai u.","Szegfű u.","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["11:20", "11:21", "11:22", "11:23", "11:24", "11:25", "11:26", "11:27", "11:28", "11:30", "11:32", "11:35", "11:38", "11:40", "11:41", "11:42", "11:43", "11:44", "11:45"]
+                },
+                {
+                    "startBack": "14:10",
+                    "numberBack": "41",
+                    "nameBack": "Raktár u. - Bartók B. u. - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","Bartók B. u.","Jókai u.","Szegfű u.","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["14:10", "14:11", "14:12", "14:13", "14:14", "14:15", "14:16", "14:17", "14:18", "14:20", "14:22", "14:25", "14:28", "14:30", "14:31", "14:32", "14:33", "14:34", "14:35"]
+                },
+                {
+                    "startBack": "16:05",
+                    "numberBack": "41",
+                    "nameBack": "Raktár u. - Bartók B. u. - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","Bartók B. u.","Jókai u.","Szegfű u.","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["16:05", "16:06", "16:07", "16:08", "16:09", "16:10", "16:11", "16:12", "16:13", "16:15", "16:17", "16:20", "16:23", "16:25", "16:26", "16:27", "16:28", "16:29", "16:30"]
+                },
+                {
+                    "startBack": "17:10",
+                    "numberBack": "41",
+                    "nameBack": "Raktár u. - Bartók B. u. - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","Bartók B. u.","Jókai u.","Szegfű u.","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["17:10", "17:11", "17:12", "17:13", "17:14", "17:15", "17:16", "17:17", "17:18", "17:20", "17:22", "17:25", "17:28", "17:30", "17:31", "17:32", "17:33", "17:34", "17:35"]
+                },
+                {
+                    "startBack": "17:40",
+                    "numberBack": "41",
+                    "nameBack": "Raktár u. - Bartók B. u. - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","Bartók B. u.","Jókai u.","Szegfű u.","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["17:40", "17:41", "17:42", "17:43", "17:44", "17:45", "17:46", "17:47", "17:48", "17:50", "17:52", "17:55", "17:58", "18:00", "18:01", "18:02", "18:03", "18:04", "18:05"]
+                },
+                {
+                    "startBack": "18:40",
+                    "numberBack": "41",
+                    "nameBack": "Raktár u. - Bartók B. u. - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","Bartók B. u.","Jókai u.","Szegfű u.","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["18:40", "18:41", "18:42", "18:43", "18:44", "18:45", "18:46", "18:47", "18:48", "18:50", "18:52", "18:55", "18:58", "19:00", "19:01", "19:02", "19:03", "19:04", "19:05"]
+                },
+                {
+                    "startBack": "22:10",
+                    "numberBack": "41",
+                    "nameBack": "Raktár u. - Bartók B. u. - Koppány vezér u",
+                    "stopsBack": ["Raktár u.","Raktár u. 2.","Jutai u. 45.","Tóth Á. u.","Jutai u. 24.","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"
+                    ,"Berzsenyi u. felüljáró","Bartók B. u.","Jókai u.","Szegfű u.","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeBack": ["22:10", "22:11", "22:12", "22:14", "22:16", "22:18", "22:20", "22:22", "22:24", "22:26", "22:28", "22:30", "22:31", "22:32", "22:33", "22:34", "22:35", "22:36", "22:37"]
+                },
+        /*-----------------------------------------------------41 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------42 BACK-------------------------------------------------*/
                 {
-                    "startBack": "04:45",
+                    "startBack": "05:30",
                     "numberBack": "42",
-                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["05:30", "05:31", "05:32", "05:33", "05:36", "05:38", "05:40", "05:41", "05:43", "05:44", "05:46", "05:48", "05:50", "05:54", "05:56", "05:57", "05:58", "05:59", "06:00", "06:01", "06:02", "06:04"]
+                },
+                {
+                    "startBack": "06:25",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["06:25", "06:26", "06:27", "06:28", "06:31", "06:33", "06:35", "06:36", "06:38", "06:39", "06:41", "06:43", "06:45", "06:49", "06:51", "06:52", "06:53", "06:54", "06:55", "06:56", "06:57", "06:59"]
+                },
+                {
+                    "startBack": "06:50",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["06:50", "06:51", "06:52", "06:53", "06:56", "06:58", "07:00", "07:01", "07:03", "07:04", "07:06", "07:08", "07:10", "07:14", "07:16", "07:17", "07:18", "07:19", "07:20", "07:21", "07:22", "07:24"]
+                },
+                {
+                    "startBack": "07:10",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["07:10", "07:11", "07:12", "07:13", "07:16", "07:18", "07:20", "07:21", "07:23", "07:24", "07:26", "07:28", "07:30", "07:34", "07:36", "07:37", "07:38", "07:39", "07:40", "07:41", "07:42", "07:44"]
+                },
+                {
+                    "startBack": "07:20",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["07:20", "07:21", "07:22", "07:23", "07:26", "07:28", "07:30", "07:31", "07:33", "07:34", "07:36", "07:38", "07:40", "07:44", "07:46", "07:47", "07:48", "07:49", "07:50", "07:51", "07:52", "07:54"]
+                },
+                {
+                    "startBack": "08:10",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["08:10", "08:11", "08:12", "08:13", "08:16", "08:18", "08:20", "08:21", "08:23", "08:24", "08:26", "08:28", "08:30", "08:34", "08:36", "08:37", "08:38", "08:39", "08:40", "08:41", "08:42", "08:44"]
+                },
+                {
+                    "startBack": "09:30",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["09:30", "09:31", "09:32", "09:33", "09:36", "09:38", "09:40", "09:41", "09:43", "09:44", "09:46", "09:48", "09:50", "09:54", "09:56", "09:57", "09:58", "09:59", "10:00", "10:01", "10:02", "10:04"]
+                },
+                {
+                    "startBack": "10:10",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["10:10", "10:11", "10:12", "10:13", "10:16", "10:18", "10:20", "10:21", "10:23", "10:24", "10:26", "10:28", "10:30", "10:34", "10:36", "10:37", "10:38", "10:39", "10:40", "10:41", "10:42", "10:44"]
+                },
+                {
+                    "startBack": "10:50",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["10:50", "10:51", "10:52", "10:53", "10:56", "10:58", "11:00", "11:01", "11:03", "11:04", "11:06", "11:08", "11:10", "11:14", "11:16", "11:17", "11:18", "11:19", "11:20", "11:21", "11:22", "11:24"]
+                },
+                {
+                    "startBack": "12:10",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["12:10", "12:11", "12:12", "12:13", "12:16", "12:18", "12:20", "12:21", "12:23", "12:24", "12:26", "12:28", "12:30", "12:34", "12:36", "12:37", "12:38", "12:39", "12:40", "12:41", "12:42", "12:44"]
+                },
+                {
+                    "startBack": "13:30",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["13:30", "13:31", "13:32", "13:33", "13:36", "13:38", "13:40", "13:41", "13:43", "13:44", "13:46", "13:48", "13:50", "13:54", "13:56", "13:57", "13:58", "13:59", "14:00", "14:01", "14:02", "14:04"]
+                },
+                {
+                    "startBack": "14:20",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["14:20", "14:21", "14:22", "14:23", "14:26", "14:28", "14:30", "14:31", "14:33", "14:34", "14:36", "14:38", "14:40", "14:44", "14:46", "14:47", "14:48", "14:49", "14:50", "14:51", "14:52", "14:54"]
+                },
+                {
+                    "startBack": "15:00",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["15:00", "15:01", "15:02", "15:03", "15:06", "15:08", "15:10", "15:11", "15:13", "15:14", "15:16", "15:18", "15:20", "15:24", "15:26", "15:27", "15:28", "15:29", "15:30", "15:31", "15:32", "15:34"]
+                },
+                {
+                    "startBack": "15:30",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["15:30", "15:31", "15:32", "15:33", "15:36", "15:38", "15:40", "15:41", "15:43", "15:44", "15:46", "15:48", "15:50", "15:54", "15:56", "15:57", "15:58", "15:59", "16:00", "16:01", "16:02", "16:04"]
+                },
+                {
+                    "startBack": "16:05",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["16:05", "16:06", "16:07", "16:08", "16:11", "16:13", "16:15", "16:16", "16:18", "16:19", "16:21", "16:23", "16:25", "16:29", "16:31", "16:32", "16:33", "16:34", "16:35", "16:36", "16:37", "16:39"]
+                },
+                {
+                    "startBack": "16:20",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["16:20", "16:21", "16:22", "16:23", "16:26", "16:28", "16:30", "16:31", "16:33", "16:34", "16:36", "16:38", "16:40", "16:44", "16:46", "16:47", "16:48", "16:49", "16:50", "16:51", "16:52", "16:54"]
+                },
+                {
+                    "startBack": "17:00",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["17:00", "17:01", "17:02", "17:03", "17:06", "17:08", "17:10", "17:11", "17:13", "17:14", "17:16", "17:18", "17:20", "17:24", "17:26", "17:27", "17:28", "17:29", "17:30", "17:31", "17:32", "17:34"]
+                },
+                {
+                    "startBack": "17:30",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["17:30", "17:31", "17:32", "17:33", "17:36", "17:38", "17:40", "17:41", "17:43", "17:44", "17:46", "17:48", "17:50", "17:54", "17:56", "17:57", "17:58", "17:59", "18:00", "18:01", "18:02", "18:04"]
+                },
+                {
+                    "startBack": "18:20",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["18:20", "18:21", "18:22", "18:23", "18:26", "18:28", "18:30", "18:31", "18:33", "18:34", "18:36", "18:38", "18:40", "18:44", "18:46", "18:47", "18:48", "18:49", "18:50", "18:51", "18:52", "18:54"]
+                },
+                {
+                    "startBack": "19:10",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["19:10", "19:11", "19:12", "19:13", "19:16", "19:18", "19:20", "19:21", "19:23", "19:24", "19:26", "19:28", "19:30", "19:34", "19:36", "19:37", "19:38", "19:39", "19:40", "19:41", "19:42", "19:44"]
+                },
+                {
+                    "startBack": "21:00",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["21:00", "21:01", "21:02", "21:03", "21:06", "21:08", "21:10", "21:11", "21:13", "21:14", "21:16", "21:18", "21:20", "21:24", "21:26", "21:27", "21:28", "21:29", "21:30", "21:31", "21:32", "21:34"]
+                },
+                {
+                    "startBack": "22:10",
+                    "numberBack": "42",
+                    "nameBack": "Laktanya - Kórház - Töröcske forduló",
+                    "stopsBack": ["Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér"
+                    ,"Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Bartók B. u.","TáncsicsM. u.","Zichy u.","Aranyeső u.","Harangvirág u.","Gyertyános","Kertbarát felső","Kertbarát alsó","Szőlőhegy"],
+                    "stopsTimeBack": ["22:10", "22:11", "22:12", "22:13", "22:16", "22:18", "22:20", "22:21", "22:23", "22:24", "22:26", "22:28", "22:30", "22:34", "22:36", "22:37", "22:38", "22:39", "22:40", "22:41", "22:42", "22:44"]
                 },
         /*-----------------------------------------------------42 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------45 BACK-------------------------------------------------*/
@@ -2343,47 +2992,347 @@
         /*-----------------------------------------------------47 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------61 BACK-------------------------------------------------*/
                 {
-                    "startBack": "04:45",
+                    "startBack": "04:55",
                     "numberBack": "61",
-                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameBack": "Béla király u. - Helyi- autóbuszállomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Baross G. u.","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:55","04:56","04:57","04:59","05:03"]
+                },
+                {
+                    "startBack": "06:20",
+                    "numberBack": "61",
+                    "nameBack": "Béla király u. - Helyi- autóbuszállomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Baross G. u.","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["06:20", "06:21", "06:22", "06:24", "06:28"]
+                },
+                {
+                    "startBack": "06:50",
+                    "numberBack": "61",
+                    "nameBack": "Béla király u. - Helyi- autóbuszállomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Baross G. u.","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["06:50", "06:51", "06:52", "06:54", "06:58"]
+                },
+                {
+                    "startBack": "07:15",
+                    "numberBack": "61",
+                    "nameBack": "Béla király u. - Helyi- autóbuszállomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Baross G. u.","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["07:15", "07:16", "07:17", "07:19", "07:23"]
+                },
+                {
+                    "startBack": "07:35",
+                    "numberBack": "61",
+                    "nameBack": "Béla király u. - Helyi- autóbuszállomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Baross G. u.","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["07:35", "07:36", "07:37", "07:39", "07:43"]
+                },
+                {
+                    "startBack": "10:20",
+                    "numberBack": "61",
+                    "nameBack": "Béla király u. - Helyi- autóbuszállomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Baross G. u.","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["10:20", "10:21", "10:22", "10:24", "10:28"]
+                },
+                {
+                    "startBack": "12:20",
+                    "numberBack": "61",
+                    "nameBack": "Béla király u. - Helyi- autóbuszállomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Baross G. u.","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["12:20", "12:21", "12:22", "12:24", "12:28"]
+                },
+                {
+                    "startBack": "13:10",
+                    "numberBack": "61",
+                    "nameBack": "Béla király u. - Helyi- autóbuszállomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Baross G. u.","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["13:10", "13:11", "13:12", "13:14", "13:18"]
+                },
+                {
+                    "startBack": "20:05",
+                    "numberBack": "61",
+                    "nameBack": "Béla király u. - Helyi- autóbuszállomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Baross G. u.","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["20:05", "20:06", "20:07", "20:09", "20:13"]
+                },
+                {
+                    "startBack": "21:00",
+                    "numberBack": "61",
+                    "nameBack": "Béla király u. - Helyi- autóbuszállomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Baross G. u.","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["21:00", "21:01", "21:02", "21:04", "21:08"]
+                },
+                {
+                    "startBack": "22:35",
+                    "numberBack": "61",
+                    "nameBack": "Béla király u. - Helyi- autóbuszállomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Baross G. u.","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["22:35", "22:36", "22:37", "22:38", "22:39"]
                 },
         /*-----------------------------------------------------61 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------62 BACK-------------------------------------------------*/
                 {
-                    "startBack": "04:45",
+                    "startBack": "09:18",
                     "numberBack": "62",
-                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameBack": "Béla király u. - Városi fürdő - Helyi autóbusz-állomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Városi fürdő","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                    "stopsTimeBack": ["09:18", "09:19", "09:20", "09:22", "09:25", "09:28"]
+                },
+                {
+                    "startBack": "11:18",
+                    "numberBack": "62",
+                    "nameBack": "Béla király u. - Városi fürdő - Helyi autóbusz-állomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Városi fürdő","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                    "stopsTimeBack": ["11:18", "11:19", "11:20", "11:22", "11:25", "11:28"]
+                },
+                {
+                    "startBack": "13:53",
+                    "numberBack": "62",
+                    "nameBack": "Béla király u. - Városi fürdő - Helyi autóbusz-állomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Városi fürdő","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                    "stopsTimeBack": ["13:53", "13:54", "13:55", "13:57", "14:00", "14:03"]
+                },
+                {
+                    "startBack": "14:33",
+                    "numberBack": "62",
+                    "nameBack": "Béla király u. - Városi fürdő - Helyi autóbusz-állomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Városi fürdő","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                    "stopsTimeBack": ["14:33", "14:34", "14:35", "14:37", "14:40", "14:43"]
+                },
+                {
+                    "startBack": "15:38",
+                    "numberBack": "62",
+                    "nameBack": "Béla király u. - Városi fürdő - Helyi autóbusz-állomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Városi fürdő","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                    "stopsTimeBack": ["15:38", "15:39", "15:40", "15:42", "15:45", "15:48"]
+                },
+                {
+                    "startBack": "16:28",
+                    "numberBack": "62",
+                    "nameBack": "Béla király u. - Városi fürdő - Helyi autóbusz-állomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Városi fürdő","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                    "stopsTimeBack": ["16:28", "16:29", "16:30", "16:32", "16:35", "16:38"]
+                },
+                {
+                    "startBack": "17:28",
+                    "numberBack": "62",
+                    "nameBack": "Béla király u. - Városi fürdő - Helyi autóbusz-állomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Városi fürdő","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                    "stopsTimeBack": ["17:28", "17:29", "17:30", "17:32", "17:35", "17:38"]
+                },
+                {
+                    "startBack": "17:58",
+                    "numberBack": "62",
+                    "nameBack": "Béla király u. - Városi fürdő - Helyi autóbusz-állomás",
+                    "stopsBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Városi fürdő","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                    "stopsTimeBack": ["17:58", "17:59", "18:00", "18:02", "18:05", "18:08"]
                 },
         /*-----------------------------------------------------62 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------70 BACK-------------------------------------------------*/
                 {
-                    "startBack": "04:45",
+                    "startBack": "07:45",
                     "numberBack": "70",
-                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameBack": "Kaposfüred - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Állomás u.","Kaposfüred vá.","Állomás u.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep"
+                    ,"Zöld Fűtőmű","Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                    "stopsTimeBack": ["07:45", "07:46", "07:47", "07:49", "07:51", "07:53", "07:54", "07:55", "07:56", "07:58", "07:59", "08:00", "08:01", "08:02", "08:03", "08:05", "08:06", "08:08", "08:10"]
+                },
+                {
+                    "startBack": "08:05",
+                    "numberBack": "70",
+                    "nameBack": "Kaposfüred - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Állomás u.","Kaposfüred vá.","Állomás u.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep"
+                    ,"Zöld Fűtőmű","Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                    "stopsTimeBack": ["08:05", "08:06", "08:07", "08:09", "08:11", "08:13", "08:14", "08:15", "08:16", "08:18", "08:19", "08:20", "08:21", "08:22", "08:23", "08:25", "08:26", "08:28", "08:30"]
+                },
+                {
+                    "startBack": "08:40",
+                    "numberBack": "70",
+                    "nameBack": "Kaposfüred - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Állomás u.","Kaposfüred vá.","Állomás u.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep"
+                    ,"Zöld Fűtőmű","Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                    "stopsTimeBack": ["08:40", "08:41", "08:42", "08:44", "08:46", "08:48", "08:49", "08:50", "08:51", "08:53", "08:54", "08:55", "08:56", "08:57", "08:58", "09:00", "09:01", "09:03", "09:05"]
+                },
+                {
+                    "startBack": "09:25",
+                    "numberBack": "70",
+                    "nameBack": "Kaposfüred - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Állomás u.","Kaposfüred vá.","Állomás u.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep"
+                    ,"Zöld Fűtőmű","Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                    "stopsTimeBack": ["09:25", "09:26", "09:27", "09:29", "09:31", "09:33", "09:34", "09:35", "09:36", "09:38", "09:39", "09:40", "09:41", "09:42", "09:43", "09:45", "09:46", "09:48", "09:50"]
+                },
+                {
+                    "startBack": "14:45",
+                    "numberBack": "70",
+                    "nameBack": "Kaposfüred - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Állomás u.","Kaposfüred vá.","Állomás u.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep"
+                    ,"Zöld Fűtőmű","Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                    "stopsTimeBack": ["14:45", "14:46", "14:47", "14:49", "14:51", "14:53", "14:54", "14:55", "14:56", "14:58", "14:59", "15:00", "15:01", "15:02", "15:03", "15:05", "15:06", "15:08", "15:10"]
+                },
+                {
+                    "startBack": "15:25",
+                    "numberBack": "70",
+                    "nameBack": "Kaposfüred - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Állomás u.","Kaposfüred vá.","Állomás u.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep"
+                    ,"Zöld Fűtőmű","Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                    "stopsTimeBack": ["15:25", "15:26", "15:27", "15:29", "15:31", "15:33", "15:34", "15:35", "15:36", "15:38", "15:39", "15:40", "15:41", "15:42", "15:43", "15:45", "15:46", "15:48", "15:50"]
+                },
+                {
+                    "startBack": "16:25",
+                    "numberBack": "70",
+                    "nameBack": "Kaposfüred - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Állomás u.","Kaposfüred vá.","Állomás u.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep"
+                    ,"Zöld Fűtőmű","Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                    "stopsTimeBack": ["16:25", "16:26", "16:27", "16:29", "16:31", "16:33", "16:34", "16:35", "16:36", "16:38", "16:39", "16:40", "16:41", "16:42", "16:43", "16:45", "16:46", "16:48", "16:50"]
+                },
+                {
+                    "startBack": "17:55",
+                    "numberBack": "70",
+                    "nameBack": "Kaposfüred - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Állomás u.","Kaposfüred vá.","Állomás u.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep"
+                    ,"Zöld Fűtőmű","Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                    "stopsTimeBack": ["17:55", "17:56", "17:57", "17:59", "18:01", "18:03", "18:04", "18:05", "18:06", "18:08", "18:09", "18:10", "18:11", "18:12", "18:13", "18:15", "18:16", "18:18", "18:20"]
+                },
+                {
+                    "startBack": "22:45",
+                    "numberBack": "70",
+                    "nameBack": "Kaposfüred - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Állomás u.","Kaposfüred vá.","Állomás u.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep"
+                    ,"Zöld Fűtőmű","Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                    "stopsTimeBack": ["22:45", "22:46", "22:47", "22:49", "22:51", "22:53", "22:54", "22:55", "22:56", "22:58", "22:59", "23:00", "23:01", "23:02", "23:03", "23:05", "23:06", "23:08", "23:10"]
                 },
         /*-----------------------------------------------------70 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------71 BACK-------------------------------------------------*/
                 {
-                    "startBack": "04:45",
+                    "startBack": "05:30",
                     "numberBack": "71",
-                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameBack": "Kaposszentjakab forduló - Kaposfüred forduló",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónyegyed","Kinizsi ltp.","Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeBack": ["05:30", "05:31", "05:32", "05:34", "05:36", "05:38", "05:39", "05:40", "05:41", "05:42", "05:43", "05:45", "05:47", "05:48", "05:50", "05:51", "05:53", "05:54", "05:55", "05:56", "05:57", "05:59", "06:00", "06:01", "06:03", "06:05"]
+                },
+                {
+                    "startBack": "06:00",
+                    "numberBack": "71",
+                    "nameBack": "Kaposszentjakab forduló - Kaposfüred forduló",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónyegyed","Kinizsi ltp.","Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeBack": ["06:00", "06:01", "06:02", "06:04", "06:06", "06:08", "06:09", "06:10", "06:11", "06:12", "06:13", "06:15", "06:17", "06:18", "06:20", "06:21", "06:23", "06:24", "06:25", "06:26", "06:27", "06:29", "06:30", "06:31", "06:33", "06:35"]
+                },
+                {
+                    "startBack": "07:10",
+                    "numberBack": "71",
+                    "nameBack": "Kaposszentjakab forduló - Kaposfüred forduló",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónyegyed","Kinizsi ltp.","Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeBack": ["07:10", "07:11", "07:12", "07:14", "07:16", "07:18", "07:19", "07:20", "07:21", "07:22", "07:23", "07:25", "07:27", "07:28", "07:30", "07:31", "07:33", "07:34", "07:35", "07:36", "07:37", "07:39", "07:40", "07:41", "07:43", "07:45"]
+                },
+                {
+                    "startBack": "07:30",
+                    "numberBack": "71",
+                    "nameBack": "Kaposszentjakab forduló - Kaposfüred forduló",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónyegyed","Kinizsi ltp.","Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeBack": ["07:30", "07:31", "07:32", "07:34", "07:36", "07:38", "07:39", "07:40", "07:41", "07:42", "07:43", "07:45", "07:47", "07:48", "07:50", "07:51", "07:53", "07:54", "07:55", "07:56", "07:57", "07:59", "08:00", "08:01", "08:03", "08:05"]
+                },
+                {
+                    "startBack": "08:05",
+                    "numberBack": "71",
+                    "nameBack": "Kaposszentjakab forduló - Kaposfüred forduló",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónyegyed","Kinizsi ltp.","Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeBack": ["08:05", "08:06", "08:07", "08:09", "08:11", "08:13", "08:14", "08:15", "08:16", "08:17", "08:18", "08:20", "08:22", "08:23", "08:25", "08:26", "08:28", "08:29", "08:30", "08:31", "08:32", "08:34", "08:35", "08:36", "08:38", "08:40"]
+                },
+                {
+                    "startBack": "10:45",
+                    "numberBack": "71",
+                    "nameBack": "Kaposszentjakab forduló - Kaposfüred forduló",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónyegyed","Kinizsi ltp.","Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeBack": ["10:45", "10:46", "10:47", "10:49", "10:51", "10:53", "10:54", "10:55", "10:56", "10:57", "10:58", "11:00", "11:02", "11:03", "11:05", "11:06", "11:08", "11:09", "11:10", "11:11", "11:12", "11:14", "11:15", "11:16", "11:18", "11:20"]
+                },
+                {
+                    "startBack": "12:40",
+                    "numberBack": "71",
+                    "nameBack": "Kaposszentjakab forduló - Kaposfüred forduló",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónyegyed","Kinizsi ltp.","Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeBack": ["12:40", "12:41", "12:42", "12:44", "12:46", "12:48", "12:49", "12:50", "12:51", "12:52", "12:53", "12:55", "12:57", "12:58", "13:00", "13:01", "13:03", "13:04", "13:05", "13:06", "13:07", "13:09", "13:10", "13:11", "13:13", "13:15"]
+                },
+                {
+                    "startBack": "14:50",
+                    "numberBack": "71",
+                    "nameBack": "Kaposszentjakab forduló - Kaposfüred forduló",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónyegyed","Kinizsi ltp.","Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeBack": ["14:50", "14:51", "14:52", "14:54", "14:56", "14:58", "14:59", "15:00", "15:01", "15:02", "15:03", "15:05", "15:07", "15:08", "15:10", "15:11", "15:13", "15:14", "15:15", "15:16", "15:17", "15:19", "15:20", "15:21", "15:23", "15:25"]
+                },
+                {
+                    "startBack": "15:50",
+                    "numberBack": "71",
+                    "nameBack": "Kaposszentjakab forduló - Kaposfüred forduló",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónyegyed","Kinizsi ltp.","Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeBack": ["15:50", "15:51", "15:52", "15:54", "15:56", "15:58", "15:59", "16:00", "16:01", "16:02", "16:03", "16:05", "16:07", "16:08", "16:10", "16:11", "16:13", "16:14", "16:15", "16:16", "16:17", "16:19", "16:20", "16:21", "16:23", "16:25"]
+                },
+                {
+                    "startBack": "16:05",
+                    "numberBack": "71",
+                    "nameBack": "Kaposszentjakab forduló - Kaposfüred forduló",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónyegyed","Kinizsi ltp.","Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeBack": ["16:05", "16:06", "16:07", "16:09", "16:11", "16:13", "16:14", "16:15", "16:16", "16:17", "16:18", "16:20", "16:22", "16:23", "16:25", "16:26", "16:28", "16:29", "16:30", "16:31", "16:32", "16:34", "16:35", "16:36", "16:38", "16:40"]
+                },
+                {
+                    "startBack": "17:20",
+                    "numberBack": "71",
+                    "nameBack": "Kaposszentjakab forduló - Kaposfüred forduló",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónyegyed","Kinizsi ltp.","Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeBack": ["17:20", "17:21", "17:22", "17:24", "17:26", "17:28", "17:29", "17:30", "17:31", "17:32", "17:33", "17:35", "17:37", "17:38", "17:40", "17:41", "17:43", "17:44", "17:45", "17:46", "17:47", "17:49", "17:50", "17:51", "17:53", "17:55"]
+                },
+                {
+                    "startBack": "18:25",
+                    "numberBack": "71",
+                    "nameBack": "Kaposszentjakab forduló - Kaposfüred forduló",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónyegyed","Kinizsi ltp.","Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeBack": ["18:25", "18:26", "18:27", "18:29", "18:31", "18:33", "18:34", "18:35", "18:36", "18:37", "18:38", "18:40", "18:42", "18:43", "18:45", "18:46", "18:48", "18:49", "18:50", "18:51", "18:52", "18:54", "18:55", "18:56", "18:58", "19:00"]
+                },
+                {
+                    "startBack": "19:45",
+                    "numberBack": "71",
+                    "nameBack": "Kaposszentjakab forduló - Kaposfüred forduló",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónyegyed","Kinizsi ltp.","Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeBack": ["19:45", "19:46", "19:47", "19:49", "19:51", "19:53", "19:54", "19:55", "19:56", "19:57", "19:58", "20:00", "20:02", "20:03", "20:05", "20:06", "20:08", "20:09", "20:10", "20:11", "20:12", "20:14", "20:15", "20:16", "20:18", "20:20"]
+                },
+                {
+                    "startBack": "20:30",
+                    "numberBack": "71",
+                    "nameBack": "Kaposszentjakab forduló - Kaposfüred forduló",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónyegyed","Kinizsi ltp.","Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeBack": ["20:30", "20:31", "20:32", "20:34", "20:36", "20:38", "20:39", "20:40", "20:41", "20:42", "20:43", "20:45", "20:46", "20:47", "20:48", "20:49", "20:50", "20:51", "20:52", "20:53", "20:54", "20:56", "20:57", "20:58", "20:59", "21:00"]
                 },
         /*-----------------------------------------------------71 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------72 BACK-------------------------------------------------*/
                 {
-                    "startBack": "04:45",
+                    "startBack": "04:50",
                     "numberBack": "72",
-                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameBack": "Kaposszentjakab forduló - Hold u. - Kaposfüred forduló",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Nap u.","Hold u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma"
+                    ,"Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónyegyed","Kinizsi ltp."
+                    ,"Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeBack": ["04:50", "04:51", "04:52", "04:53", "04:54", "04:55", "04:57", "04:59", "05:00", "05:02", "05:03", "05:04", "05:06", "05:07", "05:08", "05:10", "05:12", "05:13", "05:15", "05:16", "05:17", "05:18", "05:19", "05:20", "05:21", "05:25", "05:27", "05:28", "05:29", "05:30"]
+                },
+                {
+                    "startBack": "08:45",
+                    "numberBack": "72",
+                    "nameBack": "Kaposszentjakab forduló - Hold u. - Kaposfüred forduló",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Nap u.","Hold u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma"
+                    ,"Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónyegyed","Kinizsi ltp."
+                    ,"Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeBack": ["08:45", "08:46", "08:47", "08:48", "08:49", "08:50", "08:52", "08:54", "08:55", "08:57", "08:58", "08:59", "09:01", "09:02", "09:03", "09:05", "09:07", "09:08", "09:10", "09:11", "09:12", "09:13", "09:14", "09:15", "09:16", "09:20", "09:22", "09:23", "09:24", "09:25"]
                 },
         /*-----------------------------------------------------72 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------73 BACK-------------------------------------------------*/
@@ -2418,38 +3367,362 @@
         /*-----------------------------------------------------73 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------75 BACK-------------------------------------------------*/
                 {
-                    "startBack": "04:45",
+                    "startBack": "06:45",
                     "numberBack": "75",
-                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameBack": "Kaposszentjakab - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u."
+                    ,"Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["06:45", "06:46", "06:47", "06:48", "06:50", "06:51", "06:53", "06:54", "06:55", "06:56", "06:58", "07:00"]
+                },
+                {
+                    "startBack": "07:45",
+                    "numberBack": "75",
+                    "nameBack": "Kaposszentjakab - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u."
+                    ,"Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["07:45", "07:46", "07:47", "07:48", "07:50", "07:51", "07:53", "07:54", "07:55", "07:56", "07:58", "08:00"]
+                },
+                {
+                    "startBack": "10:05",
+                    "numberBack": "75",
+                    "nameBack": "Kaposszentjakab - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u."
+                    ,"Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["10:05", "10:06", "10:07", "10:08", "10:10", "10:11", "10:13", "10:14", "10:15", "10:16", "10:18", "10:20"]
+                },
+                {
+                    "startBack": "11:20",
+                    "numberBack": "75",
+                    "nameBack": "Kaposszentjakab - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u."
+                    ,"Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["11:20", "11:21", "11:22", "11:23", "11:25", "11:26", "11:28", "11:29", "11:30", "11:31", "11:33", "11:35"]
+                },
+                {
+                    "startBack": "12:00",
+                    "numberBack": "75",
+                    "nameBack": "Kaposszentjakab - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u."
+                    ,"Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["12:00", "12:01", "12:02", "12:03", "12:05", "12:06", "12:08", "12:09", "12:10", "12:11", "12:13", "12:15"]
+                },
+                {
+                    "startBack": "13:30",
+                    "numberBack": "75",
+                    "nameBack": "Kaposszentjakab - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u."
+                    ,"Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["13:30", "13:31", "13:32", "13:33", "13:35", "13:36", "13:38", "13:39", "13:40", "13:41", "13:43", "13:45"]
+                },
+                {
+                    "startBack": "15:10",
+                    "numberBack": "75",
+                    "nameBack": "Kaposszentjakab - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u."
+                    ,"Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["15:10", "15:11", "15:12", "15:13", "15:15", "15:16", "15:18", "15:19", "15:20", "15:21", "15:23", "15:25"]
+                },
+                {
+                    "startBack": "17:50",
+                    "numberBack": "75",
+                    "nameBack": "Kaposszentjakab - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u."
+                    ,"Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["17:50", "17:51", "17:52", "17:53", "17:55", "17:56", "17:58", "17:59", "18:00", "18:01", "18:03", "18:05"]
+                },
+                {
+                    "startBack": "21:00",
+                    "numberBack": "75",
+                    "nameBack": "Kaposszentjakab - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u."
+                    ,"Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["21:00", "21:01", "21:02", "21:03", "21:05", "21:06", "21:08", "21:09", "21:10", "21:11", "21:13", "21:15"]
+                },
+                {
+                    "startBack": "22:45",
+                    "numberBack": "75",
+                    "nameBack": "Kaposszentjakab - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u."
+                    ,"Pécsi úti iskola","Gyár u.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["22:45", "22:46", "22:47", "22:48", "22:50", "22:51", "22:53", "22:54", "22:55", "22:56", "22:58", "23:00"]
                 },
         /*-----------------------------------------------------75 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------81 BACK-------------------------------------------------*/
                 {
-                    "startBack": "04:45",
+                    "startBack": "06:47",
                     "numberBack": "81",
-                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameBack": "Toponár forduló - Hősök temploma - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, forduló","Toponári u. 238.","Toponári u. 182.","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár"
+                    ,"Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["06:47", "06:48", "06:49", "06:51", "06:52", "06:54", "06:55", "06:56", "06:57", "06:58", "06:59", "07:01", "07:02", "07:03", "07:05", "07:07"]
+                },
+                {
+                    "startBack": "07:32",
+                    "numberBack": "81",
+                    "nameBack": "Toponár forduló - Hősök temploma - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, forduló","Toponári u. 238.","Toponári u. 182.","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár"
+                    ,"Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["07:32", "07:33", "07:34", "07:36", "07:37", "07:39", "07:40", "07:41", "07:42", "07:43", "07:44", "07:46", "07:47", "07:48", "07:50", "07:52"]
+                },
+                {
+                    "startBack": "10:57",
+                    "numberBack": "81",
+                    "nameBack": "Toponár forduló - Hősök temploma - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, forduló","Toponári u. 238.","Toponári u. 182.","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár"
+                    ,"Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["10:57", "10:58", "10:59", "11:01", "11:02", "11:04", "11:05", "11:06", "11:07", "11:08", "11:09", "11:11", "11:12", "11:13", "11:15", "11:17"]
+                },
+                {
+                    "startBack": "11:57",
+                    "numberBack": "81",
+                    "nameBack": "Toponár forduló - Hősök temploma - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, forduló","Toponári u. 238.","Toponári u. 182.","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár"
+                    ,"Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["11:57", "11:58", "11:59", "12:01", "12:02", "12:04", "12:05", "12:06", "12:07", "12:08", "12:09", "12:11", "12:12", "12:13", "12:15", "12:17"]
+                },
+                {
+                    "startBack": "13:32",
+                    "numberBack": "81",
+                    "nameBack": "Toponár forduló - Hősök temploma - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, forduló","Toponári u. 238.","Toponári u. 182.","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár"
+                    ,"Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["13:32", "13:33", "13:34", "13:36", "13:37", "13:39", "13:40", "13:41", "13:42", "13:43", "13:44", "13:46", "13:47", "13:48", "13:50", "13:52"]
+                },
+                {
+                    "startBack": "15:27",
+                    "numberBack": "81",
+                    "nameBack": "Toponár forduló - Hősök temploma - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, forduló","Toponári u. 238.","Toponári u. 182.","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár"
+                    ,"Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["15:27", "15:28", "15:29", "15:31", "15:32", "15:34", "15:35", "15:36", "15:37", "15:38", "15:39", "15:41", "15:42", "15:43", "15:45", "15:47"]
+                },
+                {
+                    "startBack": "17:22",
+                    "numberBack": "81",
+                    "nameBack": "Toponár forduló - Hősök temploma - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, forduló","Toponári u. 238.","Toponári u. 182.","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár"
+                    ,"Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["17:22", "17:23", "17:24", "17:26", "17:27", "17:29", "17:30", "17:31", "17:32", "17:33", "17:34", "17:36", "17:37", "17:38", "17:40", "17:42"]
                 },
         /*-----------------------------------------------------81 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------82 BACK-------------------------------------------------*/
                 {
-                    "startBack": "04:45",
+                    "startBack": "06:00",
                     "numberBack": "82",
-                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameBack": "Toponár Szabó P. u. - Kórház - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81."
+                    ,"Guba S. u. 57.","Izzó u.","Mező u. csp.","Kisgát","Pázmány P. u.","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["06:00", "06:01", "06:02", "06:04", "06:05", "06:07", "06:09", "06:10", "06:11", "06:12", "06:13", "06:15", "06:16", "06:18", "06:19", "06:21", "06:22", "06:23", "06:24"]
+                },
+                {
+                    "startBack": "06:30",
+                    "numberBack": "82",
+                    "nameBack": "Toponár Szabó P. u. - Kórház - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81."
+                    ,"Guba S. u. 57.","Izzó u.","Mező u. csp.","Kisgát","Pázmány P. u.","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["06:30", "06:31", "06:32", "06:34", "06:35", "06:37", "06:39", "06:40", "06:41", "06:42", "06:43", "06:45", "06:46", "06:48", "06:49", "06:51", "06:52", "06:53", "06:54"]
+                },
+                {
+                    "startBack": "07:00",
+                    "numberBack": "82",
+                    "nameBack": "Toponár Szabó P. u. - Kórház - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81."
+                    ,"Guba S. u. 57.","Izzó u.","Mező u. csp.","Kisgát","Pázmány P. u.","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["07:00", "07:01", "07:02", "07:04", "07:05", "07:07", "07:09", "07:10", "07:11", "07:12", "07:13", "07:15", "07:16", "07:18", "07:19", "07:21", "07:22", "07:23", "07:24"]
+                },
+                {
+                    "startBack": "07:25",
+                    "numberBack": "82",
+                    "nameBack": "Toponár Szabó P. u. - Kórház - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81."
+                    ,"Guba S. u. 57.","Izzó u.","Mező u. csp.","Kisgát","Pázmány P. u.","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["07:25", "07:26", "07:27", "07:29", "07:30", "07:32", "07:34", "07:35", "07:36", "07:37", "07:38", "07:40", "07:41", "07:43", "07:44", "07:46", "07:47", "07:48", "07:49"]
+                },
+                {
+                    "startBack": "07:50",
+                    "numberBack": "82",
+                    "nameBack": "Toponár Szabó P. u. - Kórház - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81."
+                    ,"Guba S. u. 57.","Izzó u.","Mező u. csp.","Kisgát","Pázmány P. u.","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["07:50", "07:51", "07:52", "07:54", "07:55", "07:57", "07:59", "08:00", "08:01", "08:02", "08:03", "08:05", "08:06", "08:08", "08:09", "08:11", "08:12", "08:13", "08:14"]
+                },
+                {
+                    "startBack": "08:35",
+                    "numberBack": "82",
+                    "nameBack": "Toponár Szabó P. u. - Kórház - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81."
+                    ,"Guba S. u. 57.","Izzó u.","Mező u. csp.","Kisgát","Pázmány P. u.","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["08:35", "08:36", "08:37", "08:39", "08:40", "08:42", "08:44", "08:45", "08:46", "08:47", "08:48", "08:50", "08:51", "08:53", "08:54", "08:56", "08:57", "08:58", "08:59"]
+                },
+                {
+                    "startBack": "10:00",
+                    "numberBack": "82",
+                    "nameBack": "Toponár Szabó P. u. - Kórház - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81."
+                    ,"Guba S. u. 57.","Izzó u.","Mező u. csp.","Kisgát","Pázmány P. u.","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["10:00", "10:01", "10:02", "10:04", "10:05", "10:07", "10:09", "10:10", "10:11", "10:12", "10:13", "10:15", "10:16", "10:18", "10:19", "10:21", "10:22", "10:23", "10:24"]
+                },
+                {
+                    "startBack": "10:30",
+                    "numberBack": "82",
+                    "nameBack": "Toponár Szabó P. u. - Kórház - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81."
+                    ,"Guba S. u. 57.","Izzó u.","Mező u. csp.","Kisgát","Pázmány P. u.","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["10:30", "10:31", "10:32", "10:34", "10:35", "10:37", "10:39", "10:40", "10:41", "10:42", "10:43", "10:45", "10:46", "10:48", "10:49", "10:51", "10:52", "10:53", "10:54"]
+                },
+                {
+                    "startBack": "11:30",
+                    "numberBack": "82",
+                    "nameBack": "Toponár Szabó P. u. - Kórház - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81."
+                    ,"Guba S. u. 57.","Izzó u.","Mező u. csp.","Kisgát","Pázmány P. u.","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["11:30", "11:31", "11:32", "11:34", "11:35", "11:37", "11:39", "11:40", "11:41", "11:42", "11:43", "11:45", "11:46", "11:48", "11:49", "11:51", "11:52", "11:53", "11:54"]
+                },
+                {
+                    "startBack": "13:15",
+                    "numberBack": "82",
+                    "nameBack": "Toponár Szabó P. u. - Kórház - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81."
+                    ,"Guba S. u. 57.","Izzó u.","Mező u. csp.","Kisgát","Pázmány P. u.","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["13:15", "13:16", "13:17", "13:19", "13:20", "13:22", "13:24", "13:25", "13:26", "13:27", "13:28", "13:30", "13:31", "13:33", "13:34", "13:36", "13:37", "13:38", "13:39"]
+                },
+                {
+                    "startBack": "14:00",
+                    "numberBack": "82",
+                    "nameBack": "Toponár Szabó P. u. - Kórház - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81."
+                    ,"Guba S. u. 57.","Izzó u.","Mező u. csp.","Kisgát","Pázmány P. u.","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["14:00", "14:01", "14:02", "14:04", "14:05", "14:07", "14:09", "14:10", "14:11", "14:12", "14:13", "14:15", "14:16", "14:18", "14:19", "14:21", "14:22", "14:23", "14:24"]
+                },
+                {
+                    "startBack": "14:30",
+                    "numberBack": "82",
+                    "nameBack": "Toponár Szabó P. u. - Kórház - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81."
+                    ,"Guba S. u. 57.","Izzó u.","Mező u. csp.","Kisgát","Pázmány P. u.","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["14:30", "14:31", "14:32", "14:34", "14:35", "14:37", "14:39", "14:40", "14:41", "14:42", "14:43", "14:45", "14:46", "14:48", "14:49", "14:51", "14:52", "14:53", "14:54"]
+                },
+                {
+                    "startBack": "15:05",
+                    "numberBack": "82",
+                    "nameBack": "Toponár Szabó P. u. - Kórház - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81."
+                    ,"Guba S. u. 57.","Izzó u.","Mező u. csp.","Kisgát","Pázmány P. u.","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["15:05", "15:06", "15:07", "15:09", "15:10", "15:12", "15:14", "15:15", "15:16", "15:17", "15:18", "15:20", "15:21", "15:23", "15:24", "15:26", "15:27", "15:28", "15:29"]
+                },
+                {
+                    "startBack": "15:55",
+                    "numberBack": "82",
+                    "nameBack": "Toponár Szabó P. u. - Kórház - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81."
+                    ,"Guba S. u. 57.","Izzó u.","Mező u. csp.","Kisgát","Pázmány P. u.","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["15:55", "15:56", "15:57", "15:59", "16:00", "16:02", "16:04", "16:05", "16:06", "16:07", "16:08", "16:10", "16:11", "16:13", "16:14", "16:16", "16:17", "16:18", "16:19"]
+                },
+                {
+                    "startBack": "17:10",
+                    "numberBack": "82",
+                    "nameBack": "Toponár Szabó P. u. - Kórház - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81."
+                    ,"Guba S. u. 57.","Izzó u.","Mező u. csp.","Kisgát","Pázmány P. u.","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["17:10", "17:11", "17:12", "17:14", "17:15", "17:17", "17:19", "17:20", "17:21", "17:22", "17:23", "17:25", "17:26", "17:28", "17:29", "17:31", "17:32", "17:33", "17:34"]
+                },
+                {
+                    "startBack": "18:10",
+                    "numberBack": "82",
+                    "nameBack": "Toponár Szabó P. u. - Kórház - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81."
+                    ,"Guba S. u. 57.","Izzó u.","Mező u. csp.","Kisgát","Pázmány P. u.","Rendőrség","Szent Imre u. 29.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["18:10", "18:11", "18:12", "18:14", "18:15", "18:17", "18:19", "18:20", "18:21", "18:22", "18:23", "18:25", "18:26", "18:28", "18:29", "18:31", "18:32", "18:33", "18:34"]
                 },
         /*-----------------------------------------------------82 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------83 BACK-------------------------------------------------*/
                 {
-                    "startBack": "04:45",
+                    "startBack": "04:46",
                     "numberBack": "83",
-                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameBack": "Toponár forduló - Szabó P. u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, forduló","Toponári u. 238.","Toponári u. 182.","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár"
+                    ,"Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["04:46", "04:47", "04:48", "04:50", "04:51", "04:53", "04:54", "04:55", "04:56", "04:57", "04:58", "05:00", "05:01", "05:02", "05:04", "05:06"]
+                },
+                {
+                    "startBack": "05:30",
+                    "numberBack": "83",
+                    "nameBack": "Toponár forduló - Szabó P. u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, forduló","Toponári u. 238.","Toponári u. 182.","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár"
+                    ,"Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["05:30", "05:31", "05:32", "05:34", "05:35", "05:37", "05:38", "05:39", "05:40", "05:41", "05:42", "05:44", "05:45", "05:46", "05:48", "05:50"]
+                },
+                {
+                    "startBack": "09:30",
+                    "numberBack": "83",
+                    "nameBack": "Toponár forduló - Szabó P. u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, forduló","Toponári u. 238.","Toponári u. 182.","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár"
+                    ,"Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["09:30", "09:31", "09:32", "09:34", "09:35", "09:37", "09:38", "09:39", "09:40", "09:41", "09:42", "09:44", "09:45", "09:46", "09:48", "09:50"]
+                },
+                {
+                    "startBack": "12:30",
+                    "numberBack": "83",
+                    "nameBack": "Toponár forduló - Szabó P. u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, forduló","Toponári u. 238.","Toponári u. 182.","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár"
+                    ,"Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["12:30", "12:31", "12:32", "12:34", "12:35", "12:37", "12:38", "12:39", "12:40", "12:41", "12:42", "12:44", "12:45", "12:46", "12:48", "12:50"]
+                },
+                {
+                    "startBack": "16:30",
+                    "numberBack": "83",
+                    "nameBack": "Toponár forduló - Szabó P. u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, forduló","Toponári u. 238.","Toponári u. 182.","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár"
+                    ,"Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["16:30", "16:31", "16:32", "16:34", "16:35", "16:38", "16:39", "16:40", "16:41", "16:42", "16:43", "16:44", "16:46", "16:47", "16:48", "16:50", "16:52"]
+                },
+                {
+                    "startBack": "17:45",
+                    "numberBack": "83",
+                    "nameBack": "Toponár forduló - Szabó P. u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, forduló","Toponári u. 238.","Toponári u. 182.","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár"
+                    ,"Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["17:45", "17:46", "17:47", "17:49", "17:50", "17:52", "17:53", "17:54", "17:55", "17:56", "17:58", "17:59", "18:00", "18:01", "18:03", "18:04", "18:05", "18:07", "18:09"]
+                },
+                {
+                    "startBack": "18:50",
+                    "numberBack": "83",
+                    "nameBack": "Toponár forduló - Szabó P. u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, forduló","Toponári u. 238.","Toponári u. 182.","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár"
+                    ,"Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["18:50", "18:51", "18:52", "18:54", "18:55", "18:57", "18:58", "18:59", "19:00", "19:01", "19:02", "19:04", "19:05", "19:06", "19:08", "19:10"]
+                },
+                {
+                    "startBack": "19:30",
+                    "numberBack": "83",
+                    "nameBack": "Toponár forduló - Szabó P. u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, forduló","Toponári u. 238.","Toponári u. 182.","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár"
+                    ,"Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["19:30", "19:31", "19:32", "19:34", "19:35", "19:37", "19:38", "19:39", "19:40", "19:41", "19:42", "19:44", "19:45", "19:46", "19:48", "19:50"]
+                },
+                {
+                    "startBack": "20:20",
+                    "numberBack": "83",
+                    "nameBack": "Toponár forduló - Szabó P. u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, forduló","Toponári u. 238.","Toponári u. 182.","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár"
+                    ,"Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["20:20", "20:21", "20:22", "20:24", "20:25", "20:27", "20:28", "20:29", "20:30", "20:31", "20:32", "20:34", "20:35", "20:36", "20:38", "20:40"]
+                },
+                {
+                    "startBack": "21:00",
+                    "numberBack": "83",
+                    "nameBack": "Toponár forduló - Szabó P. u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, forduló","Toponári u. 238.","Toponári u. 182.","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár"
+                    ,"Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["21:00", "21:01", "21:02", "21:04", "21:05", "21:07", "21:08", "21:09", "21:10", "21:11", "21:12", "21:14", "21:15", "21:16", "21:18", "21:20"]
+                },
+                {
+                    "startBack": "22:05",
+                    "numberBack": "83",
+                    "nameBack": "Toponár forduló - Szabó P. u. - Helyi autóbusz-állomás",
+                    "stopsBack": ["Toponár, forduló","Toponári u. 238.","Toponári u. 182.","Toponár, Orci elágazás","Toponár, posta","Kaposvári Egyetem","Villamossági Gyár"
+                    ,"Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["22:05", "22:06", "22:07", "22:09", "22:10", "22:12", "22:13", "22:14", "22:15", "22:16", "22:17", "22:19", "22:20", "22:21", "22:23", "22:25"]
                 },
         /*-----------------------------------------------------83 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------84 BACK-------------------------------------------------*/
@@ -2477,56 +3750,312 @@
         /*-----------------------------------------------------84 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------86 BACK-------------------------------------------------*/
                 {
-                    "startBack": "04:45",
+                    "startBack": "14:15",
                     "numberBack": "86",
-                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameBack": "Szennyvíztelep - METYX - Helyi autóbusz-állomás",
+                    "stopsBack": ["Szennyvíztelep","Cabero","METYX","Dombóvári u. 4.","Videoton","Kenyérgyár u. 3.","Kenyérgyár u. 1.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["14:15", "14:18", "14:19", "14:21", "14:23", "14:24", "14:25", "14:26", "14:28", "14:29", "14:30", "14:32", "14:34"]
+                },
+                {
+                    "startBack": "15:00",
+                    "numberBack": "86",
+                    "nameBack": "Szennyvíztelep - METYX - Helyi autóbusz-állomás",
+                    "stopsBack": ["Szennyvíztelep","Cabero","METYX","Dombóvári u. 4.","Videoton","Kenyérgyár u. 3.","Kenyérgyár u. 1.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["15:00", "15:03", "15:04", "15:06", "15:08", "15:09", "15:10", "15:11", "15:13", "15:14", "15:15", "15:17", "15:19"]
+                },
+                {
+                    "startBack": "16:00",
+                    "numberBack": "86",
+                    "nameBack": "Szennyvíztelep - METYX - Helyi autóbusz-állomás",
+                    "stopsBack": ["Szennyvíztelep","Cabero","METYX","Dombóvári u. 4.","Videoton","Kenyérgyár u. 3.","Kenyérgyár u. 1.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["16:00", "16:03", "16:04", "16:06", "16:08", "16:09", "16:10", "16:11", "16:13", "16:14", "16:15", "16:17", "16:19"]
                 },
         /*-----------------------------------------------------86 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------87 BACK-------------------------------------------------*/
                 {
-                    "startBack": "04:45",
+                    "startBack": "06:10",
                     "numberBack": "87",
-                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameBack": "METYX - Videoton - Helyi autóbusz állomás",
+                    "stopsBack": ["METYX","Dombóvári u. 4.","Videoton","Kenyérgyár u. 3.","Kenyérgyár u. 1.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["06:10", "06:12", "06:14", "06:15", "06:16", "06:17", "06:19", "06:21", "06:22", "06:24", "06:25"]
+                },
+                {
+                    "startBack": "07:30",
+                    "numberBack": "87",
+                    "nameBack": "METYX - Videoton - Helyi autóbusz állomás",
+                    "stopsBack": ["METYX","Dombóvári u. 4.","Videoton","Kenyérgyár u. 3.","Kenyérgyár u. 1.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["07:30", "07:32", "07:34", "07:35", "07:36", "07:37", "07:39", "07:41", "07:42", "07:44", "07:45"]
+                },
+                {
+                    "startBack": "16:20",
+                    "numberBack": "87",
+                    "nameBack": "METYX - Videoton - Helyi autóbusz állomás",
+                    "stopsBack": ["METYX","Dombóvári u. 4.","Videoton","Kenyérgyár u. 3.","Kenyérgyár u. 1.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["16:20", "16:22", "16:24", "16:25", "16:26", "16:27", "16:29", "16:31", "16:32", "16:34", "16:35"]
+                },
+                {
+                    "startBack": "22:10",
+                    "numberBack": "87",
+                    "nameBack": "METYX - Videoton - Helyi autóbusz állomás",
+                    "stopsBack": ["METYX","Dombóvári u. 4.","Videoton","Kenyérgyár u. 3.","Kenyérgyár u. 1.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["22:10", "22:12", "22:14", "22:15", "22:16", "22:17", "22:19", "22:21", "22:22", "22:24", "22:25"]
                 },
         /*-----------------------------------------------------87 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------88 BACK-------------------------------------------------*/
                 {
-                    "startBack": "04:45",
+                    "startBack": "06:25",
                     "numberBack": "88",
-                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameBack": "Videoton - Helyi autóbusz-állomás",
+                    "stopsBack": ["Videoton","Kenyérgyár u. 3.","Kenyérgyár u. 1.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["06:25", "06:26", "06:27", "06:28", "06:30", "06:31", "06:32", "06:35", "06:36"]
+                },
+                {
+                    "startBack": "14:05",
+                    "numberBack": "88",
+                    "nameBack": "Videoton - Helyi autóbusz-állomás",
+                    "stopsBack": ["Videoton","Kenyérgyár u. 3.","Kenyérgyár u. 1.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["14:05", "14:06", "14:07", "14:08", "14:10", "14:11", "14:12", "14:15", "14:16"]
+                },
+                {
+                    "startBack": "14:10",
+                    "numberBack": "88",
+                    "nameBack": "Videoton - Helyi autóbusz-állomás",
+                    "stopsBack": ["Videoton","Kenyérgyár u. 3.","Kenyérgyár u. 1.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["14:10", "14:11", "14:12", "14:13", "14:15", "14:16", "14:17", "14:20", "14:21"]
+                },
+                {
+                    "startBack": "22:10",
+                    "numberBack": "88",
+                    "nameBack": "Videoton - Helyi autóbusz-állomás",
+                    "stopsBack": ["Videoton","Kenyérgyár u. 3.","Kenyérgyár u. 1.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["22:10", "22:11", "22:12", "22:13", "22:15", "22:16", "22:17", "22:20", "22:21"]
                 },
         /*-----------------------------------------------------88 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------89 BACK-------------------------------------------------*/
                 {
-                    "startBack": "04:45",
+                    "startBack": "07:45",
                     "numberBack": "89",
-                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameBack": "Kaposvári Egyetem - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["07:45", "07:46", "07:47", "07:48", "07:49", "07:50", "07:51", "07:52", "07:53", "07:56", "07:57"]
+                },
+                {
+                    "startBack": "09:37",
+                    "numberBack": "89",
+                    "nameBack": "Kaposvári Egyetem - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["09:37", "09:38", "09:39", "09:40", "09:41", "09:42", "09:43", "09:44", "09:45", "09:48", "09:49"]
+                },
+                {
+                    "startBack": "13:55",
+                    "numberBack": "89",
+                    "nameBack": "Kaposvári Egyetem - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["13:55", "13:56", "13:57", "13:58", "13:59", "14:00", "14:01", "14:02", "14:03", "14:06", "14:07"]
+                },
+                {
+                    "startBack": "14:00",
+                    "numberBack": "89",
+                    "nameBack": "Kaposvári Egyetem - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["14:00", "14:01", "14:02", "14:03", "14:04", "14:05", "14:06", "14:07", "14:08", "14:11", "14:12"]
+                },
+                {
+                    "startBack": "14:15",
+                    "numberBack": "89",
+                    "nameBack": "Kaposvári Egyetem - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["14:15", "14:16", "14:17", "14:18", "14:19", "14:20", "14:21", "14:22", "14:23", "14:26", "14:27"]
+                },
+                {
+                    "startBack": "14:25",
+                    "numberBack": "89",
+                    "nameBack": "Kaposvári Egyetem - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["14:25", "14:26", "14:27", "14:28", "14:29", "14:30", "14:31", "14:32", "14:33", "14:36", "14:37"]
+                },
+                {
+                    "startBack": "15:55",
+                    "numberBack": "89",
+                    "nameBack": "Kaposvári Egyetem - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["15:55", "15:56", "15:57", "15:58", "15:59", "16:00", "16:01", "16:02", "16:03", "16:06", "16:07"]
+                },
+                {
+                    "startBack": "16:10",
+                    "numberBack": "89",
+                    "nameBack": "Kaposvári Egyetem - Helyi autóbusz-állomás",
+                    "stopsBack": ["Kaposvári Egyetem","Villamossági Gyár","Guba S. u. 81.","Guba S. u. 57.","Izzó u.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["16:10", "16:11", "16:12", "16:13", "16:14", "16:15", "16:16", "16:17", "16:18", "16:21", "16:22"]
                 },
         /*-----------------------------------------------------89 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------90 BACK-------------------------------------------------*/
                 {
-                    "startBack": "04:45",
+                    "startBack": "08:10",
                     "numberBack": "90",
-                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameBack": "Rómahegy - Helyí autóbusz-állomás",
+                    "stopsBack": ["Rómahegy","Nyár u.","Szigetvári u. 139.","Ballakúti u.","Szigetvári u. 62.","Szigetvári u. 6.","Jókai liget","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["08:10", "08:11", "08:13", "08:14", "08:15", "08:16", "08:17", "08:20", "08:22"]
+                },
+                {
+                    "startBack": "14:15",
+                    "numberBack": "90",
+                    "nameBack": "Rómahegy - Helyí autóbusz-állomás",
+                    "stopsBack": ["Rómahegy","Nyár u.","Szigetvári u. 139.","Ballakúti u.","Szigetvári u. 62.","Szigetvári u. 6.","Jókai liget","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["14:15", "14:16", "14:18", "14:19", "14:20", "14:21", "14:22", "14:25", "14:27"]
+                },
+                {
+                    "startBack": "22:10",
+                    "numberBack": "90",
+                    "nameBack": "Rómahegy - Helyí autóbusz-állomás",
+                    "stopsBack": ["Rómahegy","Nyár u.","Szigetvári u. 139.","Ballakúti u.","Szigetvári u. 62.","Szigetvári u. 6.","Jókai liget","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeBack": ["22:10", "22:11", "22:13", "22:14", "22:15", "22:16", "22:17", "22:20", "22:22"]
                 },
         /*-----------------------------------------------------90 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------91 BACK-------------------------------------------------*/
                 {
-                    "startBack": "04:45",
+                    "startBack": "04:55",
                     "numberBack": "91",
-                    "nameBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameBack": "Füredi u. csp. - Pázmány P u. - Rómahegy",
+                    "stopsBack": ["Füredi utcai csomópont","Arany J. u.","Arany J. tér","Buzsáki u.","Hegyi u.","Vöröstelek u.","Pázmány P. u. 1.","Virág u.","Hársfa u.","Fő u. 37-39."
+                    ,"Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Jókai liget","Szigetvári u. 6.","Szigetvári u. 62.","Ballakúti u.","Szigetvári u. 139.","Nyár u.","Rómahegy"],
+                    "stopsTimeBack": ["04:55", "04:56", "04:58", "04:59", "05:00", "05:01", "05:03", "05:04", "05:05", "05:06", "05:09", "05:10", "05:12", "05:14", "05:16", "05:18", "05:20", "05:22", "05:23", "05:25"]
+                },
+                {
+                    "startBack": "06:20",
+                    "numberBack": "91",
+                    "nameBack": "Füredi u. csp. - Pázmány P u. - Rómahegy",
+                    "stopsBack": ["Füredi utcai csomópont","Arany J. u.","Arany J. tér","Buzsáki u.","Hegyi u.","Vöröstelek u.","Pázmány P. u. 1.","Virág u.","Hársfa u.","Fő u. 37-39."
+                    ,"Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Jókai liget","Szigetvári u. 6.","Szigetvári u. 62.","Ballakúti u.","Szigetvári u. 139.","Nyár u.","Rómahegy"],
+                    "stopsTimeBack": ["06:20", "06:21", "06:23", "06:24", "06:25", "06:26", "06:28", "06:29", "06:30", "06:31", "06:34", "06:35", "06:37", "06:39", "06:41", "06:43", "06:45", "06:47", "06:48", "06:50"]
+                },
+                {
+                    "startBack": "06:40",
+                    "numberBack": "91",
+                    "nameBack": "Füredi u. csp. - Pázmány P u. - Rómahegy",
+                    "stopsBack": ["Füredi utcai csomópont","Arany J. u.","Arany J. tér","Buzsáki u.","Hegyi u.","Vöröstelek u.","Pázmány P. u. 1.","Virág u.","Hársfa u.","Fő u. 37-39."
+                    ,"Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Jókai liget","Szigetvári u. 6.","Szigetvári u. 62.","Ballakúti u.","Szigetvári u. 139.","Nyár u.","Rómahegy"],
+                    "stopsTimeBack": ["06:40", "06:41", "06:43", "06:44", "06:45", "06:46", "06:48", "06:49", "06:50", "06:51", "06:54", "06:55", "06:57", "06:59", "07:01", "07:03", "07:05", "07:07", "07:08", "07:10"]
+                },
+                {
+                    "startBack": "07:20",
+                    "numberBack": "91",
+                    "nameBack": "Füredi u. csp. - Pázmány P u. - Rómahegy",
+                    "stopsBack": ["Füredi utcai csomópont","Arany J. u.","Arany J. tér","Buzsáki u.","Hegyi u.","Vöröstelek u.","Pázmány P. u. 1.","Virág u.","Hársfa u.","Fő u. 37-39."
+                    ,"Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Jókai liget","Szigetvári u. 6.","Szigetvári u. 62.","Ballakúti u.","Szigetvári u. 139.","Nyár u.","Rómahegy"],
+                    "stopsTimeBack": ["07:20", "07:21", "07:23", "07:24", "07:25", "07:26", "07:28", "07:29", "07:30", "07:31", "07:34", "07:35", "07:37", "07:39", "07:41", "07:43", "07:45", "07:47", "07:48", "07:50"]
+                },
+                {
+                    "startBack": "07:40",
+                    "numberBack": "91",
+                    "nameBack": "Füredi u. csp. - Pázmány P u. - Rómahegy",
+                    "stopsBack": ["Füredi utcai csomópont","Arany J. u.","Arany J. tér","Buzsáki u.","Hegyi u.","Vöröstelek u.","Pázmány P. u. 1.","Virág u.","Hársfa u.","Fő u. 37-39."
+                    ,"Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Jókai liget","Szigetvári u. 6.","Szigetvári u. 62.","Ballakúti u.","Szigetvári u. 139.","Nyár u.","Rómahegy"],
+                    "stopsTimeBack": ["07:40", "07:41", "07:43", "07:44", "07:45", "07:46", "07:48", "07:49", "07:50", "07:51", "07:54", "07:55", "07:57", "07:59", "08:01", "08:03", "08:05", "08:07", "08:08", "08:10"]
+                },
+                {
+                    "startBack": "08:20",
+                    "numberBack": "91",
+                    "nameBack": "Füredi u. csp. - Pázmány P u. - Rómahegy",
+                    "stopsBack": ["Füredi utcai csomópont","Arany J. u.","Arany J. tér","Buzsáki u.","Hegyi u.","Vöröstelek u.","Pázmány P. u. 1.","Virág u.","Hársfa u.","Fő u. 37-39."
+                    ,"Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Jókai liget","Szigetvári u. 6.","Szigetvári u. 62.","Ballakúti u.","Szigetvári u. 139.","Nyár u.","Rómahegy"],
+                    "stopsTimeBack": ["08:20", "08:21", "08:23", "08:24", "08:25", "08:26", "08:28", "08:29", "08:30", "08:31", "08:34", "08:35", "08:37", "08:39", "08:41", "08:43", "08:45", "08:47", "08:48", "08:50"]
+                },
+                {
+                    "startBack": "10:20",
+                    "numberBack": "91",
+                    "nameBack": "Füredi u. csp. - Pázmány P u. - Rómahegy",
+                    "stopsBack": ["Füredi utcai csomópont","Arany J. u.","Arany J. tér","Buzsáki u.","Hegyi u.","Vöröstelek u.","Pázmány P. u. 1.","Virág u.","Hársfa u.","Fő u. 37-39."
+                    ,"Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Jókai liget","Szigetvári u. 6.","Szigetvári u. 62.","Ballakúti u.","Szigetvári u. 139.","Nyár u.","Rómahegy"],
+                    "stopsTimeBack": ["10:20", "10:21", "10:23", "10:24", "10:25", "10:26", "10:28", "10:29", "10:30", "10:31", "10:34", "10:35", "10:37", "10:39", "10:41", "10:43", "10:45", "10:47", "10:48", "10:50"]
+                },
+                {
+                    "startBack": "11:20",
+                    "numberBack": "91",
+                    "nameBack": "Füredi u. csp. - Pázmány P u. - Rómahegy",
+                    "stopsBack": ["Füredi utcai csomópont","Arany J. u.","Arany J. tér","Buzsáki u.","Hegyi u.","Vöröstelek u.","Pázmány P. u. 1.","Virág u.","Hársfa u.","Fő u. 37-39."
+                    ,"Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Jókai liget","Szigetvári u. 6.","Szigetvári u. 62.","Ballakúti u.","Szigetvári u. 139.","Nyár u.","Rómahegy"],
+                    "stopsTimeBack": ["11:20", "11:21", "11:23", "11:24", "11:25", "11:26", "11:28", "11:29", "11:30", "11:31", "11:34", "11:35", "11:37", "11:39", "11:41", "11:43", "11:45", "11:47", "11:48", "11:50"]
+                },
+                {
+                    "startBack": "12:20",
+                    "numberBack": "91",
+                    "nameBack": "Füredi u. csp. - Pázmány P u. - Rómahegy",
+                    "stopsBack": ["Füredi utcai csomópont","Arany J. u.","Arany J. tér","Buzsáki u.","Hegyi u.","Vöröstelek u.","Pázmány P. u. 1.","Virág u.","Hársfa u.","Fő u. 37-39."
+                    ,"Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Jókai liget","Szigetvári u. 6.","Szigetvári u. 62.","Ballakúti u.","Szigetvári u. 139.","Nyár u.","Rómahegy"],
+                    "stopsTimeBack": ["12:20", "12:21", "12:23", "12:24", "12:25", "12:26", "12:28", "12:29", "12:30", "12:31", "12:34", "12:35", "12:37", "12:39", "12:41", "12:43", "12:45", "12:47", "12:48", "12:50"]
+                },
+                {
+                    "startBack": "13:20",
+                    "numberBack": "91",
+                    "nameBack": "Füredi u. csp. - Pázmány P u. - Rómahegy",
+                    "stopsBack": ["Füredi utcai csomópont","Arany J. u.","Arany J. tér","Buzsáki u.","Hegyi u.","Vöröstelek u.","Pázmány P. u. 1.","Virág u.","Hársfa u.","Fő u. 37-39."
+                    ,"Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Jókai liget","Szigetvári u. 6.","Szigetvári u. 62.","Ballakúti u.","Szigetvári u. 139.","Nyár u.","Rómahegy"],
+                    "stopsTimeBack": ["13:20", "13:21", "13:23", "13:24", "13:25", "13:26", "13:28", "13:29", "13:30", "13:31", "13:34", "13:35", "13:37", "13:39", "13:41", "13:43", "13:45", "13:47", "13:48", "13:50"]
+                },
+                {
+                    "startBack": "13:45",
+                    "numberBack": "91",
+                    "nameBack": "Füredi u. csp. - Pázmány P u. - Rómahegy",
+                    "stopsBack": ["Füredi utcai csomópont","Arany J. u.","Arany J. tér","Buzsáki u.","Hegyi u.","Vöröstelek u.","Pázmány P. u. 1.","Virág u.","Hársfa u.","Fő u. 37-39."
+                    ,"Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Jókai liget","Szigetvári u. 6.","Szigetvári u. 62.","Ballakúti u.","Szigetvári u. 139.","Nyár u.","Rómahegy"],
+                    "stopsTimeBack": ["13:45", "13:46", "13:48", "13:49", "13:50", "13:51", "13:53", "13:54", "13:55", "13:56", "13:59", "14:00", "14:02", "14:04", "14:06", "14:08", "14:10", "14:12", "14:13", "14:15"]
+                },
+                {
+                    "startBack": "14:30",
+                    "numberBack": "91",
+                    "nameBack": "Füredi u. csp. - Pázmány P u. - Rómahegy",
+                    "stopsBack": ["Füredi utcai csomópont","Arany J. u.","Arany J. tér","Buzsáki u.","Hegyi u.","Vöröstelek u.","Pázmány P. u. 1.","Virág u.","Hársfa u.","Fő u. 37-39."
+                    ,"Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Jókai liget","Szigetvári u. 6.","Szigetvári u. 62.","Ballakúti u.","Szigetvári u. 139.","Nyár u.","Rómahegy"],
+                    "stopsTimeBack": ["14:30", "14:31", "14:33", "14:34", "14:35", "14:36", "14:38", "14:39", "14:40", "14:41", "14:44", "14:45", "14:47", "14:49", "14:51", "14:53", "14:55", "14:57", "14:58", "15:00"]
+                },
+                {
+                    "startBack": "15:30",
+                    "numberBack": "91",
+                    "nameBack": "Füredi u. csp. - Pázmány P u. - Rómahegy",
+                    "stopsBack": ["Füredi utcai csomópont","Arany J. u.","Arany J. tér","Buzsáki u.","Hegyi u.","Vöröstelek u.","Pázmány P. u. 1.","Virág u.","Hársfa u.","Fő u. 37-39."
+                    ,"Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Jókai liget","Szigetvári u. 6.","Szigetvári u. 62.","Ballakúti u.","Szigetvári u. 139.","Nyár u.","Rómahegy"],
+                    "stopsTimeBack": ["15:30", "15:31", "15:33", "15:34", "15:35", "15:36", "15:38", "15:39", "15:40", "15:41", "15:44", "15:45", "15:47", "15:49", "15:51", "15:53", "15:55", "15:57", "15:58", "16:00"]
+                },
+                {
+                    "startBack": "16:30",
+                    "numberBack": "91",
+                    "nameBack": "Füredi u. csp. - Pázmány P u. - Rómahegy",
+                    "stopsBack": ["Füredi utcai csomópont","Arany J. u.","Arany J. tér","Buzsáki u.","Hegyi u.","Vöröstelek u.","Pázmány P. u. 1.","Virág u.","Hársfa u.","Fő u. 37-39."
+                    ,"Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Jókai liget","Szigetvári u. 6.","Szigetvári u. 62.","Ballakúti u.","Szigetvári u. 139.","Nyár u.","Rómahegy"],
+                    "stopsTimeBack": ["16:30", "16:31", "16:33", "16:34", "16:35", "16:36", "16:38", "16:39", "16:40", "16:41", "16:44", "16:45", "16:47", "16:49", "16:51", "16:53", "16:55", "16:57", "16:58", "17:00"]
+                },
+                {
+                    "startBack": "17:30",
+                    "numberBack": "91",
+                    "nameBack": "Füredi u. csp. - Pázmány P u. - Rómahegy",
+                    "stopsBack": ["Füredi utcai csomópont","Arany J. u.","Arany J. tér","Buzsáki u.","Hegyi u.","Vöröstelek u.","Pázmány P. u. 1.","Virág u.","Hársfa u.","Fő u. 37-39."
+                    ,"Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Jókai liget","Szigetvári u. 6.","Szigetvári u. 62.","Ballakúti u.","Szigetvári u. 139.","Nyár u.","Rómahegy"],
+                    "stopsTimeBack": ["17:30", "17:31", "17:33", "17:34", "17:35", "17:36", "17:38", "17:39", "17:40", "17:41", "17:44", "17:45", "17:47", "17:49", "17:51", "17:53", "17:55", "17:57", "17:58", "18:00"]
+                },
+                {
+                    "startBack": "18:30",
+                    "numberBack": "91",
+                    "nameBack": "Füredi u. csp. - Pázmány P u. - Rómahegy",
+                    "stopsBack": ["Füredi utcai csomópont","Arany J. u.","Arany J. tér","Buzsáki u.","Hegyi u.","Vöröstelek u.","Pázmány P. u. 1.","Virág u.","Hársfa u.","Fő u. 37-39."
+                    ,"Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Jókai liget","Szigetvári u. 6.","Szigetvári u. 62.","Ballakúti u.","Szigetvári u. 139.","Nyár u.","Rómahegy"],
+                    "stopsTimeBack": ["18:30", "18:31", "18:33", "18:34", "18:35", "18:36", "18:38", "18:39", "18:40", "18:41", "18:44", "18:45", "18:47", "18:49", "18:51", "18:53", "18:55", "18:57", "18:58", "19:00"]
+                },
+                {
+                    "startBack": "19:30",
+                    "numberBack": "91",
+                    "nameBack": "Füredi u. csp. - Pázmány P u. - Rómahegy",
+                    "stopsBack": ["Füredi utcai csomópont","Arany J. u.","Arany J. tér","Buzsáki u.","Hegyi u.","Vöröstelek u.","Pázmány P. u. 1.","Virág u.","Hársfa u.","Fő u. 37-39."
+                    ,"Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Jókai liget","Szigetvári u. 6.","Szigetvári u. 62.","Ballakúti u.","Szigetvári u. 139.","Nyár u.","Rómahegy"],
+                    "stopsTimeBack": ["19:30", "19:31", "19:33", "19:34", "19:35", "19:36", "19:38", "19:39", "19:40", "19:41", "19:44", "19:45", "19:47", "19:49", "19:51", "19:53", "19:55", "19:57", "19:58", "20:00"]
+                },
+                {
+                    "startBack": "20:30",
+                    "numberBack": "91",
+                    "nameBack": "Füredi u. csp. - Pázmány P u. - Rómahegy",
+                    "stopsBack": ["Füredi utcai csomópont","Arany J. u.","Arany J. tér","Buzsáki u.","Hegyi u.","Vöröstelek u.","Pázmány P. u. 1.","Virág u.","Hársfa u.","Fő u. 37-39."
+                    ,"Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Jókai liget","Szigetvári u. 6.","Szigetvári u. 62.","Ballakúti u.","Szigetvári u. 139.","Nyár u.","Rómahegy"],
+                    "stopsTimeBack": ["20:30", "20:31", "20:33", "20:34", "20:35", "20:36", "20:38", "20:39", "20:40", "20:41", "20:44", "20:45", "20:47", "20:49", "20:51", "20:53", "20:55", "20:57", "20:58", "21:00"]
                 },
         /*-----------------------------------------------------91 BACK END-------------------------------------------------*/
         /*-----------------------------------------------------13 WEEKEND----------------------------------------------*/
