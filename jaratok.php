@@ -20,14 +20,13 @@ try {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kaposvár Helyi Járatok</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="footer.css">
     <script src="betolt.js"></script>
-    <!--<script src="busRoutesforJaratok.js"></script>-->
 
     <style>
         :root {
             --primary-color:linear-gradient(to right, #211717,#b30000);
-            --accent-color: #FFC107;
+            --accent-color: #7A7474;
             --text-light: #fbfbfb;
             --shadow: 0 2px 4px rgba(0,0,0,0.1);
             --secondary-color: #3498db;
@@ -320,53 +319,6 @@ try {
         }       
 /*--------------------------------------------------------------------------------------------------------BODY CONTENT END------------------------------------------------------------------------------------------------*/
 
-/*--------------------------------------------------------------------------------------------------------CSS - FOOTER---------------------------------------------------------------------------------------------------*/
-        footer {
-            text-align: center;
-            padding: 10px;
-            background-color: var(--primary-color);
-            color: var(--text-light);
-            border-radius: 10px;
-            margin-top: 20px;
-            box-shadow: var(--shadow);
-            background: var(--primary-color);
-            color: var(--text-light);
-            padding: 3rem 2rem;
-            margin-top: 4rem;
-        }
-
-        .footer-content {
-            max-width: 1200px;
-            margin: 0 auto;
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 2rem;
-        }
-
-        .footer-section h2 {
-            margin-bottom: 1rem;
-            color: var(--text-light);
-        }
-
-        .footer-links {
-            list-style: none;
-        }
-
-        .footer-links li {
-            margin-bottom: 0.5rem;
-        }
-
-        .footer-links a {
-            color: var(--text-light);
-            text-decoration: none;
-            transition: var(--transition);
-        }
-
-        .footer-links a:hover {
-            color: var(--accent-color);
-        }
-/*--------------------------------------------------------------------------------------------------------FOOTER END-----------------------------------------------------------------------------------------------------*/
-
 /*--------------------------------------------------------------------------------------------------------CSS - @MEDIA---------------------------------------------------------------------------------------------------*/
 
         @keyframes fadeIn {
@@ -560,201 +512,9 @@ try {
     document.getElementById("datePicker").min = today.toISOString().split("T")[0];
 /*--------------------------------------------------------------------------------------------------------DATE PICKER END------------------------------------------------------------------------------------------------*/
 
-        const busRoutes = [
-                    {
-                        "number": "12",
-                        "name": "Helyi autóbusz-állomás - Sopron u. - Laktanya",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "13",
-                        "name": "Helyi autóbusz-állomás - Kecelhegy - Helyi autóbusz-állomás",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-                    },
-                    {
-                        "number": "20",
-                        "name": "Raktár u. - Laktanya - Videoton",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "21",
-                        "name": "Raktár u. - Videoton",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "23",
-                        "name": "Kaposfüred forduló - Füredi csp. - Kaposvári Egyetem",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "26",
-                        "name": "Kaposfüred forduló - Losonc köz - Videoton - METYX",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "27",
-                        "name": "Laktanya - Füredi u. csp. - KOMÉTA",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "31",
-                        "name": "Helyi autóbusz-állomás - Egyenesi u. forduló",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-                    },
-                    {
-                        "number": "32",
-                        "name": "Helyi autóbuszállomás - Kecelhegy - Helyi autóbusz-állomás",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-                    },
-                    {
-                        "number": "33",
-                        "name": "Helyi aut. áll. - Egyenesi u. - Kecelhegy - Helyi aut. áll.",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-                    },
-                    {
-                        "number": "40",
-                        "name": "Koppány vezér u - 67-es út - Raktár u.",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "41",
-                        "name": "Koppány vezér u - Bartók B. u. - Raktár u.",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-                    },
-                    {
-                        "number": "42",
-                        "name": "Töröcske forduló - Kórház - Laktanya",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-                    },
-                    {
-                        "number": "43",
-                        "name": "Helyi autóbusz-állomás - Kórház- Laktanya - Raktár utca - Helyi autóbusz-állomás",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "44",
-                        "name": "Helyi autóbusz-állomás - Raktár utca - Laktanya -Arany János tér - Helyi autóbusz-állomás",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "45",
-                        "name": "Helyi autóbusz-állomás - 67-es út - Koppány vezér u.",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "46",
-                        "name": "Helyi autóbusz-állomás - Töröcske forduló",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "47",
-                        "name": "Koppány vezér u.- Kórház - Kaposfüred forduló",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-                    },
-                    {
-                        "number": "51",
-                        "name": "Laktanya - Sopron u. - Rómahegy",
-                        "dayGoes": ["Saturday","Sunday"],
-                    },
-                    {
-                        "number": "61",
-                        "name": "Helyi- autóbuszállomás - Béla király u.",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-                    },
-                    {
-                        "number": "62",
-                        "name": "Helyi autóbusz-állomás - Városi fürdő - Béla király u.",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-                    },
-                    {
-                        "number": "70",
-                        "name": "Helyi autóbusz-állomás - Kaposfüred",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-                    },
-                    {
-                        "number": "71",
-                        "name": "Kaposfüred forduló - Kaposszentjakab forduló",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-                    },
-                    {
-                        "number": "72",
-                        "name": "Kaposfüred forduló - Hold u. - Kaposszentjakab forduló",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-                    },
-                    {
-                        "number": "73",
-                        "name": "Kaposfüred forduló - KOMÉTA - Kaposszentjakab forduló",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "74",
-                        "name": "Hold utca - Helyi autóbusz-állomás",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "75",
-                        "name": "Helyi autóbusz-állomás - Kaposszentjakab",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-                    },
-                    {
-                        "number": "81",
-                        "name": "Helyi autóbusz-állomás - Hősök temploma - Toponár forduló",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "82",
-                        "name": "Helyi autóbusz-állomás - Kórház - Toponár Szabó P. u.",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "83",
-                        "name": "Helyi autóbusz-állomás - Szabó P. u. - Toponár forduló",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-                    },
-                    {
-                        "number": "84",
-                        "name": "Helyi autóbusz-állomás - Toponár, forduló - Répáspuszta",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "85",
-                        "name": "Helyi autóbusz-állomás - Kisgát- Helyi autóbusz-állomás",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "86",
-                        "name": "Helyi autóbusz-állomás - METYX - Szennyvíztelep",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "87",
-                        "name": "Helyi autóbusz állomás - Videoton - METYX",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-                    },
-                    {
-                        "number": "88",
-                        "name": "Helyi autóbusz-állomás - Videoton",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
-                    },
-                    {
-                        "number": "89",
-                        "name": "Helyi autóbusz-állomás - Kaposvári Egyetem",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "90",
-                        "name": "Helyi autóbusz-állomás - Rómahegy",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    },
-                    {
-                        "number": "91",
-                        "name": "Rómahegy - Pázmány P u. - Füredi u. csp.",
-                        "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-                    }
-
-                ];
-
 /*--------------------------------------------------------------------------------------------------------JAVASCRIPT - DISPLAY ROUTES------------------------------------------------------------------------------------*/
+        let busRoutes = []; // Declare globally to store fetched routes
+
         function displayRoutes(filter = "all", selectedDate = new Date()) {
             const routeContainer = document.getElementById('routeContainer');
             routeContainer.innerHTML = "";
@@ -796,8 +556,21 @@ try {
         }
 
         document.addEventListener('DOMContentLoaded', () => {
-            // Initial display with today's date
-            displayRoutes();
+            // Fetch the JSON file and initialize the app
+            fetch('busRoutesForJaratok.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Failed to load bus routes data');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    busRoutes = data.busRoutes; // Store the fetched routes
+                    displayRoutes(); // Initial display with today's date
+                })
+                .catch(error => {
+                    console.error('Error fetching the JSON file:', error);
+                });
 
             // Handle changes in the date picker
             const datePicker = document.getElementById('datePicker');
