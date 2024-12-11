@@ -20,13 +20,13 @@ try {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kaposvár Helyi Járatok</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="footer.css" />
     <script src="betolt.js"></script>
 
     <style>
         :root {
             --primary-color:linear-gradient(to right, #211717,#b30000);
-            --accent-color: #FFC107;
+            --accent-color: #7A7474;
             --text-light: #fbfbfb;
             --shadow: 0 2px 4px rgba(0,0,0,0.1);
             --secondary-color: #3498db;
@@ -169,53 +169,6 @@ try {
             gap: 0.8rem;
         }       
 /*--------------------------------------------------------------------------------------------------------BODY CONTENT END------------------------------------------------------------------------------------------------*/
-
-/*--------------------------------------------------------------------------------------------------------CSS - FOOTER---------------------------------------------------------------------------------------------------*/
-        footer {
-            text-align: center;
-            padding: 10px;
-            background-color: var(--primary-color);
-            color: var(--text-light);
-            border-radius: 10px;
-            margin-top: 20px;
-            box-shadow: var(--shadow);
-            background: var(--primary-color);
-            color: var(--text-light);
-            padding: 3rem 2rem;
-            margin-top: 4rem;
-        }
-
-        .footer-content {
-            max-width: 1200px;
-            margin: 0 auto;
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 2rem;
-        }
-
-        .footer-section h2 {
-            margin-bottom: 1rem;
-            color: var(--text-light);
-        }
-
-        .footer-links {
-            list-style: none;
-        }
-
-        .footer-links li {
-            margin-bottom: 0.5rem;
-        }
-
-        .footer-links a {
-            color: var(--text-light);
-            text-decoration: none;
-            transition: var(--transition);
-        }
-
-        .footer-links a:hover {
-            color: var(--accent-color);
-        }
-/*--------------------------------------------------------------------------------------------------------FOOTER END-----------------------------------------------------------------------------------------------------*/
 
 /*--------------------------------------------------------------------------------------------------------CSS - @MEDIA---------------------------------------------------------------------------------------------------*/
 
