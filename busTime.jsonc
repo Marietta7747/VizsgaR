@@ -4063,9 +4063,65 @@
                     "startWeekend": "06:20",
                     "numberWeekend": "13",
                     "nameWeekend": "Helyi autóbusz-állomás - Kecelhegy - Helyi autóbusz-állomás",
-                    "stopsWeekend": ["Helyi autóbusz-állomás", "Berzsenyi u. felüljáró", "Berzsenyi u. 30.", "Füredi úti csomópont", "Városi könyvtár", "Vasútköz", "Hajnóczy u. csp.", "Mátyás k. u. forduló"
-                    , "Kecelhegyalja u.", "Kőrösi Cs. S. u.", "Kecelhegyi iskola", "Bethlen G. u.", "Magyar Nobel-díjasok tere", "Eger u.", "Állatkórház", "Kölcsey u.", "Tompa M. u.", "Berzsenyi u. felüljáró", "Helyi autóbusz-állomás"],
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Mátyás k. u., forduló","Kecelhegyalja u."
+                    ,"Kőrösi Cs. S. u.","Kecelhegyi iskola","Bethlen G. u.","Magyar Nobel-díjasok tere","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
                     "stopsTimeWeekend": ["06:20","06:22","06:24","06:27","06:28","06:29","06:30","06:32","06:34","06:35","06:37","06:38","06:40","06:41","06:42","06:43","06:44","06:47","06:49"]
+                },
+                {
+                    "startWeekend": "08:10",
+                    "numberWeekend": "13",
+                    "nameWeekend": "Helyi autóbusz-állomás - Kecelhegy - Helyi autóbusz-állomás",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Mátyás k. u., forduló","Kecelhegyalja u."
+                    ,"Kőrösi Cs. S. u.","Kecelhegyi iskola","Bethlen G. u.","Magyar Nobel-díjasok tere","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekend": ["08:10", "08:12", "08:14", "08:17", "08:18", "08:19", "08:20", "08:22", "08:24", "08:25", "08:27", "08:28", "08:30", "08:31", "08:32", "08:33", "08:34", "08:37", "08:39"]
+                },
+                {
+                    "startWeekend": "09:10",
+                    "numberWeekend": "13",
+                    "nameWeekend": "Helyi autóbusz-állomás - Kecelhegy - Helyi autóbusz-állomás",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Mátyás k. u., forduló","Kecelhegyalja u."
+                    ,"Kőrösi Cs. S. u.","Kecelhegyi iskola","Bethlen G. u.","Magyar Nobel-díjasok tere","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekend": ["09:10", "09:12", "09:14", "09:17", "09:18", "09:19", "09:20", "09:22", "09:24", "09:25", "09:27", "09:28", "09:30", "09:31", "09:32", "09:33", "09:34", "09:37", "09:39"]
+                },
+                {
+                    "startWeekend": "10:10",
+                    "numberWeekend": "13",
+                    "nameWeekend": "Helyi autóbusz-állomás - Kecelhegy - Helyi autóbusz-állomás",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Mátyás k. u., forduló","Kecelhegyalja u."
+                    ,"Kőrösi Cs. S. u.","Kecelhegyi iskola","Bethlen G. u.","Magyar Nobel-díjasok tere","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekend": ["10:10", "10:12", "10:14", "10:17", "10:18", "10:19", "10:20", "10:22", "10:24", "10:25", "10:27", "10:28", "10:30", "10:31", "10:32", "10:33", "10:34", "10:37", "10:39"]
+                },
+                {
+                    "startWeekend": "11:10",
+                    "numberWeekend": "13",
+                    "nameWeekend": "Helyi autóbusz-állomás - Kecelhegy - Helyi autóbusz-állomás",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Mátyás k. u., forduló","Kecelhegyalja u."
+                    ,"Kőrösi Cs. S. u.","Kecelhegyi iskola","Bethlen G. u.","Magyar Nobel-díjasok tere","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekend": ["11:10", "11:12", "11:14", "11:17", "11:18", "11:19", "11:20", "11:22", "11:24", "11:25", "11:27", "11:28", "11:30", "11:31", "11:32", "11:33", "11:34", "11:37", "11:39"]
+                },
+                {
+                    "startWeekend": "13:10",
+                    "numberWeekend": "13",
+                    "nameWeekend": "Helyi autóbusz-állomás - Kecelhegy - Helyi autóbusz-állomás",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Mátyás k. u., forduló","Kecelhegyalja u."
+                    ,"Kőrösi Cs. S. u.","Kecelhegyi iskola","Bethlen G. u.","Magyar Nobel-díjasok tere","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekend": ["13:10", "13:12", "13:14", "13:17", "13:18", "13:19", "13:20", "13:22", "13:24", "13:25", "13:27", "13:28", "13:30", "13:31", "13:32", "13:33", "13:34", "13:37", "13:39"]
+                },
+                {
+                    "startWeekend": "15:10",
+                    "numberWeekend": "13",
+                    "nameWeekend": "Helyi autóbusz-állomás - Kecelhegy - Helyi autóbusz-állomás",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Mátyás k. u., forduló","Kecelhegyalja u."
+                    ,"Kőrösi Cs. S. u.","Kecelhegyi iskola","Bethlen G. u.","Magyar Nobel-díjasok tere","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekend": ["15:10", "15:12", "15:14", "15:17", "15:18", "15:19", "15:20", "15:22", "15:24", "15:25", "15:27", "15:28", "15:30", "15:31", "15:32", "15:33", "15:34", "15:37", "15:39"]
+                },
+                {
+                    "startWeekend": "19:10",
+                    "numberWeekend": "13",
+                    "nameWeekend": "Helyi autóbusz-állomás - Kecelhegy - Helyi autóbusz-állomás",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Mátyás k. u., forduló","Kecelhegyalja u."
+                    ,"Kőrösi Cs. S. u.","Kecelhegyi iskola","Bethlen G. u.","Magyar Nobel-díjasok tere","Eger u.","Állatkórház","Kölcsey u.","Tompa M. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekend": ["19:10", "19:12", "19:14", "19:17", "19:18", "19:19", "19:20", "19:22", "19:24", "19:25", "19:27", "19:28", "19:30", "19:31", "19:32", "19:33", "19:34", "19:37", "19:39"]
                 },
         /*-----------------------------------------------------13 WEEKEND END-------------------------------------------------*/
         /*-----------------------------------------------------31 WEEKEND----------------------------------------------*/
@@ -4073,143 +4129,817 @@
                     "startWeekend": "05:50",
                     "numberWeekend": "31",
                     "nameWeekend": "Helyi autóbusz-állomás - Egyenesi u. forduló",
-                    "stopsWeekend": ["Helyi autóbusz-állomás", "Berzsenyi u. felüljáró", "Tompa M. u.", "Kölcsey u.", "Állatkórház", "Eger u.", "Kapoli A. u.", "Egyenesi u. 42.", "Beszédes J. u.", "Egyenesi u. forduló"],
+                    "stopsWeekend": ["Helyi autóbusz-állomás", "Berzsenyi u. felüljáró","Tompa M. u.","Kölcsey u.","Állatkórház","Eger u.","Kapoli A. u.","Egyenesi u. 42.","Beszédes J. u.","Egyenesi u. forduló"],
                     "stopsTimeWeekend": ["05:50","05:52","05:55","05:56","05:57","05:58","05:59","06:00","06:01","06:03"]
+                },
+                {
+                    "startWeekend": "06:40",
+                    "numberWeekend": "31",
+                    "nameWeekend": "Helyi autóbusz-állomás - Egyenesi u. forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás", "Berzsenyi u. felüljáró","Tompa M. u.","Kölcsey u.","Állatkórház","Eger u.","Kapoli A. u.","Egyenesi u. 42.","Beszédes J. u.","Egyenesi u. forduló"],
+                    "stopsTimeWeekend": ["06:40", "06:42", "06:45", "06:46", "06:47", "06:48", "06:49", "06:50", "06:51", "06:53"]
+                },
+                {
+                    "startWeekend": "08:00",
+                    "numberWeekend": "31",
+                    "nameWeekend": "Helyi autóbusz-állomás - Egyenesi u. forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás", "Berzsenyi u. felüljáró","Tompa M. u.","Kölcsey u.","Állatkórház","Eger u.","Kapoli A. u.","Egyenesi u. 42.","Beszédes J. u.","Egyenesi u. forduló"],
+                    "stopsTimeWeekend": ["08:00", "08:02", "08:05", "08:06", "08:07", "08:08", "08:09", "08:10", "08:11", "08:13"]
+                },
+                {
+                    "startWeekend": "09:00",
+                    "numberWeekend": "31",
+                    "nameWeekend": "Helyi autóbusz-állomás - Egyenesi u. forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás", "Berzsenyi u. felüljáró","Tompa M. u.","Kölcsey u.","Állatkórház","Eger u.","Kapoli A. u.","Egyenesi u. 42.","Beszédes J. u.","Egyenesi u. forduló"],
+                    "stopsTimeWeekend": ["09:00", "09:02", "09:05", "09:06", "09:07", "09:08", "09:09", "09:10", "09:11", "09:13"]
+                },
+                {
+                    "startWeekend": "14:00",
+                    "numberWeekend": "31",
+                    "nameWeekend": "Helyi autóbusz-állomás - Egyenesi u. forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás", "Berzsenyi u. felüljáró","Tompa M. u.","Kölcsey u.","Állatkórház","Eger u.","Kapoli A. u.","Egyenesi u. 42.","Beszédes J. u.","Egyenesi u. forduló"],
+                    "stopsTimeWeekend": ["14:00", "14:02", "14:05", "14:06", "14:07", "14:08", "14:09", "14:10", "14:11", "14:13"]
+                },
+                {
+                    "startWeekend": "17:00",
+                    "numberWeekend": "31",
+                    "nameWeekend": "Helyi autóbusz-állomás - Egyenesi u. forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás", "Berzsenyi u. felüljáró","Tompa M. u.","Kölcsey u.","Állatkórház","Eger u.","Kapoli A. u.","Egyenesi u. 42.","Beszédes J. u.","Egyenesi u. forduló"],
+                    "stopsTimeWeekend": ["17:00", "17:02", "17:05", "17:06", "17:07", "17:08", "17:09", "17:10", "17:11", "17:13"]
                 },
         /*-----------------------------------------------------31 WEEKEND END-------------------------------------------------*/
         /*-----------------------------------------------------32 WEEKEND----------------------------------------------*/
                 {
-                    "startWeekend": "04:45",
+                    "startWeekend": "07:15",
                     "numberWeekend": "32",
-                    "nameWeekend": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekend": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekend": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekend": "Helyi autóbuszállomás - Kecelhegy - Helyi autóbusz-állomás",
+                    "stopsWeekend": ["Helyi autóbuszállomás","Berzsenyi u. felüljáró","Tompa M. u.","Kölcsey u.","Állatkórház","Eger u.","Magyar Nobel-díjasok tere","Bethlen G. u.","Kecelhegyi iskola","Kőrösi Cs. S. u."
+                    ,"Kecelheygalja u.","Mátyás k. u., forduló","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Heyi autóbusz-állomás"],
+                    "stopsTimeWeekend": ["07:15", "07:17", "07:20", "07:21", "07:23", "07:24", "07:25", "07:26", "07:27", "07:29", "07:30", "07:32", "07:34", "07:35", "07:36", "07:38", "07:40", "07:42", "07:44"]
+                },
+                {
+                    "startWeekend": "07:40",
+                    "numberWeekend": "32",
+                    "nameWeekend": "Helyi autóbuszállomás - Kecelhegy - Helyi autóbusz-állomás",
+                    "stopsWeekend": ["Helyi autóbuszállomás","Berzsenyi u. felüljáró","Tompa M. u.","Kölcsey u.","Állatkórház","Eger u.","Magyar Nobel-díjasok tere","Bethlen G. u.","Kecelhegyi iskola","Kőrösi Cs. S. u."
+                    ,"Kecelheygalja u.","Mátyás k. u., forduló","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Heyi autóbusz-állomás"],
+                    "stopsTimeWeekend": ["07:40", "07:42", "07:45", "07:46", "07:48", "07:49", "07:50", "07:51", "07:52", "07:54", "07:55", "07:57", "07:59", "08:00", "08:01", "08:03", "08:05", "08:07", "08:09"]
+                },
+                {
+                    "startWeekend": "14:30",
+                    "numberWeekend": "32",
+                    "nameWeekend": "Helyi autóbuszállomás - Kecelhegy - Helyi autóbusz-állomás",
+                    "stopsWeekend": ["Helyi autóbuszállomás","Berzsenyi u. felüljáró","Tompa M. u.","Kölcsey u.","Állatkórház","Eger u.","Magyar Nobel-díjasok tere","Bethlen G. u.","Kecelhegyi iskola","Kőrösi Cs. S. u."
+                    ,"Kecelheygalja u.","Mátyás k. u., forduló","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Heyi autóbusz-állomás"],
+                    "stopsTimeWeekend": ["14:30", "14:32", "14:35", "14:36", "14:38", "14:39", "14:40", "14:41", "14:42", "14:44", "14:45", "14:47", "14:49", "14:50", "14:51", "14:53", "14:55", "14:57", "14:59"]
+                },
+                {
+                    "startWeekend": "20:40",
+                    "numberWeekend": "32",
+                    "nameWeekend": "Helyi autóbuszállomás - Kecelhegy - Helyi autóbusz-állomás",
+                    "stopsWeekend": ["Helyi autóbuszállomás","Berzsenyi u. felüljáró","Tompa M. u.","Kölcsey u.","Állatkórház","Eger u.","Magyar Nobel-díjasok tere","Bethlen G. u.","Kecelhegyi iskola","Kőrösi Cs. S. u."
+                    ,"Kecelheygalja u.","Mátyás k. u., forduló","Hajnóczy u. csp.","Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Heyi autóbusz-állomás"],
+                    "stopsTimeWeekend": ["20:40", "20:42", "20:45", "20:46", "20:48", "20:49", "20:50", "20:51", "20:52", "20:54", "20:55", "20:57", "20:59", "21:00", "21:01", "21:03", "21:05", "21:07", "21:09"]
                 },
         /*-----------------------------------------------------32 WEEKEND END-------------------------------------------------*/
         /*-----------------------------------------------------33 WEEKEND----------------------------------------------*/
                 {
-                    "startWeekend": "04:45",
+                    "startWeekend": "05:00",
                     "numberWeekend": "33",
-                    "nameWeekend": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekend": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekend": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekend": "Helyi aut. áll. - Egyenesi u. - Kecelhegy - Helyi aut. áll.",
+                    "stopsWeekend": ["Helyi autóbuszállomás","Berzsenyi u. felüljáró","Tompa M. u.","Kölcsey u.","Állatkórház","Eger u.","Kapoli A. u.","Egyenesi u. 42.","Beszédes J. u.","Egyenesi u. forduló","Beszédes J. u."
+                    ,"Egyenesi u. 42.","Kapoli A. u.","Magyar Nobel-díjasok tere","Bethlen G. u.","Kecelhegyi iskola","Kőrösi Cs. S. u.","Kecelhegyalja u.","Mátyás k. u., forduló","Hajnóczy u. csp."
+                    ,"Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Heyi autóbusz-állomás"],
+                    "stopsTimeWeekend": ["05:00", "05:02", "05:04", "05:05", "05:06", "05:07", "05:08", "05:09", "05:10", "05:11", "05:12", "05:13", "05:14", "05:15", "05:16", "05:18", "05:20", "05:21", "05:22", "05:23", "05:24", "05:25", "05:26", "05:27", "05:29", "05:30"]
+                },
+                {
+                    "startWeekend": "10:00",
+                    "numberWeekend": "33",
+                    "nameWeekend": "Helyi aut. áll. - Egyenesi u. - Kecelhegy - Helyi aut. áll.",
+                    "stopsWeekend": ["Helyi autóbuszállomás","Berzsenyi u. felüljáró","Tompa M. u.","Kölcsey u.","Állatkórház","Eger u.","Kapoli A. u.","Egyenesi u. 42.","Beszédes J. u.","Egyenesi u. forduló","Beszédes J. u."
+                    ,"Egyenesi u. 42.","Kapoli A. u.","Magyar Nobel-díjasok tere","Bethlen G. u.","Kecelhegyi iskola","Kőrösi Cs. S. u.","Kecelhegyalja u.","Mátyás k. u., forduló","Hajnóczy u. csp."
+                    ,"Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Heyi autóbusz-állomás"],
+                    "stopsTimeWeekend": ["10:00", "10:02", "10:05", "10:06", "10:07", "10:08", "10:09", "10:10", "10:11", "10:12", "10:13", "10:14", "10:15", "10:16", "10:17", "10:19", "10:20", "10:21", "10:22", "10:24", "10:26", "10:27", "10:29", "10:30", "10:32", "10:34"]
+                },
+                {
+                    "startWeekend": "11:40",
+                    "numberWeekend": "33",
+                    "nameWeekend": "Helyi aut. áll. - Egyenesi u. - Kecelhegy - Helyi aut. áll.",
+                    "stopsWeekend": ["Helyi autóbuszállomás","Berzsenyi u. felüljáró","Tompa M. u.","Kölcsey u.","Állatkórház","Eger u.","Kapoli A. u.","Egyenesi u. 42.","Beszédes J. u.","Egyenesi u. forduló","Beszédes J. u."
+                    ,"Egyenesi u. 42.","Kapoli A. u.","Magyar Nobel-díjasok tere","Bethlen G. u.","Kecelhegyi iskola","Kőrösi Cs. S. u.","Kecelhegyalja u.","Mátyás k. u., forduló","Hajnóczy u. csp."
+                    ,"Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Heyi autóbusz-állomás"],
+                    "stopsTimeWeekend": ["11:40", "11:42", "11:45", "11:46", "11:47", "11:48", "11:49", "11:50", "11:51", "11:52", "11:53", "11:54", "11:55", "11:56", "11:57", "11:59", "12:00", "12:01", "12:02", "12:04", "12:06", "12:07", "12:09", "12:10", "12:12", "12:14"]
+                },
+                {
+                    "startWeekend": "12:30",
+                    "numberWeekend": "33",
+                    "nameWeekend": "Helyi aut. áll. - Egyenesi u. - Kecelhegy - Helyi aut. áll.",
+                    "stopsWeekend": ["Helyi autóbuszállomás","Berzsenyi u. felüljáró","Tompa M. u.","Kölcsey u.","Állatkórház","Eger u.","Kapoli A. u.","Egyenesi u. 42.","Beszédes J. u.","Egyenesi u. forduló","Beszédes J. u."
+                    ,"Egyenesi u. 42.","Kapoli A. u.","Magyar Nobel-díjasok tere","Bethlen G. u.","Kecelhegyi iskola","Kőrösi Cs. S. u.","Kecelhegyalja u.","Mátyás k. u., forduló","Hajnóczy u. csp."
+                    ,"Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Heyi autóbusz-állomás"],
+                    "stopsTimeWeekend": ["12:30", "12:32", "12:35", "12:36", "12:37", "12:38", "12:39", "12:40", "12:41", "12:42", "12:43", "12:44", "12:45", "12:46", "12:47", "12:49", "12:50", "12:51", "12:52", "12:54", "12:56", "12:57", "12:59", "13:00", "13:02", "13:04"]
+                },
+                {
+                    "startWeekend": "22:30",
+                    "numberWeekend": "33",
+                    "nameWeekend": "Helyi aut. áll. - Egyenesi u. - Kecelhegy - Helyi aut. áll.",
+                    "stopsWeekend": ["Helyi autóbuszállomás","Berzsenyi u. felüljáró","Tompa M. u.","Kölcsey u.","Állatkórház","Eger u.","Kapoli A. u.","Egyenesi u. 42.","Beszédes J. u.","Egyenesi u. forduló","Beszédes J. u."
+                    ,"Egyenesi u. 42.","Kapoli A. u.","Magyar Nobel-díjasok tere","Bethlen G. u.","Kecelhegyi iskola","Kőrösi Cs. S. u.","Kecelhegyalja u.","Mátyás k. u., forduló","Hajnóczy u. csp."
+                    ,"Vasútköz","Városi könyvtár","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Heyi autóbusz-állomás"],
+                    "stopsTimeWeekend": ["22:30", "22:31", "22:32", "22:33", "22:34", "22:35", "22:36", "22:37", "22:38", "22:39", "22:40", "22:41", "22:42", "22:43", "22:44", "22:45", "22:46", "22:47", "22:48", "22:49", "22:50", "22:51", "22:52", "22:53", "22:54", "22:55"]
                 },
         /*-----------------------------------------------------33 WEEKEND END-------------------------------------------------*/
         /*-----------------------------------------------------41 WEEKEND----------------------------------------------*/
                 {
-                    "startWeekend": "04:45",
+                    "startWeekend": "05:05",
                     "numberWeekend": "41",
-                    "nameWeekend": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekend": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekend": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekend": "Koppány vezér u - Bartók B. u. - Raktár u.",
+                    "stopsWeekend": ["Koppány vezér u.","Erdősor u.","Rózsa u.","Szegfű u.","Jókai u.","Bartók B. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Jutai u. 24.","Tóth Á. u.","Jutai u. 45.","Raktár u. 2.","Raktár u."],
+                    "stopsTimeWeekend": ["05:05", "05:06", "05:09", "05:10", "05:11", "05:13", "05:15", "05:17", "05:19", "05:22", "05:23", "05:24", "05:25", "05:26", "05:27", "05:28", "05:29", "05:30"]
+                },
+                {
+                    "startWeekend": "05:55",
+                    "numberWeekend": "41",
+                    "nameWeekend": "Koppány vezér u - Bartók B. u. - Raktár u.",
+                    "stopsWeekend": ["Koppány vezér u.","Erdősor u.","Rózsa u.","Szegfű u.","Jókai u.","Bartók B. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Jutai u. 24.","Tóth Á. u.","Jutai u. 45.","Raktár u. 2.","Raktár u."],
+                    "stopsTimeWeekend": ["05:55", "05:56", "05:59", "06:00", "06:01", "06:03", "06:05", "06:07", "06:09", "06:12", "06:13", "06:14", "06:15", "06:16", "06:17", "06:18", "06:19", "06:20"]
+                },
+                {
+                    "startWeekend": "06:45",
+                    "numberWeekend": "41",
+                    "nameWeekend": "Koppány vezér u - Bartók B. u. - Raktár u.",
+                    "stopsWeekend": ["Koppány vezér u.","Erdősor u.","Rózsa u.","Szegfű u.","Jókai u.","Bartók B. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Jutai u. 24.","Tóth Á. u.","Jutai u. 45.","Raktár u. 2.","Raktár u."],
+                    "stopsTimeWeekend": ["06:45", "06:46", "06:49", "06:50", "06:51", "06:53", "06:55", "06:57", "06:59", "07:02", "07:03", "07:04", "07:05", "07:06", "07:07", "07:08", "07:09", "07:10"]
+                },
+                {
+                    "startWeekend": "08:05",
+                    "numberWeekend": "41",
+                    "nameWeekend": "Koppány vezér u - Bartók B. u. - Raktár u.",
+                    "stopsWeekend": ["Koppány vezér u.","Erdősor u.","Rózsa u.","Szegfű u.","Jókai u.","Bartók B. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Jutai u. 24.","Tóth Á. u.","Jutai u. 45.","Raktár u. 2.","Raktár u."],
+                    "stopsTimeWeekend": ["08:05", "08:06", "08:09", "08:10", "08:11", "08:13", "08:15", "08:17", "08:19", "08:22", "08:23", "08:24", "08:25", "08:26", "08:27", "08:28", "08:29", "08:30"]
+                },
+                {
+                    "startWeekend": "10:05",
+                    "numberWeekend": "41",
+                    "nameWeekend": "Koppány vezér u - Bartók B. u. - Raktár u.",
+                    "stopsWeekend": ["Koppány vezér u.","Erdősor u.","Rózsa u.","Szegfű u.","Jókai u.","Bartók B. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Jutai u. 24.","Tóth Á. u.","Jutai u. 45.","Raktár u. 2.","Raktár u."],
+                    "stopsTimeWeekend": ["10:05", "10:06", "10:09", "10:10", "10:11", "10:13", "10:15", "10:17", "10:19", "10:22", "10:23", "10:24", "10:25", "10:26", "10:27", "10:28", "10:29", "10:30"]
+                },
+                {
+                    "startWeekend": "10:55",
+                    "numberWeekend": "41",
+                    "nameWeekend": "Koppány vezér u - Bartók B. u. - Raktár u.",
+                    "stopsWeekend": ["Koppány vezér u.","Erdősor u.","Rózsa u.","Szegfű u.","Jókai u.","Bartók B. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Jutai u. 24.","Tóth Á. u.","Jutai u. 45.","Raktár u. 2.","Raktár u."],
+                    "stopsTimeWeekend": ["10:55", "10:56", "10:59", "11:00", "11:01", "11:03", "11:05", "11:07", "11:09", "11:12", "11:13", "11:14", "11:15", "11:16", "11:17", "11:18", "11:19", "11:20"]
+                },
+                {
+                    "startWeekend": "11:45",
+                    "numberWeekend": "41",
+                    "nameWeekend": "Koppány vezér u - Bartók B. u. - Raktár u.",
+                    "stopsWeekend": ["Koppány vezér u.","Erdősor u.","Rózsa u.","Szegfű u.","Jókai u.","Bartók B. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Jutai u. 24.","Tóth Á. u.","Jutai u. 45.","Raktár u. 2.","Raktár u."],
+                    "stopsTimeWeekend": ["11:45", "11:46", "11:49", "11:50", "11:51", "11:53", "11:55", "11:57", "11:59", "12:02", "12:03", "12:04", "12:05", "12:06", "12:07", "12:08", "12:09", "12:10"]
+                },
+                {
+                    "startWeekend": "13:10",
+                    "numberWeekend": "41",
+                    "nameWeekend": "Koppány vezér u - Bartók B. u. - Raktár u.",
+                    "stopsWeekend": ["Koppány vezér u.","Erdősor u.","Rózsa u.","Szegfű u.","Jókai u.","Bartók B. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Jutai u. 24.","Tóth Á. u.","Jutai u. 45.","Raktár u. 2.","Raktár u."],
+                    "stopsTimeWeekend": ["13:10", "13:11", "13:14", "13:15", "13:16", "13:18", "13:20", "13:22", "13:24", "13:27", "13:28", "13:29", "13:30", "13:31", "13:32", "13:33", "13:34", "13:35"]
+                },
+                {
+                    "startWeekend": "14:35",
+                    "numberWeekend": "41",
+                    "nameWeekend": "Koppány vezér u - Bartók B. u. - Raktár u.",
+                    "stopsWeekend": ["Koppány vezér u.","Erdősor u.","Rózsa u.","Szegfű u.","Jókai u.","Bartók B. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Jutai u. 24.","Tóth Á. u.","Jutai u. 45.","Raktár u. 2.","Raktár u."],
+                    "stopsTimeWeekend": ["14:35", "14:36", "14:39", "14:40", "14:41", "14:43", "14:45", "14:47", "14:49", "14:52", "14:53", "14:54", "14:55", "14:56", "14:57", "14:58", "14:59", "15:00"]
+                },
+                {
+                    "startWeekend": "16:30",
+                    "numberWeekend": "41",
+                    "nameWeekend": "Koppány vezér u - Bartók B. u. - Raktár u.",
+                    "stopsWeekend": ["Koppány vezér u.","Erdősor u.","Rózsa u.","Szegfű u.","Jókai u.","Bartók B. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Jutai u. 24.","Tóth Á. u.","Jutai u. 45.","Raktár u. 2.","Raktár u."],
+                    "stopsTimeWeekend": ["16:30", "16:31", "16:34", "16:35", "16:36", "16:38", "16:40", "16:42", "16:44", "16:47", "16:48", "16:49", "16:50", "16:51", "16:52", "16:53", "16:54", "16:55"]
+                },
+                {
+                    "startWeekend": "18:05",
+                    "numberWeekend": "41",
+                    "nameWeekend": "Koppány vezér u - Bartók B. u. - Raktár u.",
+                    "stopsWeekend": ["Koppány vezér u.","Erdősor u.","Rózsa u.","Szegfű u.","Jókai u.","Bartók B. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Jutai u. 24.","Tóth Á. u.","Jutai u. 45.","Raktár u. 2.","Raktár u."],
+                    "stopsTimeWeekend": ["18:05", "18:06", "18:09", "18:10", "18:11", "18:13", "18:15", "18:17", "18:19", "18:22", "18:23", "18:24", "18:25", "18:26", "18:27", "18:28", "18:29", "18:30"]
+                },
+                {
+                    "startWeekend": "19:55",
+                    "numberWeekend": "41",
+                    "nameWeekend": "Koppány vezér u - Bartók B. u. - Raktár u.",
+                    "stopsWeekend": ["Koppány vezér u.","Erdősor u.","Rózsa u.","Szegfű u.","Jókai u.","Bartók B. u.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Berzsenyi u. felüljáró"
+                    ,"Berzsenyi u. 30.","Füredi utcai csomópont","Városi könyvtár","Vasútköz","Hajnóczy u. csp.","Jutai u. 24.","Tóth Á. u.","Jutai u. 45.","Raktár u. 2.","Raktár u."],
+                    "stopsTimeWeekend": ["19:55", "19:56", "19:59", "20:00", "20:01", "20:03", "20:05", "20:07", "20:09", "20:12", "20:13", "20:14", "20:15", "20:16", "20:17", "20:18", "20:19", "20:20"]
                 },
         /*-----------------------------------------------------41 WEEKEND END-------------------------------------------------*/
         /*-----------------------------------------------------42 WEEKEND----------------------------------------------*/
                 {
-                    "startWeekend": "04:45",
+                    "startWeekend": "04:50",
                     "numberWeekend": "42",
-                    "nameWeekend": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekend": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekend": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekend": "Töröcske forduló - Kórház - Laktanya",
+                    "stopsWeekend": ["Töröcske, forduló","Fenyves u. 31.","Fenyves u. 37/A","Szőlőhegy","Kertbarát alsó","Kertbarát felső","Gyertyános","Harangvirág u.","Aranyeső u.","Zichy u.","Táncsics M. u.","Bartók B. u.","Berzsenyi u. felüljáró"
+                    ,"Helyi autóbusz-állomás","Vasútállomás","Tallián Gy. u. 4.","Kórház","Tallián Gy. u. 56.","Tallián Gy. u. 82.","ÁNTSZ","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u.","Laktanya"],
+                    "stopsTimeWeekend": ["04:50", "04:51", "04:52", "04:54", "04:56", "04:58", "04:59", "05:00", "05:01", "05:02", "05:03", "05:05", "05:08", "05:10", "05:12", "05:14", "05:16", "05:18", "05:19", "05:22", "05:25", "05:27", "05:28", "05:29", "05:30"]
+                },
+                {
+                    "startWeekend": "06:10",
+                    "numberWeekend": "42",
+                    "nameWeekend": "Töröcske forduló - Kórház - Laktanya",
+                    "stopsWeekend": ["Töröcske, forduló","Fenyves u. 31.","Fenyves u. 37/A","Szőlőhegy","Kertbarát alsó","Kertbarát felső","Gyertyános","Harangvirág u.","Aranyeső u.","Zichy u.","Táncsics M. u.","Bartók B. u.","Berzsenyi u. felüljáró"
+                    ,"Helyi autóbusz-állomás","Vasútállomás","Tallián Gy. u. 4.","Kórház","Tallián Gy. u. 56.","Tallián Gy. u. 82.","ÁNTSZ","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u.","Laktanya"],
+                    "stopsTimeWeekend": ["06:10", "06:11", "06:12", "06:14", "06:16", "06:18", "06:19", "06:20", "06:21", "06:22", "06:23", "06:25", "06:28", "06:30", "06:32", "06:34", "06:36", "06:38", "06:39", "06:42", "06:45", "06:47", "06:48", "06:49", "06:50"]
+                },
+                {
+                    "startWeekend": "07:40",
+                    "numberWeekend": "42",
+                    "nameWeekend": "Töröcske forduló - Kórház - Laktanya",
+                    "stopsWeekend": ["Töröcske, forduló","Fenyves u. 31.","Fenyves u. 37/A","Szőlőhegy","Kertbarát alsó","Kertbarát felső","Gyertyános","Harangvirág u.","Aranyeső u.","Zichy u.","Táncsics M. u.","Bartók B. u.","Berzsenyi u. felüljáró"
+                    ,"Helyi autóbusz-állomás","Vasútállomás","Tallián Gy. u. 4.","Kórház","Tallián Gy. u. 56.","Tallián Gy. u. 82.","ÁNTSZ","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u.","Laktanya"],
+                    "stopsTimeWeekend": ["07:40", "07:41", "07:42", "07:44", "07:46", "07:48", "07:49", "07:50", "07:51", "07:52", "07:53", "07:55", "07:58", "08:00", "08:02", "08:04", "08:06", "08:08", "08:09", "08:12", "08:15", "08:17", "08:18", "08:19", "08:20"]
+                },
+                {
+                    "startWeekend": "09:00",
+                    "numberWeekend": "42",
+                    "nameWeekend": "Töröcske forduló - Kórház - Laktanya",
+                    "stopsWeekend": ["Töröcske, forduló","Fenyves u. 31.","Fenyves u. 37/A","Szőlőhegy","Kertbarát alsó","Kertbarát felső","Gyertyános","Harangvirág u.","Aranyeső u.","Zichy u.","Táncsics M. u.","Bartók B. u.","Berzsenyi u. felüljáró"
+                    ,"Helyi autóbusz-állomás","Vasútállomás","Tallián Gy. u. 4.","Kórház","Tallián Gy. u. 56.","Tallián Gy. u. 82.","ÁNTSZ","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u.","Laktanya"],
+                    "stopsTimeWeekend": ["09:00", "09:01", "09:02", "09:04", "09:06", "09:08", "09:09", "09:10", "09:11", "09:12", "09:13", "09:15", "09:18", "09:20", "09:22", "09:24", "09:26", "09:28", "09:29", "09:32", "09:35", "09:37", "09:38", "09:39", "09:40"]
+                },
+                {
+                    "startWeekend": "10:20",
+                    "numberWeekend": "42",
+                    "nameWeekend": "Töröcske forduló - Kórház - Laktanya",
+                    "stopsWeekend": ["Töröcske, forduló","Fenyves u. 31.","Fenyves u. 37/A","Szőlőhegy","Kertbarát alsó","Kertbarát felső","Gyertyános","Harangvirág u.","Aranyeső u.","Zichy u.","Táncsics M. u.","Bartók B. u.","Berzsenyi u. felüljáró"
+                    ,"Helyi autóbusz-állomás","Vasútállomás","Tallián Gy. u. 4.","Kórház","Tallián Gy. u. 56.","Tallián Gy. u. 82.","ÁNTSZ","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u.","Laktanya"],
+                    "stopsTimeWeekend": ["10:20", "10:21", "10:22", "10:24", "10:26", "10:28", "10:29", "10:30", "10:31", "10:32", "10:33", "10:35", "10:38", "10:40", "10:42", "10:44", "10:46", "10:48", "10:49", "10:52", "10:55", "10:57", "10:58", "10:59", "11:00"]
+                },
+                {
+                    "startWeekend": "11:40",
+                    "numberWeekend": "42",
+                    "nameWeekend": "Töröcske forduló - Kórház - Laktanya",
+                    "stopsWeekend": ["Töröcske, forduló","Fenyves u. 31.","Fenyves u. 37/A","Szőlőhegy","Kertbarát alsó","Kertbarát felső","Gyertyános","Harangvirág u.","Aranyeső u.","Zichy u.","Táncsics M. u.","Bartók B. u.","Berzsenyi u. felüljáró"
+                    ,"Helyi autóbusz-állomás","Vasútállomás","Tallián Gy. u. 4.","Kórház","Tallián Gy. u. 56.","Tallián Gy. u. 82.","ÁNTSZ","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u.","Laktanya"],
+                    "stopsTimeWeekend": ["11:40", "11:41", "11:42", "11:44", "11:46", "11:48", "11:49", "11:50", "11:51", "11:52", "11:53", "11:55", "11:58", "12:00", "12:02", "12:04", "12:06", "12:08", "12:09", "12:12", "12:15", "12:17", "12:18", "12:19", "12:20"]
+                },
+                {
+                    "startWeekend": "13:00",
+                    "numberWeekend": "42",
+                    "nameWeekend": "Töröcske forduló - Kórház - Laktanya",
+                    "stopsWeekend": ["Töröcske, forduló","Fenyves u. 31.","Fenyves u. 37/A","Szőlőhegy","Kertbarát alsó","Kertbarát felső","Gyertyános","Harangvirág u.","Aranyeső u.","Zichy u.","Táncsics M. u.","Bartók B. u.","Berzsenyi u. felüljáró"
+                    ,"Helyi autóbusz-állomás","Vasútállomás","Tallián Gy. u. 4.","Kórház","Tallián Gy. u. 56.","Tallián Gy. u. 82.","ÁNTSZ","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u.","Laktanya"],
+                    "stopsTimeWeekend": ["13:00", "13:01", "13:02", "13:04", "13:06", "13:08", "13:09", "13:10", "13:11", "13:12", "13:13", "13:15", "13:18", "13:20", "13:22", "13:24", "13:26", "13:28", "13:29", "13:32", "13:35", "13:37", "13:38", "13:39", "13:40"]
+                },
+                {
+                    "startWeekend": "14:20",
+                    "numberWeekend": "42",
+                    "nameWeekend": "Töröcske forduló - Kórház - Laktanya",
+                    "stopsWeekend": ["Töröcske, forduló","Fenyves u. 31.","Fenyves u. 37/A","Szőlőhegy","Kertbarát alsó","Kertbarát felső","Gyertyános","Harangvirág u.","Aranyeső u.","Zichy u.","Táncsics M. u.","Bartók B. u.","Berzsenyi u. felüljáró"
+                    ,"Helyi autóbusz-állomás","Vasútállomás","Tallián Gy. u. 4.","Kórház","Tallián Gy. u. 56.","Tallián Gy. u. 82.","ÁNTSZ","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u.","Laktanya"],
+                    "stopsTimeWeekend": ["14:20", "14:21", "14:22", "14:24", "14:26", "14:28", "14:29", "14:30", "14:31", "14:32", "14:33", "14:35", "14:38", "14:40", "14:42", "14:44", "14:46", "14:48", "14:49", "14:52", "14:55", "14:57", "14:58", "14:59", "15:00"]
+                },
+                {
+                    "startWeekend": "16:15",
+                    "numberWeekend": "42",
+                    "nameWeekend": "Töröcske forduló - Kórház - Laktanya",
+                    "stopsWeekend": ["Töröcske, forduló","Fenyves u. 31.","Fenyves u. 37/A","Szőlőhegy","Kertbarát alsó","Kertbarát felső","Gyertyános","Harangvirág u.","Aranyeső u.","Zichy u.","Táncsics M. u.","Bartók B. u.","Berzsenyi u. felüljáró"
+                    ,"Helyi autóbusz-állomás","Vasútállomás","Tallián Gy. u. 4.","Kórház","Tallián Gy. u. 56.","Tallián Gy. u. 82.","ÁNTSZ","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u.","Laktanya"],
+                    "stopsTimeWeekend": ["16:15", "16:16", "16:17", "16:19", "16:21", "16:23", "16:24", "16:25", "16:26", "16:27", "16:28", "16:30", "16:33", "16:35", "16:37", "16:39", "16:41", "16:43", "16:44", "16:47", "16:50", "16:52", "16:53", "16:54", "16:55"]
+                },
+                {
+                    "startWeekend": "17:00",
+                    "numberWeekend": "42",
+                    "nameWeekend": "Töröcske forduló - Kórház - Laktanya",
+                    "stopsWeekend": ["Töröcske, forduló","Fenyves u. 31.","Fenyves u. 37/A","Szőlőhegy","Kertbarát alsó","Kertbarát felső","Gyertyános","Harangvirág u.","Aranyeső u.","Zichy u.","Táncsics M. u.","Bartók B. u.","Berzsenyi u. felüljáró"
+                    ,"Helyi autóbusz-állomás","Vasútállomás","Tallián Gy. u. 4.","Kórház","Tallián Gy. u. 56.","Tallián Gy. u. 82.","ÁNTSZ","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u.","Laktanya"],
+                    "stopsTimeWeekend": ["17:00", "17:01", "17:02", "17:04", "17:06", "17:08", "17:09", "17:10", "17:11", "17:12", "17:13", "17:15", "17:18", "17:20", "17:22", "17:24", "17:26", "17:28", "17:29", "17:32", "17:35", "17:37", "17:38", "17:39", "17:40"]
+                },
+                {
+                    "startWeekend": "18:20",
+                    "numberWeekend": "42",
+                    "nameWeekend": "Töröcske forduló - Kórház - Laktanya",
+                    "stopsWeekend": ["Töröcske, forduló","Fenyves u. 31.","Fenyves u. 37/A","Szőlőhegy","Kertbarát alsó","Kertbarát felső","Gyertyános","Harangvirág u.","Aranyeső u.","Zichy u.","Táncsics M. u.","Bartók B. u.","Berzsenyi u. felüljáró"
+                    ,"Helyi autóbusz-állomás","Vasútállomás","Tallián Gy. u. 4.","Kórház","Tallián Gy. u. 56.","Tallián Gy. u. 82.","ÁNTSZ","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u.","Laktanya"],
+                    "stopsTimeWeekend": ["18:20", "18:21", "18:22", "18:24", "18:26", "18:28", "18:29", "18:30", "18:31", "18:32", "18:33", "18:35", "18:38", "18:40", "18:42", "18:44", "18:46", "18:48", "18:49", "18:52", "18:55", "18:57", "18:58", "18:59", "19:00"]
+                },
+                {
+                    "startWeekend": "20:50",
+                    "numberWeekend": "42",
+                    "nameWeekend": "Töröcske forduló - Kórház - Laktanya",
+                    "stopsWeekend": ["Töröcske, forduló","Fenyves u. 31.","Fenyves u. 37/A","Szőlőhegy","Kertbarát alsó","Kertbarát felső","Gyertyános","Harangvirág u.","Aranyeső u.","Zichy u.","Táncsics M. u.","Bartók B. u.","Berzsenyi u. felüljáró"
+                    ,"Helyi autóbusz-állomás","Vasútállomás","Tallián Gy. u. 4.","Kórház","Tallián Gy. u. 56.","Tallián Gy. u. 82.","ÁNTSZ","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u.","Laktanya"],
+                    "stopsTimeWeekend": ["20:50", "20:51", "20:52", "20:54", "20:56", "20:58", "20:59", "21:00", "21:01", "21:02", "21:03", "21:05", "21:08", "21:10", "21:12", "21:14", "21:16", "21:18", "21:19", "21:22", "21:25", "21:27", "21:28", "21:29", "21:30"]
                 },
         /*-----------------------------------------------------42 WEEKEND END-------------------------------------------------*/
         /*-----------------------------------------------------47 WEEKEND----------------------------------------------*/
                 {
                     "startWeekend": "04:45",
                     "numberWeekend": "47",
-                    "nameWeekend": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekend": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekend": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekend": "Koppány vezér u.- Kórház - Kaposfüred forduló",
+                    "stopsWeekend": ["Koppány vezér u.","Gönczi F. u.","Rózsa u.","67-es sz. út","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Vasútállomás","Tallián Gy. u. 4.","Kórház","Tallián Gy. u. 56."
+                    ,"Tallián Gy. u. 82.","ÁNTSZ","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp.","Búzavirág u.","Laktanya","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüred, forduló"],
+                    "stopsTimeWeekend": ["04:45", "04:46", "04:48", "04:49", "04:51", "04:53", "04:55", "04:57", "04:58", "05:00", "05:01", "05:03", "05:05", "05:06", "05:07", "05:08", "05:10", "05:12", "05:14", "05:15", "05:17", "05:18", "05:20"]
                 },
         /*-----------------------------------------------------47 WEEKEND END-------------------------------------------------*/
         /*-----------------------------------------------------51 WEEKEND----------------------------------------------*/
                 {
-                    "startWeekend": "04:45",
+                    "startWeekend": "04:50",
                     "numberWeekend": "51",
-                    "nameWeekend": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekend": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekend": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekend": "Rómahegy - Sopron u. - Laktanya",
+                    "stopsWeekend": ["Rómahegy", "Nyár u.", "Szigetvári u. 139.", "Ballakúti u.", "Szigetvári u. 62.", "Szigetvári u. 6.", "Jókai liget", "Berzsenyi u. felüljáró"
+                    , "Helyi autóbusz-állomás", "Corso", "Zárda u.", "Honvéd u.", "Arany J. tér", "Losonc-köz", "Brassó u.", "Sopron u.", "Búzavirág u.", "Laktanya"],
+                    "stopsTimeWeekend": ["04:50", "04:51", "04:52", "04:53", "04:55", "04:57", "04:59", "05:03", "05:05", "05:06", "05:08", "05:10", "05:12", "05:14", "05:16", "05:17", "05:18", "05:20"]
+                },
+                {
+                    "startWeekend": "05:50",
+                    "numberWeekend": "51",
+                    "nameWeekend": "Rómahegy - Sopron u. - Laktanya",
+                    "stopsWeekend": ["Rómahegy", "Nyár u.", "Szigetvári u. 139.", "Ballakúti u.", "Szigetvári u. 62.", "Szigetvári u. 6.", "Jókai liget", "Berzsenyi u. felüljáró"
+                    , "Helyi autóbusz-állomás", "Corso", "Zárda u.", "Honvéd u.", "Arany J. tér", "Losonc-köz", "Brassó u.", "Sopron u.", "Búzavirág u.", "Laktanya"],
+                    "stopsTimeWeekend": ["05:50", "05:51", "05:52", "05:53", "05:55", "05:57", "05:59", "06:03", "06:05", "06:06", "06:08", "06:10", "06:12", "06:14", "06:16", "06:17", "06:18", "06:20"]
+                },
+                {
+                    "startWeekend": "07:00",
+                    "numberWeekend": "51",
+                    "nameWeekend": "Rómahegy - Sopron u. - Laktanya",
+                    "stopsWeekend": ["Rómahegy", "Nyár u.", "Szigetvári u. 139.", "Ballakúti u.", "Szigetvári u. 62.", "Szigetvári u. 6.", "Jókai liget", "Berzsenyi u. felüljáró"
+                    , "Helyi autóbusz-állomás", "Corso", "Zárda u.", "Honvéd u.", "Arany J. tér", "Losonc-köz", "Brassó u.", "Sopron u.", "Búzavirág u.", "Laktanya"],
+                    "stopsTimeWeekend": ["07:00", "07:01", "07:02", "07:03", "07:05", "07:07", "07:09", "07:13", "07:15", "07:16", "07:18", "07:20", "07:22", "07:24", "07:26", "07:27", "07:28", "07:30"]
+                },
+                {
+                    "startWeekend": "08:00",
+                    "numberWeekend": "51",
+                    "nameWeekend": "Rómahegy - Sopron u. - Laktanya",
+                    "stopsWeekend": ["Rómahegy", "Nyár u.", "Szigetvári u. 139.", "Ballakúti u.", "Szigetvári u. 62.", "Szigetvári u. 6.", "Jókai liget", "Berzsenyi u. felüljáró"
+                    , "Helyi autóbusz-állomás", "Corso", "Zárda u.", "Honvéd u.", "Arany J. tér", "Losonc-köz", "Brassó u.", "Sopron u.", "Búzavirág u.", "Laktanya"],
+                    "stopsTimeWeekend": ["08:00", "08:01", "08:02", "08:03", "08:05", "08:07", "08:09", "08:13", "08:15", "08:16", "08:18", "08:20", "08:22", "08:24", "08:26", "08:27", "08:28", "08:30"]
+                },
+                {
+                    "startWeekend": "10:00",
+                    "numberWeekend": "51",
+                    "nameWeekend": "Rómahegy - Sopron u. - Laktanya",
+                    "stopsWeekend": ["Rómahegy", "Nyár u.", "Szigetvári u. 139.", "Ballakúti u.", "Szigetvári u. 62.", "Szigetvári u. 6.", "Jókai liget", "Berzsenyi u. felüljáró"
+                    , "Helyi autóbusz-állomás", "Corso", "Zárda u.", "Honvéd u.", "Arany J. tér", "Losonc-köz", "Brassó u.", "Sopron u.", "Búzavirág u.", "Laktanya"],
+                    "stopsTimeWeekend": ["10:00", "10:01", "10:02", "10:03", "10:05", "10:07", "10:09", "10:13", "10:15", "10:16", "10:18", "10:20", "10:22", "10:24", "10:26", "10:27", "10:28", "10:30"]
+                },
+                {
+                    "startWeekend": "11:00",
+                    "numberWeekend": "51",
+                    "nameWeekend": "Rómahegy - Sopron u. - Laktanya",
+                    "stopsWeekend": ["Rómahegy", "Nyár u.", "Szigetvári u. 139.", "Ballakúti u.", "Szigetvári u. 62.", "Szigetvári u. 6.", "Jókai liget", "Berzsenyi u. felüljáró"
+                    , "Helyi autóbusz-állomás", "Corso", "Zárda u.", "Honvéd u.", "Arany J. tér", "Losonc-köz", "Brassó u.", "Sopron u.", "Búzavirág u.", "Laktanya"],
+                    "stopsTimeWeekend": ["11:00", "11:01", "11:02", "11:03", "11:05", "11:07", "11:09", "11:13", "11:15", "11:16", "11:18", "11:20", "11:22", "11:24", "11:26", "11:27", "11:28", "11:30"]
+                },
+                {
+                    "startWeekend": "12:00",
+                    "numberWeekend": "51",
+                    "nameWeekend": "Rómahegy - Sopron u. - Laktanya",
+                    "stopsWeekend": ["Rómahegy", "Nyár u.", "Szigetvári u. 139.", "Ballakúti u.", "Szigetvári u. 62.", "Szigetvári u. 6.", "Jókai liget", "Berzsenyi u. felüljáró"
+                    , "Helyi autóbusz-állomás", "Corso", "Zárda u.", "Honvéd u.", "Arany J. tér", "Losonc-köz", "Brassó u.", "Sopron u.", "Búzavirág u.", "Laktanya"],
+                    "stopsTimeWeekend": ["12:00", "12:01", "12:02", "12:03", "12:05", "12:07", "12:09", "12:13", "12:15", "12:16", "12:18", "12:20", "12:22", "12:24", "12:26", "12:27", "12:28", "12:30"]
+                },
+                {
+                    "startWeekend": "13:00",
+                    "numberWeekend": "51",
+                    "nameWeekend": "Rómahegy - Sopron u. - Laktanya",
+                    "stopsWeekend": ["Rómahegy", "Nyár u.", "Szigetvári u. 139.", "Ballakúti u.", "Szigetvári u. 62.", "Szigetvári u. 6.", "Jókai liget", "Berzsenyi u. felüljáró"
+                    , "Helyi autóbusz-állomás", "Corso", "Zárda u.", "Honvéd u.", "Arany J. tér", "Losonc-köz", "Brassó u.", "Sopron u.", "Búzavirág u.", "Laktanya"],
+                    "stopsTimeWeekend": ["13:00", "13:01", "13:02", "13:03", "13:05", "13:07", "13:09", "13:13", "13:15", "13:16", "13:18", "13:20", "13:22", "13:24", "13:26", "13:27", "13:28", "13:30"]
+                },
+                {
+                    "startWeekend": "14:00",
+                    "numberWeekend": "51",
+                    "nameWeekend": "Rómahegy - Sopron u. - Laktanya",
+                    "stopsWeekend": ["Rómahegy", "Nyár u.", "Szigetvári u. 139.", "Ballakúti u.", "Szigetvári u. 62.", "Szigetvári u. 6.", "Jókai liget", "Berzsenyi u. felüljáró"
+                    , "Helyi autóbusz-állomás", "Corso", "Zárda u.", "Honvéd u.", "Arany J. tér", "Losonc-köz", "Brassó u.", "Sopron u.", "Búzavirág u.", "Laktanya"],
+                    "stopsTimeWeekend": ["14:00", "14:01", "14:02", "14:03", "14:05", "14:07", "14:09", "14:13", "14:15", "14:16", "14:18", "14:20", "14:22", "14:24", "14:26", "14:27", "14:28", "14:30"]
+                },
+                {
+                    "startWeekend": "15:00",
+                    "numberWeekend": "51",
+                    "nameWeekend": "Rómahegy - Sopron u. - Laktanya",
+                    "stopsWeekend": ["Rómahegy", "Nyár u.", "Szigetvári u. 139.", "Ballakúti u.", "Szigetvári u. 62.", "Szigetvári u. 6.", "Jókai liget", "Berzsenyi u. felüljáró"
+                    , "Helyi autóbusz-állomás", "Corso", "Zárda u.", "Honvéd u.", "Arany J. tér", "Losonc-köz", "Brassó u.", "Sopron u.", "Búzavirág u.", "Laktanya"],
+                    "stopsTimeWeekend": ["15:00", "15:01", "15:02", "15:03", "15:05", "15:07", "15:09", "15:13", "15:15", "15:16", "15:18", "15:20", "15:22", "15:24", "15:26", "15:27", "15:28", "15:30"]
+                },
+                {
+                    "startWeekend": "16:15",
+                    "numberWeekend": "51",
+                    "nameWeekend": "Rómahegy - Sopron u. - Laktanya",
+                    "stopsWeekend": ["Rómahegy", "Nyár u.", "Szigetvári u. 139.", "Ballakúti u.", "Szigetvári u. 62.", "Szigetvári u. 6.", "Jókai liget", "Berzsenyi u. felüljáró"
+                    , "Helyi autóbusz-állomás", "Corso", "Zárda u.", "Honvéd u.", "Arany J. tér", "Losonc-köz", "Brassó u.", "Sopron u.", "Búzavirág u.", "Laktanya"],
+                    "stopsTimeWeekend": ["16:15", "16:16", "16:17", "16:18", "16:20", "16:22", "16:24", "16:28", "16:30", "16:31", "16:33", "16:35", "16:37", "16:39", "16:41", "16:42", "16:43", "16:45"]
+                },
+                {
+                    "startWeekend": "18:00",
+                    "numberWeekend": "51",
+                    "nameWeekend": "Rómahegy - Sopron u. - Laktanya",
+                    "stopsWeekend": ["Rómahegy", "Nyár u.", "Szigetvári u. 139.", "Ballakúti u.", "Szigetvári u. 62.", "Szigetvári u. 6.", "Jókai liget", "Berzsenyi u. felüljáró"
+                    , "Helyi autóbusz-állomás", "Corso", "Zárda u.", "Honvéd u.", "Arany J. tér", "Losonc-köz", "Brassó u.", "Sopron u.", "Búzavirág u.", "Laktanya"],
+                    "stopsTimeWeekend": ["18:00", "18:01", "18:02", "18:03", "18:05", "18:07", "18:09", "18:13", "18:15", "18:16", "18:18", "18:20", "18:22", "18:24", "18:26", "18:27", "18:28", "18:30"]
+                },
+                {
+                    "startWeekend": "20:00",
+                    "numberWeekend": "51",
+                    "nameWeekend": "Rómahegy - Sopron u. - Laktanya",
+                    "stopsWeekend": ["Rómahegy", "Nyár u.", "Szigetvári u. 139.", "Ballakúti u.", "Szigetvári u. 62.", "Szigetvári u. 6.", "Jókai liget", "Berzsenyi u. felüljáró"
+                    , "Helyi autóbusz-állomás", "Corso", "Zárda u.", "Honvéd u.", "Arany J. tér", "Losonc-köz", "Brassó u.", "Sopron u.", "Búzavirág u.", "Laktanya"],
+                    "stopsTimeWeekend": ["20:00", "20:01", "20:02", "20:03", "20:05", "20:07", "20:09", "20:13", "20:15", "20:16", "20:18", "20:20", "20:22", "20:24", "20:26", "20:27", "20:28", "20:30"]
+                },
+                {
+                    "startWeekend": "22:00",
+                    "numberWeekend": "51",
+                    "nameWeekend": "Rómahegy - Sopron u. - Laktanya",
+                    "stopsWeekend": ["Rómahegy", "Nyár u.", "Szigetvári u. 139.", "Ballakúti u.", "Szigetvári u. 62.", "Szigetvári u. 6.", "Jókai liget", "Berzsenyi u. felüljáró"
+                    , "Helyi autóbusz-állomás", "Corso", "Zárda u.", "Honvéd u.", "Arany J. tér", "Losonc-köz", "Brassó u.", "Sopron u.", "Búzavirág u.", "Laktanya"],
+                    "stopsTimeWeekend": ["22:00", "22:01", "22:03", "22:04", "22:05", "22:06", "22:07", "22:09", "22:10", "22:11", "22:12", "22:13", "22:14", "22:15", "22:16", "22:17", "22:19", "22:20"]
                 },
         /*-----------------------------------------------------51 WEEKEND END-------------------------------------------------*/
         /*-----------------------------------------------------61 WEEKEND----------------------------------------------*/
                 {
-                    "startWeekend": "04:45",
+                    "startWeekend": "07:10",
                     "numberWeekend": "61",
-                    "nameWeekend": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekend": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekend": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekend": "Helyi- autóbuszállomás - Béla király u.",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Baross G. u.","Csalogány u.","Vikár B.u.","Béla király u."],
+                    "stopsTimeWeekend": ["07:10", "07:12", "07:14", "07:16", "07:17", "07:18"]
+                },
+                {
+                    "startWeekend": "08:10",
+                    "numberWeekend": "61",
+                    "nameWeekend": "Helyi- autóbuszállomás - Béla király u.",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Baross G. u.","Csalogány u.","Vikár B.u.","Béla király u."],
+                    "stopsTimeWeekend": ["08:10", "08:12", "08:14", "08:16", "08:17", "08:18"]
+                },
+                {
+                    "startWeekend": "09:05",
+                    "numberWeekend": "61",
+                    "nameWeekend": "Helyi- autóbuszállomás - Béla király u.",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Baross G. u.","Csalogány u.","Vikár B.u.","Béla király u."],
+                    "stopsTimeWeekend": ["09:05", "09:07", "09:09", "09:11", "09:12", "09:13"]
+                },
+                {
+                    "startWeekend": "10:50",
+                    "numberWeekend": "61",
+                    "nameWeekend": "Helyi- autóbuszállomás - Béla király u.",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Baross G. u.","Csalogány u.","Vikár B.u.","Béla király u."],
+                    "stopsTimeWeekend": ["10:50", "10:52", "10:54", "10:56", "10:57", "10:58"]
+                },
+                {
+                    "startWeekend": "12:10",
+                    "numberWeekend": "61",
+                    "nameWeekend": "Helyi- autóbuszállomás - Béla király u.",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Baross G. u.","Csalogány u.","Vikár B.u.","Béla király u."],
+                    "stopsTimeWeekend": ["12:10", "12:12", "12:14", "12:16", "12:17", "12:18"]
+                },
+                {
+                    "startWeekend": "14:25",
+                    "numberWeekend": "61",
+                    "nameWeekend": "Helyi- autóbuszállomás - Béla király u.",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Baross G. u.","Csalogány u.","Vikár B.u.","Béla király u."],
+                    "stopsTimeWeekend": ["14:25", "14:27", "14:29", "14:31", "14:32", "14:33"]
+                },
+                {
+                    "startWeekend": "19:55",
+                    "numberWeekend": "61",
+                    "nameWeekend": "Helyi- autóbuszállomás - Béla király u.",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Baross G. u.","Csalogány u.","Vikár B.u.","Béla király u."],
+                    "stopsTimeWeekend": ["19:55", "19:57", "19:59", "20:01", "20:02", "20:03"]
                 },
         /*-----------------------------------------------------61 WEEKEND END-------------------------------------------------*/
         /*-----------------------------------------------------62 WEEKEND----------------------------------------------*/
                 {
-                    "startWeekend": "04:45",
+                    "startWeekend": "09:50",
                     "numberWeekend": "62",
-                    "nameWeekend": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekend": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekend": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekend": "Helyi autóbusz-állomás - Városi fürdő - Béla király u.",
+                    "stopsWeekend": ["Helyi aiutóbusz-állomás","Berzsenyi u. felüljáró","Városi fürdő","Csalogány u.","Vikár B. u.","Béla király u."],
+                    "stopsTimeWeekend": ["09:50", "09:53", "09:55", "09:58", "09:59", "10:00"]
+                },
+                {
+                    "startWeekend": "13:10",
+                    "numberWeekend": "62",
+                    "nameWeekend": "Helyi autóbusz-állomás - Városi fürdő - Béla király u.",
+                    "stopsWeekend": ["Helyi aiutóbusz-állomás","Berzsenyi u. felüljáró","Városi fürdő","Csalogány u.","Vikár B. u.","Béla király u."],
+                    "stopsTimeWeekend": ["13:10", "13:13", "13:15", "13:18", "13:19", "13:20"]
                 },
         /*-----------------------------------------------------62 WEEKEND END-------------------------------------------------*/
         /*-----------------------------------------------------70 WEEKEND----------------------------------------------*/
                 {
-                    "startWeekend": "04:45",
+                    "startWeekend": "09:55",
                     "numberWeekend": "70",
-                    "nameWeekend": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekend": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekend": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekend": "Helyi autóbusz-állomás - Kaposfüred",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónegyed","Kinizsi ltp."
+                    ,"Búzavirág u.","Laktanya","Zöld fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeWeekend": ["09:55", "09:57", "09:59", "10:02", "10:03", "10:04", "10:05", "10:06", "10:07", "10:08", "10:11", "10:12", "10:13", "10:14", "10:15"]
                 },
         /*-----------------------------------------------------70 WEEKEND END-------------------------------------------------*/
         /*-----------------------------------------------------71 WEEKEND----------------------------------------------*/
                 {
-                    "startWeekend": "04:45",
+                    "startWeekend": "04:35",
                     "numberWeekend": "71",
-                    "nameWeekend": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekend": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekend": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekend": "Kaposfüred forduló - Kaposszentjakab forduló",
+                    "stopsWeekend": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep","Zöld fűtőmű","Laktanya"
+                    ,"Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Rákóczi tér","Fő u. 37-39."
+                    ,"Hársfa u.","Hősök temploma","Gyár u.","Pécsi úti iskola","Nádasdi u.","Móricz Zs. u.","Pécsi u. 227.","Várhegy feljáró","Kaposszentjakab, forduló"],
+                    "stopsTimeWeekend": ["04:35", "04:37", "04:39", "04:41", "04:42", "04:43", "04:45", "04:46", "04:47", "04:49", "04:50", "04:51", "04:52", "04:53", "04:54", "04:56", "04:57", "04:58", "05:00", "05:01", "05:03", "05:04", "05:05", "05:06", "05:07", "05:09", "05:11", "05:13", "05:14", "05:15"]
+                },
+                {
+                    "startWeekend": "06:00",
+                    "numberWeekend": "71",
+                    "nameWeekend": "Kaposfüred forduló - Kaposszentjakab forduló",
+                    "stopsWeekend": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep","Zöld fűtőmű","Laktanya"
+                    ,"Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Rákóczi tér","Fő u. 37-39."
+                    ,"Hársfa u.","Hősök temploma","Gyár u.","Pécsi úti iskola","Nádasdi u.","Móricz Zs. u.","Pécsi u. 227.","Várhegy feljáró","Kaposszentjakab, forduló"],
+                    "stopsTimeWeekend": ["06:00", "06:02", "06:04", "06:06", "06:07", "06:08", "06:10", "06:11", "06:12", "06:14", "06:15", "06:16", "06:17", "06:18", "06:19", "06:21", "06:22", "06:23", "06:25", "06:26", "06:28", "06:29", "06:30", "06:31", "06:32", "06:34", "06:36", "06:38", "06:39", "06:40"]
+                },
+                {
+                    "startWeekend": "06:35",
+                    "numberWeekend": "71",
+                    "nameWeekend": "Kaposfüred forduló - Kaposszentjakab forduló",
+                    "stopsWeekend": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep","Zöld fűtőmű","Laktanya"
+                    ,"Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Rákóczi tér","Fő u. 37-39."
+                    ,"Hársfa u.","Hősök temploma","Gyár u.","Pécsi úti iskola","Nádasdi u.","Móricz Zs. u.","Pécsi u. 227.","Várhegy feljáró","Kaposszentjakab, forduló"],
+                    "stopsTimeWeekend": ["06:35", "06:37", "06:39", "06:41", "06:42", "06:43", "06:45", "06:46", "06:47", "06:49", "06:50", "06:51", "06:52", "06:53", "06:54", "06:56", "06:57", "06:58", "07:00", "07:01", "07:03", "07:04", "07:05", "07:06", "07:07", "07:09", "07:11", "07:13", "07:14", "07:15"]
+                },
+                {
+                    "startWeekend": "07:20",
+                    "numberWeekend": "71",
+                    "nameWeekend": "Kaposfüred forduló - Kaposszentjakab forduló",
+                    "stopsWeekend": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep","Zöld fűtőmű","Laktanya"
+                    ,"Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Rákóczi tér","Fő u. 37-39."
+                    ,"Hársfa u.","Hősök temploma","Gyár u.","Pécsi úti iskola","Nádasdi u.","Móricz Zs. u.","Pécsi u. 227.","Várhegy feljáró","Kaposszentjakab, forduló"],
+                    "stopsTimeWeekend": ["07:20", "07:22", "07:24", "07:26", "07:27", "07:28", "07:30", "07:31", "07:32", "07:34", "07:35", "07:36", "07:37", "07:38", "07:39", "07:41", "07:42", "07:43", "07:45", "07:46", "07:48", "07:49", "07:50", "07:51", "07:52", "07:54", "07:56", "07:58", "07:59", "08:00"]
+                },
+                {
+                    "startWeekend": "07:50",
+                    "numberWeekend": "71",
+                    "nameWeekend": "Kaposfüred forduló - Kaposszentjakab forduló",
+                    "stopsWeekend": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep","Zöld fűtőmű","Laktanya"
+                    ,"Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Rákóczi tér","Fő u. 37-39."
+                    ,"Hársfa u.","Hősök temploma","Gyár u.","Pécsi úti iskola","Nádasdi u.","Móricz Zs. u.","Pécsi u. 227.","Várhegy feljáró","Kaposszentjakab, forduló"],
+                    "stopsTimeWeekend": ["07:50", "07:52", "07:54", "07:56", "07:57", "07:58", "08:00", "08:01", "08:02", "08:04", "08:05", "08:06", "08:07", "08:08", "08:09", "08:11", "08:12", "08:13", "08:15", "08:16", "08:18", "08:19", "08:20", "08:21", "08:22", "08:24", "08:26", "08:28", "08:29", "08:30"]
+                },
+                {
+                    "startWeekend": "09:10",
+                    "numberWeekend": "71",
+                    "nameWeekend": "Kaposfüred forduló - Kaposszentjakab forduló",
+                    "stopsWeekend": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep","Zöld fűtőmű","Laktanya"
+                    ,"Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Rákóczi tér","Fő u. 37-39."
+                    ,"Hársfa u.","Hősök temploma","Gyár u.","Pécsi úti iskola","Nádasdi u.","Móricz Zs. u.","Pécsi u. 227.","Várhegy feljáró","Kaposszentjakab, forduló"],
+                    "stopsTimeWeekend": ["09:10", "09:12", "09:14", "09:16", "09:17", "09:18", "09:20", "09:21", "09:22", "09:24", "09:25", "09:26", "09:27", "09:28", "09:29", "09:31", "09:32", "09:33", "09:35", "09:36", "09:38", "09:39", "09:40", "09:41", "09:42", "09:44", "09:46", "09:48", "09:49", "09:50"]
+                },
+                {
+                    "startWeekend": "10:15",
+                    "numberWeekend": "71",
+                    "nameWeekend": "Kaposfüred forduló - Kaposszentjakab forduló",
+                    "stopsWeekend": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep","Zöld fűtőmű","Laktanya"
+                    ,"Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Rákóczi tér","Fő u. 37-39."
+                    ,"Hársfa u.","Hősök temploma","Gyár u.","Pécsi úti iskola","Nádasdi u.","Móricz Zs. u.","Pécsi u. 227.","Várhegy feljáró","Kaposszentjakab, forduló"],
+                    "stopsTimeWeekend": ["10:15", "10:17", "10:19", "10:21", "10:22", "10:23", "10:25", "10:26", "10:27", "10:29", "10:30", "10:31", "10:32", "10:33", "10:34", "10:36", "10:37", "10:38", "10:40", "10:41", "10:43", "10:44", "10:45", "10:46", "10:47", "10:49", "10:51", "10:53", "10:54", "10:55"]
+                },
+                {
+                    "startWeekend": "12:50",
+                    "numberWeekend": "71",
+                    "nameWeekend": "Kaposfüred forduló - Kaposszentjakab forduló",
+                    "stopsWeekend": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep","Zöld fűtőmű","Laktanya"
+                    ,"Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Rákóczi tér","Fő u. 37-39."
+                    ,"Hársfa u.","Hősök temploma","Gyár u.","Pécsi úti iskola","Nádasdi u.","Móricz Zs. u.","Pécsi u. 227.","Várhegy feljáró","Kaposszentjakab, forduló"],
+                    "stopsTimeWeekend": ["12:50", "12:52", "12:54", "12:56", "12:57", "12:58", "13:00", "13:01", "13:02", "13:04", "13:05", "13:06", "13:07", "13:08", "13:09", "13:11", "13:12", "13:13", "13:15", "13:16", "13:18", "13:19", "13:20", "13:21", "13:22", "13:24", "13:26", "13:28", "13:29", "13:30"]
+                },
+                {
+                    "startWeekend": "14:05",
+                    "numberWeekend": "71",
+                    "nameWeekend": "Kaposfüred forduló - Kaposszentjakab forduló",
+                    "stopsWeekend": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep","Zöld fűtőmű","Laktanya"
+                    ,"Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Rákóczi tér","Fő u. 37-39."
+                    ,"Hársfa u.","Hősök temploma","Gyár u.","Pécsi úti iskola","Nádasdi u.","Móricz Zs. u.","Pécsi u. 227.","Várhegy feljáró","Kaposszentjakab, forduló"],
+                    "stopsTimeWeekend": ["14:05", "14:07", "14:09", "14:11", "14:12", "14:13", "14:15", "14:16", "14:17", "14:19", "14:20", "14:21", "14:22", "14:23", "14:24", "14:26", "14:27", "14:28", "14:30", "14:31", "14:33", "14:34", "14:35", "14:36", "14:37", "14:39", "14:41", "14:43", "14:44", "14:45"]
+                },
+                {
+                    "startWeekend": "17:35",
+                    "numberWeekend": "71",
+                    "nameWeekend": "Kaposfüred forduló - Kaposszentjakab forduló",
+                    "stopsWeekend": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep","Zöld fűtőmű","Laktanya"
+                    ,"Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Rákóczi tér","Fő u. 37-39."
+                    ,"Hársfa u.","Hősök temploma","Gyár u.","Pécsi úti iskola","Nádasdi u.","Móricz Zs. u.","Pécsi u. 227.","Várhegy feljáró","Kaposszentjakab, forduló"],
+                    "stopsTimeWeekend": ["17:35", "17:37", "17:39", "17:41", "17:42", "17:43", "17:45", "17:46", "17:47", "17:49", "17:50", "17:51", "17:52", "17:53", "17:54", "17:56", "17:57", "17:58", "18:00", "18:01", "18:03", "18:04", "18:05", "18:06", "18:07", "18:09", "18:11", "18:13", "18:14", "18:15"]
+                },
+                {
+                    "startWeekend": "20:30",
+                    "numberWeekend": "71",
+                    "nameWeekend": "Kaposfüred forduló - Kaposszentjakab forduló",
+                    "stopsWeekend": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep","Zöld fűtőmű","Laktanya"
+                    ,"Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Rákóczi tér","Fő u. 37-39."
+                    ,"Hársfa u.","Hősök temploma","Gyár u.","Pécsi úti iskola","Nádasdi u.","Móricz Zs. u.","Pécsi u. 227.","Várhegy feljáró","Kaposszentjakab, forduló"],
+                    "stopsTimeWeekend": ["20:30", "20:32", "20:34", "20:36", "20:37", "20:38", "20:40", "20:41", "20:42", "20:44", "20:45", "20:46", "20:47", "20:48", "20:49", "20:51", "20:52", "20:53", "20:55", "20:56", "20:58", "20:59", "21:00", "21:01", "21:02", "21:04", "21:06", "21:08", "21:09", "21:10"]
+                },
+                {
+                    "startWeekend": "22:05",
+                    "numberWeekend": "71",
+                    "nameWeekend": "Kaposfüred forduló - Kaposszentjakab forduló",
+                    "stopsWeekend": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep","Zöld fűtőmű","Laktanya"
+                    ,"Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Rákóczi tér","Fő u. 37-39."
+                    ,"Hársfa u.","Hősök temploma","Gyár u.","Pécsi úti iskola","Nádasdi u.","Móricz Zs. u.","Pécsi u. 227.","Várhegy feljáró","Kaposszentjakab, forduló"],
+                    "stopsTimeWeekend": ["22:05", "22:07", "22:09", "22:11", "22:12", "22:13", "22:15", "22:16", "22:17", "22:19", "22:20", "22:21", "22:22", "22:23", "22:24", "22:26", "22:27", "22:28", "22:30", "22:31", "22:33", "22:34", "22:35", "22:36", "22:37", "22:39", "22:41", "22:43", "22:44", "22:45"]
                 },
         /*-----------------------------------------------------71 WEEKEND END-------------------------------------------------*/
         /*-----------------------------------------------------72 WEEKEND----------------------------------------------*/
                 {
-                    "startWeekend": "04:45",
+                    "startWeekend": "11:30",
                     "numberWeekend": "72",
-                    "nameWeekend": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekend": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekend": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekend": "Kaposfüred forduló - Hold u. - Kaposszentjakab forduló",
+                    "stopsWeekend": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Állomás u.","Kaposfüred, vá.","Állomás u.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep","Zöld fűtőmű","Laktanya"
+                    ,"Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Vasútállomás","Fő u. 48.","Hársfa u.","Hősök temploma","Gyár u.","Pécsi úti iskola"
+                    ,"Nádasdi u.","Nap u.","Hold u.","Nádasdi u.","Móricz Zs. u.","Pécsi u. 227.","Várhegy feljáró","Kaposzsentjakab, forduló"],
+                    "stopsTimeWeekend": ["11:30", "11:32", "11:33", "11:35", "11:36", "11:37", "11:39", "11:40", "11:41", "11:43", "11:44", "11:45", "11:46", "11:47", "11:48", "11:50", "11:51", "11:53", "11:55", "11:56", "11:57", "11:58", "11:59", "12:00", "12:01", "12:03", "12:05", "12:07", "12:09", "12:11", "12:12", "12:13", "12:14", "12:15"]
+                },
+                {
+                    "startWeekend": "16:35",
+                    "numberWeekend": "72",
+                    "nameWeekend": "Kaposfüred forduló - Hold u. - Kaposszentjakab forduló",
+                    "stopsWeekend": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Állomás u.","Kaposfüred, vá.","Állomás u.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep","Zöld fűtőmű","Laktanya"
+                    ,"Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Vasútállomás","Fő u. 48.","Hársfa u.","Hősök temploma","Gyár u.","Pécsi úti iskola"
+                    ,"Nádasdi u.","Nap u.","Hold u.","Nádasdi u.","Móricz Zs. u.","Pécsi u. 227.","Várhegy feljáró","Kaposzsentjakab, forduló"],
+                    "stopsTimeWeekend": ["16:35", "16:37", "16:38", "16:40", "16:41", "16:42", "16:44", "16:45", "16:46", "16:48", "16:49", "16:50", "16:51", "16:52", "16:53", "16:55", "16:56", "16:58", "17:00", "17:01", "17:02", "17:03", "17:04", "17:05", "17:06", "17:08", "17:10", "17:12", "17:14", "17:16", "17:17", "17:18", "17:19", "17:20"]
+                },
+                {
+                    "startWeekend": "19:05",
+                    "numberWeekend": "72",
+                    "nameWeekend": "Kaposfüred forduló - Hold u. - Kaposszentjakab forduló",
+                    "stopsWeekend": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Állomás u.","Kaposfüred, vá.","Állomás u.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep","Zöld fűtőmű","Laktanya"
+                    ,"Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás","Vasútállomás","Fő u. 48.","Hársfa u.","Hősök temploma","Gyár u.","Pécsi úti iskola"
+                    ,"Nádasdi u.","Nap u.","Hold u.","Nádasdi u.","Móricz Zs. u.","Pécsi u. 227.","Várhegy feljáró","Kaposzsentjakab, forduló"],
+                    "stopsTimeWeekend": ["19:05", "19:07", "19:08", "19:10", "19:11", "19:12", "19:14", "19:15", "19:16", "19:18", "19:19", "19:20", "19:21", "19:22", "19:23", "19:25", "19:26", "19:28", "19:30", "19:31", "19:32", "19:33", "19:34", "19:35", "19:36", "19:38", "19:40", "19:42", "19:44", "19:46", "19:47", "19:48", "19:49", "19:50"]
                 },
         /*-----------------------------------------------------72 WEEKEND END-------------------------------------------------*/
         /*-----------------------------------------------------75 WEEKEND----------------------------------------------*/
                 {
-                    "startWeekend": "04:45",
+                    "startWeekend": "05:45",
                     "numberWeekend": "75",
-                    "nameWeekend": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekend": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekend": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekend": "Helyi autóbusz-állomás - Kaposszentjakab",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Rákóczi tér","Fő u. 37-39.","Hársfa u.","Hősök temploma","Gyár u.","Pécsi úti iskola","Nádasdi u.","Móricz Zs. u.","Pécsi u. 227.","Várhegy feljáró","Kaposszentjakab, forduló"],
+                    "stopsTimeWeekend": ["05:45", "05:47", "05:49", "05:50", "05:51", "05:52", "05:54", "05:55", "05:57", "05:58", "05:59", "06:00"]
                 },
         /*-----------------------------------------------------75 WEEKEND END-------------------------------------------------*/
         /*-----------------------------------------------------83 WEEKEND----------------------------------------------*/
                 {
-                    "startWeekend": "04:45",
+                    "startWeekend": "04:40",
                     "numberWeekend": "83",
-                    "nameWeekend": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekend": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekend": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekend": "Helyi autóbusz-állomás - Szabó P. u. - Toponár forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Vasútálomás","Fő u. 48.","Hársfa u.","Hősök temploma","Mező u. csp.","Izzó u.","Guba S. u. 57","Guba S. u. 81.","Villamossági Gyár","Kaposvári Egyetem","Toponár, posta"
+                    ,"Toponár, Orci elágazás","Toponár, Orci út","Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponári u. 182.","Toponári u. 238.","Toponár, forduló"],
+                    "stopsTimeWeekend": ["04:40", "04:41", "04:43", "04:44", "04:45", "04:46", "04:47", "04:48", "04:49", "04:50", "04:51", "04:52", "04:53", "04:54", "04:55", "04:56", "04:57", "04:58", "04:59", "05:00", "05:01"]
+                },
+                {
+                    "startWeekend": "05:35",
+                    "numberWeekend": "83",
+                    "nameWeekend": "Helyi autóbusz-állomás - Szabó P. u. - Toponár forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Vasútálomás","Fő u. 48.","Hársfa u.","Hősök temploma","Mező u. csp.","Izzó u.","Guba S. u. 57","Guba S. u. 81.","Villamossági Gyár","Kaposvári Egyetem","Toponár, posta"
+                    ,"Toponár, Orci elágazás","Toponár, Orci út","Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponári u. 182.","Toponári u. 238.","Toponár, forduló"],
+                    "stopsTimeWeekend": ["05:35", "05:36", "05:39", "05:40", "05:41", "05:43", "05:44", "05:45", "05:46", "05:47", "05:49", "05:51", "05:52", "05:53", "05:54", "05:55", "05:56", "05:57", "05:58", "05:59", "06:00"]
+                },
+                {
+                    "startWeekend": "06:35",
+                    "numberWeekend": "83",
+                    "nameWeekend": "Helyi autóbusz-állomás - Szabó P. u. - Toponár forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Vasútálomás","Fő u. 48.","Hársfa u.","Hősök temploma","Mező u. csp.","Izzó u.","Guba S. u. 57","Guba S. u. 81.","Villamossági Gyár","Kaposvári Egyetem","Toponár, posta"
+                    ,"Toponár, Orci elágazás","Toponár, Orci út","Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponári u. 182.","Toponári u. 238.","Toponár, forduló"],
+                    "stopsTimeWeekend": ["06:35", "06:36", "06:39", "06:40", "06:41", "06:43", "06:44", "06:45", "06:46", "06:47", "06:49", "06:51", "06:52", "06:53", "06:54", "06:55", "06:56", "06:57", "06:58", "06:59", "07:00"]
+                },
+                {
+                    "startWeekend": "07:25",
+                    "numberWeekend": "83",
+                    "nameWeekend": "Helyi autóbusz-állomás - Szabó P. u. - Toponár forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Vasútálomás","Fő u. 48.","Hársfa u.","Hősök temploma","Mező u. csp.","Izzó u.","Guba S. u. 57","Guba S. u. 81.","Villamossági Gyár","Kaposvári Egyetem","Toponár, posta"
+                    ,"Toponár, Orci elágazás","Toponár, Orci út","Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponári u. 182.","Toponári u. 238.","Toponár, forduló"],
+                    "stopsTimeWeekend": ["07:25", "07:26", "07:29", "07:30", "07:31", "07:33", "07:34", "07:35", "07:36", "07:37", "07:39", "07:41", "07:42", "07:43", "07:44", "07:45", "07:46", "07:47", "07:48", "07:49", "07:50"]
+                },
+                {
+                    "startWeekend": "08:45",
+                    "numberWeekend": "83",
+                    "nameWeekend": "Helyi autóbusz-állomás - Szabó P. u. - Toponár forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Vasútálomás","Fő u. 48.","Hársfa u.","Hősök temploma","Mező u. csp.","Izzó u.","Guba S. u. 57","Guba S. u. 81.","Villamossági Gyár","Kaposvári Egyetem","Toponár, posta"
+                    ,"Toponár, Orci elágazás","Toponár, Orci út","Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponári u. 182.","Toponári u. 238.","Toponár, forduló"],
+                    "stopsTimeWeekend": ["08:45", "08:46", "08:49", "08:50", "08:51", "08:53", "08:54", "08:55", "08:56", "08:57", "08:59", "09:01", "09:02", "09:03", "09:04", "09:05", "09:06", "09:07", "09:08", "09:09", "09:10"]
+                },
+                {
+                    "startWeekend": "10:35",
+                    "numberWeekend": "83",
+                    "nameWeekend": "Helyi autóbusz-állomás - Szabó P. u. - Toponár forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Vasútálomás","Fő u. 48.","Hársfa u.","Hősök temploma","Mező u. csp.","Izzó u.","Guba S. u. 57","Guba S. u. 81.","Villamossági Gyár","Kaposvári Egyetem","Toponár, posta"
+                    ,"Toponár, Orci elágazás","Toponár, Orci út","Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponári u. 182.","Toponári u. 238.","Toponár, forduló"],
+                    "stopsTimeWeekend": ["10:35", "10:36", "10:39", "10:40", "10:41", "10:43", "10:44", "10:45", "10:46", "10:47", "10:49", "10:51", "10:52", "10:53", "10:54", "10:55", "10:56", "10:57", "10:58", "10:59", "11:00"]
+                },
+                {
+                    "startWeekend": "11:35",
+                    "numberWeekend": "83",
+                    "nameWeekend": "Helyi autóbusz-állomás - Szabó P. u. - Toponár forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Vasútálomás","Fő u. 48.","Hársfa u.","Hősök temploma","Mező u. csp.","Izzó u.","Guba S. u. 57","Guba S. u. 81.","Villamossági Gyár","Kaposvári Egyetem","Toponár, posta"
+                    ,"Toponár, Orci elágazás","Toponár, Orci út","Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponári u. 182.","Toponári u. 238.","Toponár, forduló"],
+                    "stopsTimeWeekend": ["11:35", "11:36", "11:39", "11:40", "11:41", "11:43", "11:44", "11:45", "11:46", "11:47", "11:49", "11:51", "11:52", "11:53", "11:54", "11:55", "11:56", "11:57", "11:58", "11:59", "12:00"]
+                },
+                {
+                    "startWeekend": "12:25",
+                    "numberWeekend": "83",
+                    "nameWeekend": "Helyi autóbusz-állomás - Szabó P. u. - Toponár forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Vasútálomás","Fő u. 48.","Hársfa u.","Hősök temploma","Mező u. csp.","Izzó u.","Guba S. u. 57","Guba S. u. 81.","Villamossági Gyár","Kaposvári Egyetem","Toponár, posta"
+                    ,"Toponár, Orci elágazás","Toponár, Orci út","Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponári u. 182.","Toponári u. 238.","Toponár, forduló"],
+                    "stopsTimeWeekend": ["12:25", "12:26", "12:29", "12:30", "12:31", "12:33", "12:34", "12:35", "12:36", "12:37", "12:39", "12:41", "12:42", "12:43", "12:44", "12:45", "12:46", "12:47", "12:48", "12:49", "12:50"]
+                },
+                {
+                    "startWeekend": "13:35",
+                    "numberWeekend": "83",
+                    "nameWeekend": "Helyi autóbusz-állomás - Szabó P. u. - Toponár forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Vasútálomás","Fő u. 48.","Hársfa u.","Hősök temploma","Mező u. csp.","Izzó u.","Guba S. u. 57","Guba S. u. 81.","Villamossági Gyár","Kaposvári Egyetem","Toponár, posta"
+                    ,"Toponár, Orci elágazás","Toponár, Orci út","Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponári u. 182.","Toponári u. 238.","Toponár, forduló"],
+                    "stopsTimeWeekend": ["13:35", "13:36", "13:39", "13:40", "13:41", "13:43", "13:44", "13:45", "13:46", "13:47", "13:49", "13:51", "13:52", "13:53", "13:54", "13:55", "13:56", "13:57", "13:58", "13:59", "14:00"]
+                },
+                {
+                    "startWeekend": "14:35",
+                    "numberWeekend": "83",
+                    "nameWeekend": "Helyi autóbusz-állomás - Szabó P. u. - Toponár forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Vasútálomás","Fő u. 48.","Hársfa u.","Hősök temploma","Mező u. csp.","Izzó u.","Guba S. u. 57","Guba S. u. 81.","Villamossági Gyár","Kaposvári Egyetem","Toponár, posta"
+                    ,"Toponár, Orci elágazás","Toponár, Orci út","Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponári u. 182.","Toponári u. 238.","Toponár, forduló"],
+                    "stopsTimeWeekend": ["14:35", "14:36", "14:39", "14:40", "14:41", "14:43", "14:44", "14:45", "14:46", "14:47", "14:49", "14:51", "14:52", "14:53", "14:54", "14:55", "14:56", "14:57", "14:58", "14:59", "15:00"]
+                },
+                {
+                    "startWeekend": "15:55",
+                    "numberWeekend": "83",
+                    "nameWeekend": "Helyi autóbusz-állomás - Szabó P. u. - Toponár forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Vasútálomás","Fő u. 48.","Hársfa u.","Hősök temploma","Mező u. csp.","Izzó u.","Guba S. u. 57","Guba S. u. 81.","Villamossági Gyár","Kaposvári Egyetem","Toponár, posta"
+                    ,"Toponár, Orci elágazás","Toponár, Orci út","Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponári u. 182.","Toponári u. 238.","Toponár, forduló"],
+                    "stopsTimeWeekend": ["15:55", "15:56", "15:59", "16:00", "16:01", "16:03", "16:04", "16:05", "16:06", "16:07", "16:09", "16:11", "16:12", "16:13", "16:14", "16:15", "16:16", "16:17", "16:18", "16:19", "16:20"]
+                },
+                {
+                    "startWeekend": "17:20",
+                    "numberWeekend": "83",
+                    "nameWeekend": "Helyi autóbusz-állomás - Szabó P. u. - Toponár forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Vasútálomás","Fő u. 48.","Hársfa u.","Hősök temploma","Mező u. csp.","Izzó u.","Guba S. u. 57","Guba S. u. 81.","Villamossági Gyár","Kaposvári Egyetem","Toponár, posta"
+                    ,"Toponár, Orci elágazás","Toponár, Orci út","Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponári u. 182.","Toponári u. 238.","Toponár, forduló"],
+                    "stopsTimeWeekend": ["17:20", "17:21", "17:24", "17:25", "17:26", "17:28", "17:29", "17:30", "17:31", "17:32", "17:34", "17:36", "17:37", "17:38", "17:39", "17:40", "17:41", "17:42", "17:43", "17:44", "17:45"]
+                },
+                {
+                    "startWeekend": "18:15",
+                    "numberWeekend": "83",
+                    "nameWeekend": "Helyi autóbusz-állomás - Szabó P. u. - Toponár forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Vasútálomás","Fő u. 48.","Hársfa u.","Hősök temploma","Mező u. csp.","Izzó u.","Guba S. u. 57","Guba S. u. 81.","Villamossági Gyár","Kaposvári Egyetem","Toponár, posta"
+                    ,"Toponár, Orci elágazás","Toponár, Orci út","Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponári u. 182.","Toponári u. 238.","Toponár, forduló"],
+                    "stopsTimeWeekend": ["18:15", "18:16", "18:19", "18:20", "18:21", "18:23", "18:24", "18:25", "18:26", "18:27", "18:29", "18:31", "18:32", "18:33", "18:34", "18:35", "18:36", "18:37", "18:38", "18:39", "18:40"]
+                },
+                {
+                    "startWeekend": "19:05",
+                    "numberWeekend": "83",
+                    "nameWeekend": "Helyi autóbusz-állomás - Szabó P. u. - Toponár forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Vasútálomás","Fő u. 48.","Hársfa u.","Hősök temploma","Mező u. csp.","Izzó u.","Guba S. u. 57","Guba S. u. 81.","Villamossági Gyár","Kaposvári Egyetem","Toponár, posta"
+                    ,"Toponár, Orci elágazás","Toponár, Orci út","Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponári u. 182.","Toponári u. 238.","Toponár, forduló"],
+                    "stopsTimeWeekend": ["19:05", "19:06", "19:09", "19:10", "19:11", "19:13", "19:14", "19:15", "19:16", "19:17", "19:19", "19:21", "19:22", "19:23", "19:24", "19:25", "19:26", "19:27", "19:28", "19:29", "19:30"]
+                },
+                {
+                    "startWeekend": "21:20",
+                    "numberWeekend": "83",
+                    "nameWeekend": "Helyi autóbusz-állomás - Szabó P. u. - Toponár forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Vasútálomás","Fő u. 48.","Hársfa u.","Hősök temploma","Mező u. csp.","Izzó u.","Guba S. u. 57","Guba S. u. 81.","Villamossági Gyár","Kaposvári Egyetem","Toponár, posta"
+                    ,"Toponár, Orci elágazás","Toponár, Orci út","Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponári u. 182.","Toponári u. 238.","Toponár, forduló"],
+                    "stopsTimeWeekend": ["21:20", "21:21", "21:24", "21:25", "21:26", "21:28", "21:29", "21:31", "21:33", "21:35", "21:37", "21:39", "21:40", "21:41", "21:42", "21:43", "21:44", "21:46", "21:47", "21:48", "21:49", "21:50", "21:51", "21:52", "21:53", "21:54", "21:55"]
+                },
+                {
+                    "startWeekend": "22:30",
+                    "numberWeekend": "83",
+                    "nameWeekend": "Helyi autóbusz-állomás - Szabó P. u. - Toponár forduló",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Vasútálomás","Fő u. 48.","Hársfa u.","Hősök temploma","Mező u. csp.","Izzó u.","Guba S. u. 57","Guba S. u. 81.","Villamossági Gyár","Kaposvári Egyetem","Toponár, posta"
+                    ,"Toponár, Orci elágazás","Toponár, Orci út","Toponár, Szabó P. u.","Toponár, Erdei F. u.","Toponár, Orci út","Toponár, Orci elágazás","Toponári u. 182.","Toponári u. 238.","Toponár, forduló"],
+                    "stopsTimeWeekend": ["22:30", "22:31", "22:32", "22:33", "22:34", "22:35", "22:36", "22:37", "22:38", "22:39", "22:40", "22:41", "22:42", "22:43", "22:44", "22:45", "22:46", "22:47", "22:48", "22:49", "22:50"]
                 },
         /*-----------------------------------------------------83 WEEKEND END-------------------------------------------------*/
         /*-----------------------------------------------------87 WEEKEND----------------------------------------------*/
                 {
-                    "startWeekend": "04:45",
+                    "startWeekend": "05:30",
                     "numberWeekend": "87",
-                    "nameWeekend": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekend": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekend": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekend": "Helyi autóbusz állomás - Videoton - METYX",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Vasútálomás","Fő u. 48.","Hársfa u.","Hősök temploma","Mező u. csp.","Kenyérgyár u. 1.","Videoton","Dombóvári u. 4.","METYX"],
+                    "stopsTimeWeekend": ["05:30", "05:32", "05:34", "05:35", "05:36", "05:38", "05:39", "05:41", "05:43", "05:45"]
                 },
         /*-----------------------------------------------------87 WEEKEND END-------------------------------------------------*/
         /*-----------------------------------------------------88 WEEKEND----------------------------------------------*/
                 {
-                    "startWeekend": "04:45",
+                    "startWeekend": "13:20",
                     "numberWeekend": "88",
-                    "nameWeekend": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekend": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekend": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekend": "Helyi autóbusz-állomás - Videoton",
+                    "stopsWeekend": ["Helyi autóbusz-állomás","Vasútálomás","Fő u. 48.","Hársfa u.","Hősök temploma","Mező u. csp.","Kenyérgyár u. 1.","Videoton"],
+                    "stopsTimeWeekend": ["13:20", "13:22", "13:24", "13:25", "13:26", "13:28", "13:29", "13:31"]
                 },
         /*-----------------------------------------------------88 WEEKEND END-------------------------------------------------*/
         /*-----------------------------------------------------31 WEEKEND BACK-----------------------------------------*/
@@ -4241,11 +4971,13 @@
         /*-----------------------------------------------------42 WEEKEND BACK END--------------------------------------------*/
         /*-----------------------------------------------------47 WEEKEND BACK-----------------------------------------*/
                 {
-                    "startWeekendBack": "04:45",
+                    "startWeekendBack": "05:20",
                     "numberWeekendBack": "47",
-                    "nameWeekendBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekendBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekendBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekendBack": "Kaposfüred forduló - Koppány vezér u.- Kórház",
+                    "stopsWeekendBack": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Állomás u.","Kaposfüred vá.","Állomás u.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep"
+                    ,"Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","ÁNTSZ","Rendőrség","Szent Imre u. 29."
+                    ,"Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","67-es sz. út","Rózsa u.","Erdősor u.","Koppány vezér u."],
+                    "stopsTimeWeekendBack": ["05:20", "05:21", "05:22", "05:24", "05:26", "05:28", "05:29", "05:30", "05:31", "05:33", "05:35", "05:36", "05:37", "05:38", "05:40", "05:42", "05:44", "05:45", "05:47", "05:48", "05:50", "05:52", "05:54", "05:56", "05:57", "05:59", "06:00"]
                 },
         /*-----------------------------------------------------47 WEEKEND BACK END--------------------------------------------*/
         /*-----------------------------------------------------51 WEEKEND BACK-----------------------------------------*/
@@ -4259,29 +4991,95 @@
         /*-----------------------------------------------------51 WEEKEND BACK END--------------------------------------------*/
         /*-----------------------------------------------------61 WEEKEND BACK-----------------------------------------*/
                 {
-                    "startWeekendBack": "04:45",
+                    "startWeekendBack": "07:20",
                     "numberWeekendBack": "61",
-                    "nameWeekendBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekendBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekendBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekendBack": "Béla király u. - Helyi- autóbuszállomás",
+                    "stopsWeekendBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Baross G. u.","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekendBack": ["07:20", "07:21", "07:22", "07:24", "07:28"]
+                },
+                {
+                    "startWeekendBack": "08:20",
+                    "numberWeekendBack": "61",
+                    "nameWeekendBack": "Béla király u. - Helyi- autóbuszállomás",
+                    "stopsWeekendBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Baross G. u.","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekendBack": ["08:20", "08:21", "08:22", "08:24", "08:28"]
+                },
+                {
+                    "startWeekendBack": "10:00",
+                    "numberWeekendBack": "61",
+                    "nameWeekendBack": "Béla király u. - Helyi- autóbuszállomás",
+                    "stopsWeekendBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Baross G. u.","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekendBack": ["10:00", "10:01", "10:02", "10:04", "10:08"]
+                },
+                {
+                    "startWeekendBack": "13:20",
+                    "numberWeekendBack": "61",
+                    "nameWeekendBack": "Béla király u. - Helyi- autóbuszállomás",
+                    "stopsWeekendBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Baross G. u.","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekendBack": ["13:20", "13:21", "13:22", "13:24", "13:28"]
+                },
+                {
+                    "startWeekendBack": "14:35",
+                    "numberWeekendBack": "61",
+                    "nameWeekendBack": "Béla király u. - Helyi- autóbuszállomás",
+                    "stopsWeekendBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Baross G. u.","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekendBack": ["14:35", "14:36", "14:37", "14:39", "14:43"]
+                },
+                {
+                    "startWeekendBack": "20:05",
+                    "numberWeekendBack": "61",
+                    "nameWeekendBack": "Béla király u. - Helyi- autóbuszállomás",
+                    "stopsWeekendBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Baross G. u.","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekendBack": ["20:05", "20:06", "20:07", "20:09", "20:13"]
                 },
         /*-----------------------------------------------------61 WEEKEND BACK END--------------------------------------------*/
         /*-----------------------------------------------------62 WEEKEND BACK-----------------------------------------*/
                 {
-                    "startWeekendBack": "04:45",
+                    "startWeekendBack": "09:15",
                     "numberWeekendBack": "62",
-                    "nameWeekendBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekendBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekendBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekendBack": "Béla király u. - Városi fürdő - Helyi autóbusz-állomás",
+                    "stopsWeekendBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Városi fürdő","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekendBack": ["09:15", "09:16", "09:17", "09:19", "09:22", "09:25"]
+                },
+                {
+                    "startWeekendBack": "11:00",
+                    "numberWeekendBack": "62",
+                    "nameWeekendBack": "Béla király u. - Városi fürdő - Helyi autóbusz-állomás",
+                    "stopsWeekendBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Városi fürdő","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekendBack": ["11:00", "11:01", "11:02", "11:04", "11:07", "11:10"]
+                },
+                {
+                    "startWeekendBack": "12:20",
+                    "numberWeekendBack": "62",
+                    "nameWeekendBack": "Béla király u. - Városi fürdő - Helyi autóbusz-állomás",
+                    "stopsWeekendBack": ["Béla király u.","Vikár B.u.","Csalogány u.","Városi fürdő","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekendBack": ["12:20", "12:21", "12:22", "12:24", "12:27", "12:30"]
                 },
         /*-----------------------------------------------------62 WEEKEND BACK END--------------------------------------------*/
         /*-----------------------------------------------------70 WEEKEND BACK-----------------------------------------*/
                 {
-                    "startWeekendBack": "04:45",
+                    "startWeekendBack": "10:35",
                     "numberWeekendBack": "70",
-                    "nameWeekendBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekendBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekendBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekendBack": "Kaposfüred - Helyi autóbusz-állomás",
+                    "stopsWeekendBack": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Állomás u.","Kaposfüred vá.","Állomás u.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep"
+                    ,"Zöld Fűtőmű","Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekendBack": ["10:35", "10:36", "10:37", "10:39", "10:41", "10:43", "10:44", "10:45", "10:46", "10:48", "10:49", "10:50", "10:51", "10:52", "10:53", "10:55", "10:56", "10:58", "11:00"]
+                },
+                {
+                    "startWeekendBack": "15:20",
+                    "numberWeekendBack": "70",
+                    "nameWeekendBack": "Kaposfüred - Helyi autóbusz-állomás",
+                    "stopsWeekendBack": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Állomás u.","Kaposfüred vá.","Állomás u.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep"
+                    ,"Zöld Fűtőmű","Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekendBack": ["15:20", "15:21", "15:22", "15:24", "15:26", "15:28", "15:29", "15:30", "15:31", "15:33", "15:34", "15:35", "15:36", "15:37", "15:38", "15:40", "15:41", "15:43", "15:45"]
+                },
+                {
+                    "startWeekendBack": "22:45",
+                    "numberWeekendBack": "70",
+                    "nameWeekendBack": "Kaposfüred - Helyi autóbusz-állomás",
+                    "stopsWeekendBack": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Állomás u.","Kaposfüred vá.","Állomás u.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep"
+                    ,"Zöld Fűtőmű","Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekendBack": ["22:45", "22:46", "22:47", "22:49", "22:51", "22:53", "22:54", "22:55", "22:56", "22:58", "22:59", "23:00", "23:01", "23:02", "23:03", "23:05", "23:06", "23:08", "23:10"]
                 },
         /*-----------------------------------------------------70 WEEKEND BACK END--------------------------------------------*/
         /*-----------------------------------------------------71 WEEKEND BACK-----------------------------------------*/
@@ -4295,20 +5093,49 @@
         /*-----------------------------------------------------71 WEEKEND BACK END--------------------------------------------*/
         /*-----------------------------------------------------72 WEEKEND BACK-----------------------------------------*/
                 {
-                    "startWeekendBack": "04:45",
+                    "startWeekendBack": "05:15",
                     "numberWeekendBack": "72",
-                    "nameWeekendBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekendBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekendBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekendBack": "Kaposszentjakab forduló - Hold u. - Kaposfüred forduló",
+                    "stopsWeekendBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Nap u.","Hold u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma"
+                    ,"Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont"
+                    ,"Toldi lakónyegyed","Kinizsi ltp.","Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeWeekendBack": ["05:15", "05:16", "05:17", "05:18", "05:19", "05:20", "05:22", "05:24", "05:25", "05:27", "05:28", "05:29", "05:31", "05:32", "05:33", "05:35", "05:37", "05:38", "05:40", "05:41", "05:42", "05:43", "05:44", "05:45", "05:46", "05:50", "05:52", "05:53", "05:54", "05:55"]
+                },
+                {
+                    "startWeekendBack": "06:40",
+                    "numberWeekendBack": "72",
+                    "nameWeekendBack": "Kaposszentjakab forduló - Hold u. - Kaposfüred forduló",
+                    "stopsWeekendBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Nap u.","Hold u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma"
+                    ,"Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont"
+                    ,"Toldi lakónyegyed","Kinizsi ltp.","Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeWeekendBack": ["06:40", "06:41", "06:42", "06:43", "06:44", "06:45", "06:47", "06:49", "06:50", "06:52", "06:53", "06:54", "06:56", "06:57", "06:58", "07:00", "07:02", "07:03", "07:05", "07:06", "07:07", "07:08", "07:09", "07:10", "07:11", "07:15", "07:17", "07:18", "07:19", "07:20"]
+                },
+                {
+                    "startWeekendBack": "08:30",
+                    "numberWeekendBack": "72",
+                    "nameWeekendBack": "Kaposszentjakab forduló - Hold u. - Kaposfüred forduló",
+                    "stopsWeekendBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Nap u.","Hold u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma"
+                    ,"Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont"
+                    ,"Toldi lakónyegyed","Kinizsi ltp.","Búzavirág u.","Laktanya","Zöld Fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
+                    "stopsTimeWeekendBack": ["08:30", "08:31", "08:32", "08:33", "08:34", "08:35", "08:37", "08:39", "08:40", "08:42", "08:43", "08:44", "08:46", "08:47", "08:48", "08:50", "08:52", "08:53", "08:55", "08:56", "08:57", "08:58", "08:59", "09:00", "09:01", "09:05", "09:07", "09:08", "09:09", "09:10"]
                 },
         /*-----------------------------------------------------72 WEEKEND BACK END--------------------------------------------*/
         /*-----------------------------------------------------75 WEEKEND BACK-----------------------------------------*/
                 {
-                    "startWeekendBack": "04:45",
+                    "startWeekendBack": "17:20",
                     "numberWeekendBack": "75",
-                    "nameWeekendBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekendBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekendBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekendBack": "Kaposszentjakab - Helyi autóbusz-állomás",
+                    "stopsWeekendBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma"
+                    ,"Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekendBack": ["17:20", "17:21", "17:22", "17:23", "17:25", "17:26", "17:28", "17:29", "17:30", "17:31", "17:33", "17:35"]
+                },
+                {
+                    "startWeekendBack": "22:45",
+                    "numberWeekendBack": "75",
+                    "nameWeekendBack": "Kaposszentjakab - Helyi autóbusz-állomás",
+                    "stopsWeekendBack": ["Kaposszentjakab, forduló","Várhegy feljáró","Pécsi u. 277.","Móricz Zs. u.","Nádasdi u.","Pécsi úti iskola","Gyár u.","Hősök temploma"
+                    ,"Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekendBack": ["22:45", "22:46", "22:47", "22:48", "22:50", "22:51", "22:53", "22:54", "22:55", "22:56", "22:58", "23:00"]
                 },
         /*-----------------------------------------------------75 WEEKEND BACK END--------------------------------------------*/
         /*-----------------------------------------------------83 WEEKEND BACK-----------------------------------------*/
@@ -4322,21 +5149,19 @@
         /*-----------------------------------------------------83 WEEKEND BACK END--------------------------------------------*/
         /*-----------------------------------------------------87 WEEKEND BACK-----------------------------------------*/
                 {
-                    "startWeekendBack": "04:45",
+                    "startWeekendBack": "06:10",
                     "numberWeekendBack": "87",
-                    "nameWeekendBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekendBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekendBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "nameWeekendBack": "METYX - Videoton - Helyi autóbusz állomás",
+                    "stopsWeekendBack": ["METYX","Dombóvári u. 4.","Videoton","Kenyérgyár u. 3.","Kenyérgyár u. 1.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekendBack": ["06:10", "06:12", "06:14", "06:15", "06:16", "06:17", "06:19", "06:21", "06:22", "06:24", "06:25"]
                 },
-        /*-----------------------------------------------------87 WEEKEND BACK END--------------------------------------------*/
-        /*-----------------------------------------------------88 WEEKEND BACK-----------------------------------------*/
                 {
-                    "startWeekendBack": "04:45",
-                    "numberWeekendBack": "88",
-                    "nameWeekendBack": "Laktanya - Sopron u. - Helyi autóbusz-állomás",
-                    "stopsWeekendBack": ["Laktanya","Búzavirág u.","Nagyszeben u.","Losonc-köz","Arany J. tér","Honvéd u.","Somssich P. u.","Szent Imre u. 13.","Széchényi tér","Rákóczi tér","Helyi autóbusz-állomás"],
-                    "stopsTimeWeekendBack": ["04:45","04:46","04:48","04:49","04:51","04:53","04:55","04:57","04:58","04:59","05:00"]
+                    "startWeekendBack": "14:05",
+                    "numberWeekendBack": "87",
+                    "nameWeekendBack": "METYX - Videoton - Helyi autóbusz állomás",
+                    "stopsWeekendBack": ["METYX","Dombóvári u. 4.","Videoton","Kenyérgyár u. 3.","Kenyérgyár u. 1.","Mező u. csp.","Hősök temploma","Hársfa u.","Fő u. 37-39.","Rákóczi tér","Helyi autóbusz-állomás"],
+                    "stopsTimeWeekendBack": ["14:05", "14:07", "14:09", "14:10", "14:11", "14:12", "14:14", "14:16", "14:17", "14:19", "14:20"]
                 }
-        /*-----------------------------------------------------88 WEEKEND BACK END--------------------------------------------*/
+        /*-----------------------------------------------------87 WEEKEND BACK END--------------------------------------------*/
         ]
 }
