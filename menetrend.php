@@ -791,8 +791,8 @@ function updateBusRoutes() {
             {
                 "number": "62",
                 "name": "Helyi autóbusz-állomás - Városi fürdő - Béla király u.",
-                "stops": ["Helyi aiutóbusz-állomás","Berzsenyi u. felüljáró","Városi fürdő","Csalogány u.","Vikár B. u.","Béla király u."],
-                "reverseRoute": ["Béla király u.","Vikár B.u.","Csalogány u.","Városi fürdő","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                "stops": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Városi fürdő","Csalogány u.","Vikár B. u.","Béla király u."],
+                "reverseRoute": ["Béla király u.","Vikár B.u.","Csalogány u.","Városi fürdő","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
                 "start": ["06:40","07:05","07:25","10:10","12:10","13:00"],
                 "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
                 "startWeekend": ["09:50","13:10"],
@@ -804,7 +804,7 @@ function updateBusRoutes() {
                 "stops": ["Helyi autóbusz-állomás","Berzsenyi u. felüljáró","Berzsenyi u. 30.","Füredi utcai csomópont","Toldi lakónegyed"
                 ,"Kinizsi ltp.","Búzavirág u.","Laktanya","Zöld fűtőmű","Volán-telep","Kaposfüredi u. 12.","Kaposfüredi u. 104.","Kaposfüred, központ","Kaposfüredi u. 244.","Kaposfüred, forduló"],
                 "reverseRoute": ["Kaposfüred, forduló","Kaposfüredi u. 244.","Kaposfüred, központ","Állomás u.","Kaposfüred vá.","Állomás u.","Kaposfüred, központ","Kaposfüredi u. 104.","Kaposfüredi u. 12.","Volán-telep"
-                ,"Zöld Fűtőmű","Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi aiutóbusz-állomás"],
+                ,"Zöld Fűtőmű","Laktanya","Búzavirág u.","Kinizsi ltp.","Toldi lakónegyed","Füredi utcai csomópont","Berzsenyi u. 30.","Berzsenyi u. felüljáró","Helyi autóbusz-állomás"],
                 "start": ["04:25","06:45","07:05","09:40","10:20","11:35","13:45","15:25","21:45"],
                 "dayGoes": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
                 "startWeekend": ["09:55"],
